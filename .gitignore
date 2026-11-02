@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+*.pdf
+*.jpg
+*.png
+!docs/**/*.png
+.cache/
+.DS_Store
