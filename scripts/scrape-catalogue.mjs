@@ -129,12 +129,38 @@ async function main() {
       continue;
     }
 
-    const url = `${BASE}/${collection}/`;
     try {
-      const res = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' } });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const html = await res.text();
-      const books = parseCollection(html);
+      // Collection pages paginate at 48 entries: "114 books • page 1/3", with
+      // page 2 at /<collection>/page/2/. Reading only page 1 silently loses
+      // most of the large sharh collections.
+      const books = [];
+      const seenSlugs = new Set();
+      let page = 1;
+      let totalPages = 1;
+
+      for (;;) {
+        const url = page === 1 ? `${BASE}/${collection}/` : `${BASE}/${collection}/page/${page}/`;
+        const res = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' } });
+        if (!res.ok) throw new Error(`HTTP ${res.status} on page ${page}`);
+        const html = await res.text();
+
+        if (page === 1) {
+          const m = html.match(/page\s*(\d+)\s*\/\s*(\d+)/i);
+          if (m) totalPages = Number(m[2]);
+        }
+
+        let added = 0;
+        for (const b of parseCollection(html)) {
+          if (seenSlugs.has(b.slug)) continue;
+          seenSlugs.add(b.slug);
+          books.push(b);
+          added++;
+        }
+
+        if (page >= totalPages || added === 0 || page >= 20) break;
+        page++;
+        await sleep(DELAY_MS);
+      }
 
       if (books.length === 0) {
         console.warn(`WARN    ${collection}: parsed 0 books — page markup may have changed`);
@@ -142,7 +168,10 @@ async function main() {
       } else {
         await writeFile(outPath, serialise(collection, books), 'utf8');
         const bad = books.filter((b) => b.flagged).length;
-        console.log(`ok      ${collection}: ${books.length - bad} books${bad ? ` (${bad} flagged)` : ''}`);
+        console.log(
+          `ok      ${collection}: ${books.length - bad} books` +
+          `${bad ? ` (${bad} flagged)` : ''}${page > 1 ? ` across ${page} pages` : ''}`,
+        );
         fetched++;
       }
     } catch (err) {
