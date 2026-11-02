@@ -11,8 +11,9 @@ on:
   workflow_dispatch:
     inputs:
       pdf_url:
-        description: PDF URL (e.g. the archive.org link from the catalogue)
+        description: PDF URL (defaults to Tasheel un Nahw, an Urdu sharh from Khasa 1)
         required: true
+        default: "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASHEEL%20UL%20NAHW.pdf"
       first_page:
         description: First page to transcribe
         default: "10"
