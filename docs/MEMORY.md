@@ -148,6 +148,21 @@ Nastaliq fix: its pipeline backend is PaddleOCR (naskh-trained Arabic) and its
 VLM is predominantly Chinese/English. **Untested here** — F7 blocks model
 downloads. Suggested by the owner 2026-11-02.
 
+**D18. Gemini chosen for Urdu Nastaliq; implemented, untested.** Owner has
+Gemini. Stage built at `scripts/ingest/ocr-gemini.mjs` + `.github/workflows/
+ocr-trial.yml`. Key lives in an Actions secret, never in the repo or bundle.
+Two-pass self-divergence detects hallucination: a model that transcribes one
+image two different ways is improvising on at least one pass.
+**Unverified** — generativelanguage.googleapis.com is blocked in the sandbox
+(F7 extends to it), so the request/response path has never run. First real run
+must be the ocr-trial workflow.
+Caveat on F9: Gemini 2.5-Pro, which scored CER 0.125, is **not on the free tier
+for new projects** — new projects route to 3.x Flash. The benchmark number does
+not transfer to what the free tier actually serves; measure it.
+Second caveat: owner said "Gemini Pro", which may mean the consumer
+subscription rather than an AI Studio API key. Those are different things and
+only the latter drives a pipeline. Needs confirming.
+
 **D17. Urdu needs a VLM, which conflicts with zero cost — unresolved.**
 Recorded as an open conflict rather than papered over. Candidate resolutions,
 none yet chosen: (a) Gemini free-tier quota, accepting an external dependency

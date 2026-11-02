@@ -121,7 +121,13 @@ Tesseract-for-Urdu is removed from the plan; it was measured at CER 1.41.
 - [ ] 8.6 **Measure Arabic CER on 5 real scans.** Clean-text CER was 0.140;
       real scans will be worse. Go/no-go threshold to be set before measuring,
       not after
-- [ ] 8.7 Stage 4b Urdu recognition: **blocked on D17** — needs a VLM decision
+- [x] 8.7 Stage 4b Urdu recognition via Gemini — built, UNTESTED (D18)
+- [ ] 8.7a Confirm the owner has an AI Studio **API key**, not just the app
+      subscription — they are different things
+- [ ] 8.7b Add GEMINI_API_KEY as an Actions secret
+- [ ] 8.7c Run `OCR trial (Urdu via Gemini)` on 5 real pages of an Urdu sharh
+- [ ] 8.7d Read the output against the printed page and record real CER —
+      the free tier serves 3.x Flash, not the 2.5-Pro that scored 0.125
 - [ ] 8.8 Stage 5 segment into passages with page numbers
 - [ ] 8.9 Stage 6 draft via template extraction (ARCH §5.3 option 1)
 - [ ] 8.10 Stage 7 queue as `draft` with confidence + ocr_language
