@@ -1,0 +1,17 @@
+# alamiyah-2-matn | scraped 2026-11-02 | 15 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+al-abwab-wat-tarajim-sahih-bukhari | Al Abwab Wat Tarajim Sahih Bukhari | الابواب و التراجم لصحیح البخاری | Maulana Zakariya Kandhalvi | https://archive.org/download/AlAbwabWatTarajimLiSahihulBukhari/Al_Abwab_Wat_Tarajim_Li_Sahihul_Bukhari_1.pdf
+al-sahih-li-muslim | Al Sahih Li Muslim | صحیح مسلم | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AL-SAHI-LI-MUSLIM-VOL-01-AL-BUSHRA-COLOR.pdf
+fath-ul-mulhim-takmilah-fath-ul-mulhim | Fath ul Mulhim / Takmilah Fath ul Mulhim | فتح الملہم مع تکملہ عربی شرح صحیح مسلم | - | https://archive.org/download/FathUlMulhim./Fath_Ul_Mulhim_Vol_01.pdf
+irshad-ul-qari-ila-sahih-il-bukhari | Irshad ul Qari ila Sahih il Bukhari | ارشاد القاری الی صحیح البخاری | Mufti Rasheed Ahmad Ludhyanvi | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/IRSHAD_UL_QARI.pdf
+ithaf-al-zaki | Ithaf al Zaki Urdu Sharh Jami Al Tirmzi | اتحاف الذکی اردو شرح جامع الترمذی | Maulana Shykh Saleemullah Khan | https://archive.org/download/iazaki/ITHAF_AL_ZAKI_VOL_01.pdf
+jamul-fazail | Jam’ul Fazail Urdu Sharh Shamail | جمع الفضائل فی شرح الشمائل اردو | Maulana Muhammad Islam Qasmi | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/JAMUL_FAZAIL_URDU_SHARH_SHAMAIL.pdf
+jame-al-tirmizi | Jame Al Tirmizi Al Bushra | جامع الترمذی البشری | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/JAMI_AL_TIRMIZI_BUSHRA_VOL_01.pdf
+mahasin-e-tirmizi | Mahasin e Tirmizi | محاسن ترمذی | Mufti Atta ur Rahman Multani | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/MAHASIN_E_TIRMIZI_VOL_01.pdf
+sahih-ul-bukhari | Sahih ul Bukhari | صحیح البخاری | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SAHI-AL-BUKHARI-VOL-1-ALTAF-AND-SONS.pdf
+sahih-ul-bukhari-al-bushra | Sahih ul Bukhari Al Bushra | صحيح البخاري بحاشية السهارنفوري البشرى | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf
+shamail-tirmezi-urdu-sharha-khasail-e-nabvi | Shamail Tirmezi with Urdu Sharha Khasail e Nabvi | شمائل ترمذی مع اردو ترجمہ و شرح خصائل نبوی | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHAMAIL-E-TIRMEZI-AL-BUSHRA-COLOR.pdf
+shamail-un-nabi | Shamail un Nabi [S.A.W] | شمائل النبی ﷺ | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SHAMAIL_UN_NABI_AL_KAOKAB_UD_DURI_VOL_09.pdf
+sharha-sunan-e-abi-dawood | Sharha Sunan e Abi Dawood Al Ayni | شرح سنن ابى داؤد للعينى | - | https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-01.pdf
+sunan-e-abe-dawood | Sunan e Abe Dawood | سنن ابی داؤد | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-1-RAHMANIA.pdf
+urdu-sharha-shamail-e-tirmizi | Urdu Sharha Shamail e Tirmizi | شرح شمائل ترمذی اردو | Maulana Abdul Qayyum Haqqani | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SharhShamailETirmiziUrduVol1.pdf

@@ -1,0 +1,25 @@
+# salesa-3-matn | scraped 2026-11-02 | 23 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-al-bushra-black-9 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUlShashiAlBushra.pdf
+dn-al-bushra-black-10 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AsaanUsoolEFiqhAlBushra.pdf
+dn-al-bushra-black-11 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KafiahAlBushra.pdf
+dn-al-bushra-black-12 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NafhaTulArabAlBushra.pdf
+dn-al-bushra-black-13 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TaleemUlMutaallimAlBushra.pdf
+dn-al-bushra-black-14 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SharhTahzeebAlBushra.pdf
+dn-al-bushra-color-7 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUlShashiAlBushraColor.pdf
+dn-al-bushra-color-8 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AsaanUsoolEFiqhAlBushraColor.pdf
+dn-al-bushra-color-9 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KafiahAlBushraColor.pdf
+dn-al-bushra-color-10 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NafhaTulArabAlBushraColor.pdf
+dn-al-bushra-color-11 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TaleemUlMutaallimAlBushraColor.pdf
+dn-al-bushra-color-12 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SharhTahzeebAlBushraColor.pdf
+dn-al-mizan-4 | Al Mizan | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUlShashiAlMezan.pdf
+dn-al-mizan-5 | Al Mizan | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SharhTahzeebAlMezan.pdf
+dn-habibia | Habibia | كنز الدقائق البشری | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUlShashiHabebia.pdf
+kanz-al-daqaiq | Kanz al Daqaiq [Al Bushra] | كنز الدقائق البشری | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KanzUlDaqaiqVol1AlBushraColor.pdf
+mabad-al-usool | Mabadi al Usool | مبادی الاصول | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/MABADI_AL_USOOL.pdf
+dn-nafhat-ul-yaman-2 | Nafhat ul Yaman | نفحۃ الیمن | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NafhaTulYamanMeerMuhammad.pdf
+dn-qadeemi | Qadeemi | - | - | https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28Qademi%29%20By%20Imam%20Navavi.pdf
+dn-qadeemi-2 | Qadeemi | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KafiahBilaHashiahQademi.pdf
+dn-rahmania | Rahmania | - | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TaleemUlMutaallimRahmania.pdf
+dn-rasheedia | Rasheedia | ریاض الصالحین | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KafiahRashedia.pdf
+dn-riaz-us-saleheen | Riaz us Saleheen | ریاض الصالحین | - | https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28AlBushra%29%20By%20Imam%20Navavi.pdf

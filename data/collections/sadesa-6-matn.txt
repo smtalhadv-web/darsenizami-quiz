@@ -1,0 +1,51 @@
+# sadesa-6-matn | scraped 2026-11-02 | 47 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-al-aqaid-un-nasafiya-ma-al-fawaid-ul-imdadia | Al Aqaid un Nasafiya ma Al Fawaid ul Imdadia | العقائد النسفیۃ مع الفوائد الامدادیۃ | Maulana Ilyas Bin Abdullah Gadhvi | https://archive.org/download/DarjaAlSadisa6thYear/AL-AQAID-UN-NASAFIA-AL-FAWAID-UL-IMDADIYA.pdf
+al-aun-ul-kabir | Al Aun ul Kabir Sharh Al Fauzul Kabir | العون الکبیر عربی شرح الفوز الکبیر | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/jan21_1/AL_AUNUL_KABEER_SHARH_AL_FAOZUL_KABEER.pdf
+dn-al-bushra-black-download-link-1 | Al Bushra Black Download Link 1 | - | - | https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%203-%20AL%20BUSHRA.pdf
+dn-al-bushra-black-download-link-1-2 | Al Bushra Black Download Link 1 | - | - | https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%202-%20RASHEDIA.pdf
+dn-al-bushra-black-download-link-1-3 | Al Bushra Black Download Link 1 | - | - | https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%202-%20RAHMANIA.pdf
+dn-al-bushra-color-download-link-1 | Al Bushra Color Download Link 1 | الفرائد البھیۃ اردو شرح شرح العقائد | - | https://archive.org/download/AlSadisah6thYear1/AlHidayahVol3AlBushraColor.pdf
+dn-al-faraid-ul-bahiyah-urdu-sharh-sharh-ul-aqaid | Al Faraid ul Bahiyah Urdu Sharh Sharh ul Aqaid | الفرائد البھیۃ اردو شرح شرح العقائد | Mufti Muhammad Aslam | https://archive.org/download/DarjaAlSadisa6thYear/AL_FARAID_UL_BAHIYAH_UR_SHRH_SHARH_UL_AQAID.pdf
+al-fauz-ul-kabeer-urdu | Al Fauz ul Kabeer Urdu | الفوز الکبیر اردو | - | https://archive.org/download/AlFauzUlKabeerUrdu/Al_Fauz_ul_Kabeer_Urdu.pdf
+al-fauz-ul-kabir-arabic | Al Fauz ul Kabir Arabic | الفوز الكبير عربى | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/ijraut/AL_FAOZ_UL_KABEER_ARABIC.pdf
+al-faozul-azeem | Al Fauzul Azeem Sharh Al Fauz ul Kabir | الفوز العظیم اردو شرح الفوز الکبیر | Maulana Khurshid Anwar | https://archive.org/download/DarjaAlSadisa6thYear/AlFawzUlAzeemUrduSharhAlFawzUlKabeer.pdf
+al-fawz-ul-kabeer-al-bushra | Al Fawz ul Kabeer Al Bushra | الفوز الکبیر عربی البشری | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/AlSadisah6thYear1/AlFaozUlKabeerAlBushraColor.pdf
+al-fawz-ul-kabeer-qadeemi | Al Fawz ul Kabeer Qadeemi | الفوز الکبیر قدیمی کتب خانہ | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/DarjaAlSadisa6thYear/AlFaozUlKabeerQademi.pdf
+al-hidayah | Al Hidayah Al Bushra | الھدایۃ مكتبة البشرى | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor.pdf
+al-hidayah-rahmania | Al Hidayah Rahmania | الہدایۃ مکتبہ رحمانیہ | - | https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA.pdf
+al-hidayah-rasheediya | Al Hidayah Rasheediya | الھدایۃ المكتبة الرشيدية | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf
+al-jalalain-rahmania | Al Jalalain Maktaba Rahmania | تفسیر الجلالین مکتبہ رحمانیہ | - | https://archive.org/download/LJALALAIN-MUSNADEIMAMAAZAM/TAFSEER%20UL%20JALALAIN-%20RAHMANIA.pdf
+dn-al-jawahir-ul-bahiah-arabic-sharh-sharh-ul-aqaid-2 | Al Jawahir ul Bahiah Arabic Sharh Sharh-ul-Aqaid | الجواھر البھیۃ عربی شرح شرح العقائد | - | https://archive.org/download/DarjaAlSadisa6thYear/AL-JAWAHIR-UL-BAHIYAH-VOL-01.pdf
+dn-al-mizan-3 | Al Mizan | المفصل فى التفسير عربی | - | http://www.mediafire.com/file/br5s9t9fxc8xyob/Matn-ul-Kafi-Mizan.pdf/file
+al-mufassal | Al Mufassal Ala Tafseer e Jalalain [Arabic] | المفصل فى التفسير عربی | - | https://archive.org/download/besturdubooks3/Al-Mufassal-Jalalain---www.besturdubooks.wordpress.com.pdf
+dn-al-nibras-arabic-sharh-sharh-ul-aqaid | Al Nibras Arabic Sharh Sharh ul Aqaid | النبراس عربی شرح شرح العقائد | - | https://archive.org/download/BayanUlFawaid/Al%20Nibraas%20Arabic%20Sharh%20Sharh%20ul%20Aqaid.pdf
+dn-al-nukat-wal-fawaid-arabic-sharh-sharh-ul-aqaid | Al Nukat wal Fawaid Arabic Sharh Sharh ul Aqaid | النکت و الفوائد عربی شرح شرح العقائد | Imam Burhan ud din Ibrahim | https://archive.org/download/DarjaAlSadisa6thYear/AL-NUKAT-WAL-FAWAID-SHARH-UL-AQAID-ARABIC.pdf
+dn-al-raoz-al-nazeer-urdu-sharh-al-faoz-ul-kabeer | Al Raoz Al Nazeer Urdu Sharh Al Faoz ul Kabeer الروض النضیر اردو شرح الفوز الکبیر | الروض النضیر اردو شرح الفوز الکبیر | Maulana Muhammad Hanif Gangohi | http://www.mediafire.com/file/opi7w1xlyqqmr66/Musnad-Abi-Hanifa.pdf/file
+al-rauz-al-nazeer | Al Rauz Al Nazeer Sharh Al Fauz ul Kabeer | الروض النضیر اردو شرح الفوز الکبیر | Maulana Muhammad Hanif Gangohi | https://archive.org/download/AlSadisah6thYear1/AL_RAOZ_AL_NAZEER_SHARH_AL_FAOZ_UL_KABEER.pdf
+dn-al-siraji-fil-miras | Al Siraji fil Miras | السراجی فی المیراث | - | https://archive.org/download/AlSadisah6thYear1/AlSirajiFilMerasAlBushraColor.pdf
+dn-ashraf-ul-fawaid-urdu-sharh-sharh-ul-aqaid | Ashraf ul Fawaid Urdu Sharh Sharh ul Aqaid | اشرف الفوائد اردو شرح شرح العقائد | Mufti Fida Muhammad | https://archive.org/download/DarjaAlSadisa6thYear/AshrafulFawaidUrduSharhSharhUlAqaid.pdf
+aun-ul-khabir | Aun ul Khabir Urdu Sharh Al Fauz ul Kabir | عون الخبیر اردو شرح الفوز الکبیر | Sufi Abdul Hameed Sawati | https://archive.org/download/AunUlKhabir/Aun_Ul_Khabir.pdf
+dn-diwan-ul-hamasa-2 | Diwan ul Hamasa | دیوان الحماسہ | - | https://archive.org/download/AlSadisah6thYear1/DewanUlHamasahAlBushraColor.pdf
+dn-fahmul-falkiyaat | Fahmul Falkiyaat | فہم الفلکیات | - | https://archive.org/download/DarjaAlSadisa6thYear/FahmUlFalkiat-DarUlUloom.pdf
+hidaya-par-itrazaat-ka-ilmi-jaiza | Hidaya par Itrazaat ka Ilmi Jaiza | ہدایہ پر اعتراضات کا علمی جائزہ | Syed Mushtaq Ali Shah | https://archive.org/download/jan_23/HIDAYA_PAR_ITRAZAAT_KA_JAIZA.pdf
+hifz-e-ahadith-aaliya | Hifz e Ahadith Aaliya Wifaq ul Madaris | مجموعہ حفظ احادیث درجہ خامسہ و سادسہ | - | https://archive.org/download/jan_25/MAJMUA_MUNTAKHAB_AHADITH_AALIYA.pdf
+dn-islam-ka-qanoon-e-wirasat | Islam ka Qanoon e Wirasat | اسلام کا قانون وراثت | Maulana Shaukat Ali Qasmi | http://www.mediafire.com/file/1d74scd0kjk1ffl/ISLAM_KA_QANOON_E_WIRASAT.pdf
+dn-jawahir-ul-faraid-urdu-sharh-sharh-ul-aqaid-2 | Jawahir ul Faraid Urdu Sharh Sharh ul Aqaid | جواہر الفرائد اردو شرح شرح العقائد | Maulana Muhammad Yusuf Tawli | https://archive.org/download/DarjaAlSadisa6thYear/JawahirUlFaraidUrduSharhSharhUlAqaid.pdf
+khair-ul-usool-2 | Khair ul Usool | خیر الاصول فی حدیث الرسول ﷺ | Maulana Khair Muhammad Jalandhari | https://archive.org/download/AlSadisah6thYear1/KHAIR_UL_USOOL.pdf
+khair-ul-usool-arabic | Khair ul Usool Arabic | خير الاصول فى حديث الرسول ﷺ عربى | Maulana Khair Muhammad Jalandhari | https://archive.org/download/AlSadisah6thYear1/KHAIR_UL_USOOL_ARABIC.pdf
+musnad-imam-azam-al-bushra | Musnad Imam Azam Maktaba Al Bushra | مسند امام اعظم البشری | - | https://archive.org/download/AlSadisah6thYear1/MusnadUlImamIlAazamAlBushraColor.pdf
+musnad-imam-azam-qadeemi | Musnad Imam Azam Qadeemi | مسند امام اعظم قدیمی کتب خانہ | - | https://archive.org/download/Jalalain-MusnadImamAazam/MUSNAD%20UL%20IMAM%20IL%20AAZAM-%20QADEMI.pdf
+dn-nashr-ul-fawaid-urdu-khulasa-sharh-ul-aqaid | Nashr ul Fawaid Urdu Khulasa Sharh ul Aqaid | نشر الفوائد اردو خلاصہ شرح العقائد | Maulana Ubaidul Haq | https://archive.org/download/DarjaAlSadisa6thYear/NashrUlFawaidUrduSharhSharhUlAqaid.pdf
+shams-ul-fawaid | Shams ul Fawaid Urdu Sharh Sharh ul Aqaid | شمس الفوائد اردو شرح شرح العقائد | Maulana Khurshid Alam | https://archive.org/download/AlSadisah6thYear1/SHAMSUL_FAWAID_SHARH_SHARHUL_AQAID.pdf
+dn-sharh-ul-aqaid | Sharh ul Aqaid | شرح العقائد مع تعلیقات | - | https://archive.org/download/DarjaAlSadisa6thYear/SHARH_UL_AQAID.pdf
+sharh-ul-aqaid-2 | Sharh ul Aqaid Al Bushra | شرح العقائد النسفیہ البشری | Allama Taftazani | https://archive.org/download/AlSadisah6thYear1/SHARHUL_AQAID_COLOR.pdf
+sharh-ul-aqaid-al-nasafiya | Sharh ul Aqaid Al Nasafiya | شرح العقائد النسفیہ | Allama Taftazani | https://archive.org/download/DarjaAlSadisa6thYear/SharhUlAqaidUnNasafiyah-AlBushra.pdf
+siraji-ka-hisab | Siraji ka Hisab | سراجی کا حساب | Mufti Muhammad Farooq Hasanzai | https://archive.org/download/AlSadisah6thYear1/SIRAJI_KA_HISAB.pdf
+tafseer-al-jalalain-qadeemi | Tafseer e Jalalain Qadeemi | تفسیر جلالین قدیمی کتب خانہ | - | https://archive.org/download/Jalalain-MusnadImamAazam/TAFSEER%20UL%20JALALAIN-%20QADEMI.pdf
+tafsir-al-jalalain-al-bushra | Tafsir Al Jalalain Al Bushra | تفسیر الجلالین البشری | - | https://archive.org/download/AlSadisah6thYear1/TafseerUlJalalainVol1AlBushraColor.pdf
+talkhees-e-hidayah | Talkhees e Hidayah | تلخیص ہدایہ | Mufti Muhammad Anas Abdur Raheem | -
+dn-talkhees-ul-falkiyaat | Talkhees ul Falkiyaat | تلخیص الفلکیات | - | https://archive.org/download/DarjaAlSadisa6thYear/PARCHAJAAT_SADISAH_2021.pdf
+dn-taozeeh-ul-aqaid-urdu-sharh-sharh-ul-aqaid | Taozeeh ul Aqaid Urdu Sharh Sharh ul Aqaid | توضیح العقائد اردو شرح شرح العقائد | - | https://archive.org/download/DarjaAlSadisa6thYear/TaozeehUlAqaidUrduSharhSharhUlAqaid.pdf
+# FLAGGED — malformed entries on the source site; excluded from the catalogue
+# dn-d-ownload-6mb-2 | D ownload (6MB) | دیوان الحماسہ | - | https://archive.org/download/AlSadisah6thYear1/KITAB_UL_FARAIZ_ASAN_SIRAJI.pdf

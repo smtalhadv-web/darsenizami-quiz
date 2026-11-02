@@ -1,0 +1,50 @@
+# aula-1-sharh | scraped 2026-11-02 | 48 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-al-bashir-ul-kamil-sharh-e-urdu-sharh-miata-aamil-2 | Al Bashir ul Kamil Sharh e Urdu Sharh Miata Aamil | البشیر الکامل اردو شرح مائۃ عامل | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20BASHEER%20UL%20KAMIL%20Sharh%20urdu%20Sharh%20e%20Miata%20Aamil.pdf
+al-fiqh-ul-muyassar | Al Fiqh ul Muyassar | الفقہ المیسر | Maulana Shafiq ur Rahman Nadwi | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlFiqhUlMuyassar.pdf
+al-fiqh-ul-muyassar-urdu | Al Fiqh ul Muyassar Urdu | الفقہ المیسر اردو | Muhammad Azhar ul Islam | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL-FIQH-UL-MUYASSAR-URDU.pdf
+dn-al-hadaiq-ul-arabia-urdu-sharh-al-tariqat-ul-asria | Al Hadaiq ul Arabia Urdu Sharh Al Tariqat ul Asria | الحدائق العربیہ اردو ترجمہ الطریقۃ العصریہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlHadaiqUlArabiaUrduSharhAlTariqatulAsria.pdf
+dn-al-tanveer-urdu-sharh-nahwmeer-2 | Al Tanveer Urdu Sharh Nahwmeer | التنویر اردو شرح نحومیر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlTanveerUrduSharhNahwmeer.pdf
+dn-al-tohfat-ul-marziah-urdu-tarjama-al-tariqat-ul-asria | Al Tohfat Ul Marziah Urdu Tarjama Al Tariqat ul Asria | التحفۃ المرضیہ اردو ترجمہ الطریقۃ العصریہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlTohfatUlMarziahUrduTarjamaAlTariqatulAsria.pdf
+dn-anwaar-us-sarf-urdu-sharh-irshad-us-sarf-2 | Anwaar Us Sarf Urdu Sharh Irshad Us Sarf | انوار الصرف اردو شرح ارشاد الصرف | Maulana Muhammad Adnan Kalyanvi | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AnwaarUsSarfUrduSharhIrshadUsSarf.pdf
+anwar-ul-izah | Anwar ul Izah Urdu Sharh Noor ul Izah | انوار الایضاح اردو شرح نور الایضاح | Mufti Waseem Ahmad Qasmi | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AnwaarUlEizahUrduSharhNoorUlEizah.pdf
+ashraf-ul-izah | Ashraf ul Izah Urdu Sharh Noor ul Izah | اشرف الایضاح اردو شرح نور الایضاح | Maulana Mukhtar Ali | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AshrafUlEizahUrduSharhNoorUlEizah.pdf
+dn-ashraf-un-nahw-sharah-urdu-nahw-mir | Ashraf un Nahw Sharah Urdu Nahw Mir اشرف النحو شرح اردو نحومیر | اشرف النحو شرح اردو نحومیر | Maulana Mohsin Ranuj | https://archive.org/download/DarsENizami_DarjaAula_1stYear/ASHRAF_UN_NAHW_SHARH_NAHWMIR.pdf
+dn-dars-e-irshad-us-sarf | Dars e Irshad Us Sarf | درس ارشاد الصرف اردو | Maulana Mufti Ahmad Mumtaz | https://archive.org/download/DARSEIRSHADUSSAR/DARS%20E%20IRSHAD%20US%20SARF%20BY%20MUFTI%20AHMAD%20MUMTAZ.pdf
+dn-dars-e-nahw-meer | Dars E Nahw Meer | درس نحومیر اردو شرح نحومیر | Maulana Mufti Ahmad Mumtaz | https://archive.org/download/DARSENAHWMEER/DARS%20E%20NAHW%20MEER%20BY%20MAULANA%20AHMED%20MUMTAZ.pdf
+dn-dars-e-panj-ganj-urdu-maulana-nadeem-ahmad-qasmi | Dars e Panj Ganj Urdu Maulana Nadeem Ahmad Qasmi | درس پنج گنج اردو | Maulana Nadeem Ahmad Qasmi | https://archive.org/download/DarsENizami_DarjaAula_1stYear/DARS_E_PANJ_GANG.pdf
+dn-dhawul-mustanir-urdu-sharah-nahwmir | Dhawul Mustanir Urdu Sharah Nahwmir ضوء المستنیر شرح اردو نحومیر | ضوء المستنیر شرح اردو نحومیر | Maulana Muhammad Zahid Mazahiri | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/DHAWUL_MUSTANIR_SHARH_URDU_NAHWMIR.pdf
+dn-farsi-zuban-ka-asan-qaida | Farsi Zuban Ka Asan Qaida | فارسی زبان کا آسان قاعدہ | Maulana Mushtaq Ahmad Charthawli | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/FarsiZabanKaAsanQaidahAlBushraColor.pdf
+gohar-e-be-baha | Gohar e Be Baha Urdu Sharh Karima | گوہر بے بہا اردو شرح کریما | Maulana Inamullah | https://archive.org/download/GoharBeBaha/Gohar_Be_Baha.pdf
+dn-hadya-e-sagheer-urdu-sharh-nahwmeer | Hadya e Sagheer Urdu Sharh Nahwmeer | ھدیہ صغیر اردو شرح نحومیر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/HadyaESaghirUrduSharhNahwameer.pdf
+hashia-al-tahtawi | Hashia Al Tahtawi Ala Maraqi al Falah | حاشیۃ الطحطاوی علی مراقی الفلاح | - | https://archive.org/download/besturdubooks2/Hashia-Al-Tahtawi.pdf
+imdad-ul-fattah | Imdad ul Fattah Arabic Sharh Noor ul Izah | امداد الفتاح عربی شرح نورالایضاح | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/IMDAD%20UL%20FATTAH%20ARABIC%20SHAR%20NOOR%20UL%20IZAH.pdf
+dn-imla-us-sarf-urdu-sharh-irshad-us-sarf | Imla Us Sarf Urdu Sharh Irshad Us Sarf | املاء الصرف اردو شرح ارشاد الصرف | Mufti Atta ur Rahman Multani | https://archive.org/download/DarsENizami_DarjaAula_1stYear/ImlaUsSarfUrduSharhIrshadUsSarf.pdf
+dn-irshad-al-tamreen-sharh-urdu-irshad-al-sarf | Irshad Al Tamreen Sharh Urdu Irshad Al Sarf ارشاد التمرین شرح اردو ارشاد الصرف | ارشاد التمرین شرح اردو ارشاد الصرف | Maulana Jamal ud Din Nomani | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IRSHAD_AL_TAMREEN_SHARH_IRSHAD_AL_SARF.pdf
+dn-izhar-us-sadaf-urdu-sharh-irshad-us-sarf | Izhar us Sadaf Urdu Sharh Irshad us Sarf | اظہار الصدف اردو شرح ارشاد الصرف | Mufti Abdul Sami Shaheed | https://archive.org/download/DarsENizami_DarjaAula_1stYear/IzharUsSadafSharhIrshadUsSarf.pdf
+kimya | Kimya Urdu Sharh Karima | کیمیا اردو شرح کریما | Maulana Naeem Ahmad Mazahiri | https://archive.org/download/DarsENizami_DarjaAula_1stYear/KIMIY_URDU_SHARH_KARIMA.pdf
+kshful-awamil | Kshful Awamil Sharh Sharh-e-Miata Amil | کشف العوامل شرح اردو شرح مائۃ عامل | Maulana Dr. Muhammad Haroon | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/KASHF_UL_AWAMIL_SHARH_SHARH_E_MIATA_AMIL.pdf
+maraqi-al-falah | Maraqi al Falah Arabic Sharh Noor ul Izah | مراقی الفلاح عربی شرح نور الایضاح | - | https://archive.org/download/besturdubooks2/Maraqil-Falah.pdf
+nahw-meer-urdu | Nahw Meer Urdu | نحو میر اردو | Maulana Nazir Husain | https://archive.org/download/mnhbooks/NAHWMEER_URDU.pdf
+dn-nahw-meer-urdu | Nahw Meer Urdu | نحو میر اردو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/NAHWMEER-URDU.pdf
+dn-nahw-meer-urdu-2 | Nahw Meer Urdu | نحو میر اردو | - | https://archive.org/download/NAHWMEERURDU/NAHW%20MEER%20URDU.pdf
+noor-ul-isbah | Noor ul Isbah Urdu Sharh Noor ul Izah | نور الاصباح اردو شرح نور الایضاح | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/NoorUlIsbahUrduSharhNoorUlEizah.pdf
+dn-panj-ganj-urdu | Panj Ganj Urdu | پنج گنج اردو مع حواشی | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/PANJ-GANJ-URDU.pdf
+raheema | Raheema Sharh Kareema | رحیما شرح اردو کریما | Maulana Muhammad Ahmad Miftahi | https://archive.org/download/feb2024/RAHEEMA_SHARH_KAREEMA.pdf
+rahnuma-e-tarkeeb | Rahnuma e Tarkeeb | رہنمائے ترکیب | Maulana Nazir Husain | https://archive.org/download/mnhbooks/RAHNUMA_E_TARKEEB.pdf
+dn-riaz-un-nahw-urdu-sharh-tasheel-un-nahw | Riaz Un Nahw Urdu Sharh Tasheel Un Nahw | ریاض النحو اردو شرح تسھیل النحو | Maulana Riaz Malik | https://archive.org/download/DarsENizami_DarjaAula_1stYear/RiazUnNahwUrduSharhTasheelUnNahw.pdf
+dn-rifat-ul-awamil-sharh-urdu-sharh-miata-aamil | Rifat ul Awamil Sharh Urdu Sharh Miata Aamil | رفۃ العوامل اردو شرح مائۃ عامل | Mufti Atta ur Rahman Multani | https://archive.org/download/DarsENizami_DarjaAula_1stYear/RifatUlAwamilUrduSharhSharhEMiataAamil.pdf
+samaratun-najah | Samaratun Najah Urdu Sharh Noor ul Izah | ثمرۃ النجاح اردو شرح نور الایضاح | Maulana Samiruddin Qasmi | https://archive.org/download/SamaratUnNajah/Samarat_Un_Najah_Vol_1.pdf
+dn-sayul-faqeer-urdu-sharh-nahwmeer | Sayul Faqeer Urdu Sharh NahwMeer | سعی الفقیر اردو شرح نحومیر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/SaulFaqeerUrduSharhNahwmeer.pdf
+dn-sharh-e-miata-aamil | Sharh e Miata Aamil | شرح مائۃ عامل | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/SHARH%20MIATA%20AMIL%20RASHEDIA.pdf
+dn-sharh-e-miata-aamil-2 | Sharh e Miata Aamil | شرح مائۃ عامل | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/SharhMiataAmilAlBushraColor.pdf
+dn-sharh-e-miata-aamil-3 | Sharh e Miata Aamil | شرح مائۃ عامل | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/SHARH_E_MIATA_AAMIL.pdf
+dn-sharh-ilm-us-sarf-awwalain | Sharh Ilm us Sarf Awwalain – شرح علم الصرف اولین | شرح علم الصرف اولین | Shykh Muhammad Rizwan | https://archive.org/download/june_22/SHARH_ILMUS_SARF_AWWALAIN.pdf
+shifa-ul-arwah | Shifa ul Arwah Urdu Sharh Noor ul Izah | شفاء الارواح اردو شرح نور الایضاح | Maulana Muhammad Rafiq Surti | https://archive.org/download/DarsENizami_DarjaAula_1stYear/Shifa-Ul-Arwaah-Urdu-Sharah-Noor-Ezah.pdf
+dn-sidratun-nahw-urdu-sharh-awamil-un-nahw | Sidratun Nahw Urdu Sharh Awamil un Nahw سدرۃ النحو اردو شرح عوامل النحو | سدرۃ النحو اردو شرح عوامل النحو | Maulana Riaz Malik | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/SIDRATUN_NAHWA_SHARH_AWAMIL_UN_NAHWA.pdf
+dn-tafheem-ul-mutaallim-sharh-taleem-ul-mutaallim | Tafheem ul Muta’allim Sharh Taleem ul Muta’allim تفہیم المتعلم شرح اردو تعلیم المتعلم | تفہیم المتعلم شرح اردو تعلیم المتعلم | Mufti Muhammad Abdul Razzaq Qasmi | https://archive.org/download/DarsENizamiMutafarriq/TAFHIM_UL_MUTALLIM.pdf
+takmil-ul-izah | Takmil ul Izah Urdu Sharh Noor ul Izah | تکمیل الایضاح اردو شرح نور الایضاح | Maulana Abul Kalam Wasim | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TakmeelUlEizahUrduSharhNoorUlEizah.pdf
+dn-tanveer-urdu-sharh-nahwmeer | Tanveer Urdu Sharh Nahwmeer | تنویر اردو شرح نحومیر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TanveerUrduSharhNahwmeer.pdf
+dn-tanweer-us-sarf-urdu-sharh-irshad-us-sarf | Tanweer us Sarf Urdu Sharh Irshad Us Sarf | تنویر الصرف اردو شرح ارشاد الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TanweerUsSarfUrduSharhIrshadUsSarf.pdf
+dn-tartib-un-nahw-hall-e-tamareen-tashil-un-nahw | Tartib un Nahw Hall e Tamareen Tashil un Nahw ترتیب النحو اردو حل تمارین تسہیل النحو | ترتیب النحو اردو حل تمارین تسہیل النحو | Maulana Yaqoob Haqqani | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TARTIB_UN_NAHW_URDU_TASHIL_UN_NAHW.pdf
+dn-tasheel-ul-mubtadi-2 | Tasheel ul Mubtadi | تسھیل المبتدی | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TasheelUlMubtadiAlBushraColor.pdf

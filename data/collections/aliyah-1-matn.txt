@@ -1,0 +1,14 @@
+# aliyah-1-matn | scraped 2026-11-02 | 12 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+al-aqeedah-al-tahawiyyah | Al Aqeedah Al Tahawiyyah | العقیدۃ الطحاویہ | - | https://archive.org/download/DarjaAlSadisa6thYear/MatanUlAqedaTitTahavi-AlBushraColo.pdf
+al-hall-al-zaroori | Al Hall al Zaroori Urdu Sharh Mukhtasar ul Quduri | الحل الضروری اردو شرح مختصر القدوری | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AL-HAL-UL-ZARORI.pdf
+al-jawhara-al-niyara | Al Jawhara al Niyara Arabic Sharh Mukhtasar ul Quduri | الجوهرة النيرة عربى شرح القدورى | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlJaoharaTunNaiyyarahMeerMuhammad.pdf
+al-mukhtasar-ul-quduri | Al Mukhtasar ul Quduri Al Bushra | المختصر القدوری مکتبۃ البشری | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/MukhtasarUlQudoriAlBushraColor.pdf
+al-sharh-al-sameeri | Al Sharh al Sameeri Urdu Sharh Mukhtasar ul Quduri | الشرح الثمیری اردو شرح مختصر القدوری | Maulana Samiruddin Qasmi | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlSharhUsSameeriUrduSharhAlQuduriVol1.pdf
+al-siraji | Al Siraji fil Miras | السراجی فی المیراث | - | https://archive.org/download/AlSadisah6thYear1/AlSirajiFilMerasAlBushraColor.pdf
+anwaar-ul-quduri | Anwaar ul Quduri Urdu Sharh Mukhtasar ul Quduri | انوار القدوری اردو شرح مختصر القدوری | Mufti Waseem Ahmad Qasmi | https://archive.org/download/11320/ANWAAR_UL_QUDURI_VOL_01.pdf
+duroos-ul-balaghah | Duroos ul Balaghah | دروس البلاغۃ | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/DurosUlBalaghaAlBushraColor.pdf
+moeen-us-siraji | Moeen us Siraji | معین السراجی اردو | Maulana Ilyas Bin Abdullah Gadhvi | https://archive.org/download/BestUrduBooks917/MOEEN-US-SIRAJI.pdf
+mukhtaraat | Mukhtaraat Adab Al Arab | مختارات من ادب العرب | Maulana Abul Hasan Ali Nadwi | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MukhtaratMinAdabIlArab.pdf
+noor-ul-anwar | Noor ul Anwar | نور الانوار | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/NoorUlAnwaarVol2AlBushraColor.pdf
+riaz-us-salehin | Riaz us Salehin | ریاض الصالحین | - | https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28AlBushra%29%20By%20Imam%20Navavi.pdf

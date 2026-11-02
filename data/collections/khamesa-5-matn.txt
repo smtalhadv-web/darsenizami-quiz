@@ -1,0 +1,38 @@
+# khamesa-5-matn | scraped 2026-11-02 | 34 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-a-husami | A Husami | الحسامی | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHusamiAlNizamiMeerMuhammad.pdf
+aasaar-us-sunan-2 | Aasaar us Sunan | آثار السنن مع التعلیق الحسن | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/AASAAR_AL_SUNAN.pdf
+dn-al-balaghat-ul-waziha | Al Balaghat Ul Waziha | البلاغۃ الواضحہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlBalaghatUlWazihaAlBushraColor.pdf
+dn-al-bushra-black-3 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushra.pdf
+dn-al-bushra-black-4 | Al Bushra Black | - | - | https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA.pdf
+dn-al-bushra-black-5 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf
+dn-al-bushra-black-6 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MuntakhabUlHusamiAlBushra.pdf
+dn-al-bushra-black-7 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/HidayaTulHikmahAlBushra.pdf
+dn-al-bushra-black-8 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayaTulSaediaAlBushra.pdf
+dn-al-bushra-color-3 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor.pdf
+dn-al-bushra-color-4 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MuntakhabUlHusamiAlBushraColor.pdf
+dn-al-bushra-color-5 | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/HidayaTulHikmahAlBushraColor.pdf
+dn-al-bushra-color-6 | Al Bushra Color | الھدایۃ مكتبة البشرى | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayaTulSaediaAlBushraColor.pdf
+al-hidayah | Al Hidayah Al Bushra | الھدایۃ مكتبة البشرى | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor.pdf
+al-hidayah-maa-ahadithiha-wa-usooliha | Al Hidayah ma’a Ahadithiha wa Usooliha | الہدایۃ مع احادیثہا و اصولہا | Maulana Samiruddin Qasmi | https://archive.org/download/maulana-samiruddin-qasmi/AL_HIDAYAH_MAA_AHADITHIHA_WA_USOOLIHA_VOL_01.pdf
+al-hidayah-rahmania | Al Hidayah Rahmania | الہدایۃ مکتبہ رحمانیہ | - | https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA.pdf
+al-hidayah-rasheediya | Al Hidayah Rasheediya | الھدایۃ المكتبة الرشيدية | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf
+dn-al-intebahaat-ul-mufeedah-arabic | Al Intebahaat ul Mufeedah Arabic | الانتباھات المفیدۃ عربی | - | http://www.mediafire.com/file/cfsbysn5i6pi6yz/AL-INTEBAHAAT-UL-MUFEEDAH-ARABIC.pdf/file
+dn-al-muallaqat-us-sabaa | Al Muallaqat us Sabaa | المعلقات السبع | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlMuallaqatUlSabaAlBushraColor.pdf
+dn-al-tareekh-ul-islami-arabic | Al Tareekh ul Islami Arabic | التاریخ الاسلامی عربی | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlTareekhUlIslamiFaroqia.pdf
+dn-darsi-taqreer-urdu-mukhtasar-ul-maani | Darsi Taqreer Urdu Mukhtasar ul Maani | درسی تقریر مختصر المعانی اردو | Mufti Muhammad Amin | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/DarsiTaqreerUrduSharhMukhtasarUlMaani.pdf
+dn-diwan-ul-mutanabbi | Diwan ul Mutanabbi | دیوان المتنبی | - | https://archive.org/download/DEWANULMUTANABBI/DEWAN%20UL%20MUTANABBI%20MEER%20MUHAMMAD%20-%20Unknown.pdf
+dn-eizah-ul-maani-urdu-sharh-muqaddema-mukhtasar-ul-maani | Eizah ul Maani Urdu Sharh Muqaddema Mukhtasar ul Maani | ایضاح المعانی اردو شرح مقدمہ مختصر المعانی | Maulana Zar Syed | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/EizahUlMaaniUrduSharhMuqaddemaMukhtasarUlMaani.pdf
+hidaya-par-itrazaat-ka-ilmi-jaiza | Hidaya par Itrazaat ka Ilmi Jaiza | ہدایہ پر اعتراضات کا علمی جائزہ | Syed Mushtaq Ali Shah | https://archive.org/download/jan_23/HIDAYA_PAR_ITRAZAAT_KA_JAIZA.pdf
+hifz-e-ahadith-aaliya | Hifz e Ahadith Aaliya Wifaq ul Madaris | مجموعہ حفظ احادیث درجہ خامسہ و سادسہ | - | https://archive.org/download/jan_25/MAJMUA_MUNTAKHAB_AHADITH_AALIYA.pdf
+istilahat-e-husami | Istilahat e Husami | اصطلاحات حسامی | Maulana Muhammad Ahmad | https://archive.org/download/aug-21/ISTILAHAT_E_HUSAMI.pdf
+jadeed-itrazaat | Jadeed Itrazaat | جدید اعتراضات اور انکے تسلی بخش جوابات | Mufti Muhammad Talha Sadiq | https://archive.org/download/jadid-itrazaat/JADID_ITRAZAAT_AUR_UNKE_TASALLI_BAKHSH_JAWABAAT.pdf
+mukhtasar-ul-maani | Mukhtasar ul Maani | مختصر المعانی | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MukhtasarUlMaaniVol1AlBushraColor.pdf
+dn-nail-ul-amaani-urdu-sharh-mukhtasar-ul-maani | Nail ul Amaani Urdu Sharh Mukhtasar ul Maani | نیل الامانی اردو شرح مختصر المعانی | Maulana Muhammad Hanif Gangohi | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/NailUlAmaniUrduSharhMukhtasarUlMaani.pdf
+dn-takmeel-ul-amani-urdu-sharh-mukhtasar-ul-maani | Takmeel ul Amani Urdu Sharh Mukhtasar ul Maani | تکمیل الامانی اردو شرح مختصر المعانی | Maulana Jameel Ahmad Sakrodvi | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/TakmeelAmaniUrduSharhMukhtasarUlMaani1.pdf
+dn-takmila-takmeel-ul-amani-urdu-sharh-mukhtasar-ul-maani | Takmila Takmeel ul Amani Urdu Sharh Mukhtasar ul Maani | تکملہ تکمیل الامانی اردو شرح مختصر المعانی | Maulana Jameel Ahmad Sakrodvi | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/TAKMILA_E_TAKMEEL_UL_AMANI.pdf
+talkhees-e-hidayah | Talkhees e Hidayah | تلخیص ہدایہ | Mufti Muhammad Anas Abdur Raheem | -
+usool-e-hidayah | Usool e Hidayah | اصول ہدایہ | Maulana Muhammad Noman | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf
+dn-usool-e-hidayah-jild-1 | Usool e Hidayah Jild 1 – اصول ہدایہ جلد ۱ | اصول ہدایہ جلد ۱ | Maulana Muhammad Noman | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf
+# FLAGGED — malformed entries on the source site; excluded from the catalogue
+# dn-d-ownload-3mb-2 | D ownload (3MB) | درسی تقریر مختصر المعانی اردو | - | https://archive.org/download/Feb2022/DARS_E_HIDAYATUL_HIKMAT.pdf

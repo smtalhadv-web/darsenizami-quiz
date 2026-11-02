@@ -1,0 +1,50 @@
+# alamiyah-1-sharh | scraped 2026-11-02 | 48 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+aen-ul-hidaya | Aen ul Hidaya Urdu Sharh Al Hidaya | عین الہدایہ اردو شرح ہدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/EainUlHidayaUrduSharhAlHidayaVol1.pdf
+ahsan-ul-hidaya | Ahsan ul Hidaya Urdu Sharh Al Hidaya | احسن الہدایہ اردو شرح ھدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AhsanUlHidayaUrduSharhAlHidaya1.pdf
+al-arf-ush-shazi-arabic-sharh-tirmezi | Al Arf ush Shazi Arabic Sharh Tirmezi | العرف الشذی عربی شرح سنن الترمذی | Maulana Anwar Shah Kashmiri | https://archive.org/download/AlArfAlShazi/Al_Arf_Al_Shazi_Vol_1.pdf
+al-binayah | Al Binayah Arabic Sharha Al Hidayah | البنایہ عربی شرح الھدایہ | - | https://archive.org/download/AlBinayaSharhAlHidayah/Al_Binaya_Sharh_Al_Hidayah_01.pdf
+al-dars-al-shazi | Al Dars al Shazi Urdu Sharha Al Tirmizi | الدرس الشذی اردو شرح سنن الترمذی | Sufi Muhammad Sarwar | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AlDarsUshShaziUrduSharhAlTirmizi.pdf
+al-durr-ul-manzood | Al Durr ul Manzood Urdu Sharha Abu Dawood | الدر المنضود اردو شرح سنن ابو داؤد | Maulana Muhammad Aqil | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AL_DURRUL_MANZOOD_VOL_01.pdf
+al-hidayah-2 | Al Hidayah [Sharh Bidayatul Mubtadi] | الهداية شرح بداية المبتدى | - | https://archive.org/download/oct_22/AL_HIDAYAH_SHARH_BIDAYATUL_MUBTADI_VOL_01.pdf
+al-kaokab-ud-durri | Al Kaokab ud Durri Urdu Sharha Al Tirmizi | الکوکب الدری اردو شرح جامع الترمذی | Maulana Rasheed Ahmad Gangohi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/Al_Kaokab_Ud_Durri_Urdu_Sharh_Al_Tirmizi_Vol_01.pdf
+al-samhul-mahmood | Al Samhul Mahmood Urdu Sharha Abu Dawood | االسمح المحمود اردو شرح ابو داؤد | Mufti Muhammad Abdul Razzaq Qasmi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AL-SAMH-UL-MAHMOOD-URDU-SHARH-ABU-DAWOOD-01.pdf
+al-ward-al-tari | Al Ward Al Tari Urdu Sharha Al Tirmizi | الورد الطری اردو شرح جامع الترمذی | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AlWardUtTariUrduSharhAlTirmizi.pdf
+anwaar-ul-mahmood | Anwaar ul Mahmood Arabic Sharh Abu Dawood | انوار المحمود شرح ابى داؤد | Maulana Muhammad Siddiq Najeeb Abadi | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/ANWAAR_UL_MAHMOOD_ARABIC_SHARH_ABU_DAWUD_VOL_01.pdf
+urdu-sharh-tayseer-e-mustalah-al-hadith | Asan Istelahaat e Hadith Urdu Sharh Tayseer e Mustalah al Hadith | آسان اصطلاحات حدیث اردو شرح تیسیر مصطلح الحدیث | Mufti Sabir Mahmood | https://archive.org/download/mufti-sm/ASAN-ISTELAHAAT-E-HADEES.pdf
+ashraf-ul-hidaya | Ashraf ul Hidaya Urdu Sharha Hidaya | اشرف الھدایہ اردو شرح ھدایہ | Maulana Jameel Ahmad Sakrodvi | https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_01.pdf
+asmaar-ul-hidaya | Asmaar ul Hidaya Urdu Sharh Al Hidaya | اثمار الہدایہ اردو شرح ہدایہ | Maulana Samiruddin Qasmi | https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_01.pdf
+bazlul-majhood | Bazlul Majhood Arabic Sharha Abu Dawood | بذل المجھود عربی شرح ابو داؤد | Maulana Khalil Ahmad Saharanpuri | https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_01.pdf
+bughya-tul-al-maee-arabic-sharha-al-tirmizi | Bughya tul Al Maee Arabic Sharha Al Tirmizi | بغیۃ الالمعی عربی شرح سنن الترمذی | Maulana Shams ud Din Afghani | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/BUGHYA_TUL_ALMAEE_ARABIC_SHARH_AL_TIRMIZI.pdf
+daqaiq-al-sunan | Daqaiq al Sunan Urdu Sharha Al Tirmizi | دقائق السنن اردو شرح سنن ترمذی | Maulana Abdus Sattar Marwat | https://archive.org/download/DaqaiqUsSunan/Daqaiq-us-Sunan.pdf
+daroos-e-tirmizi | Daroos e Tirmizi Urdu Sharh Al Tirmizi Jild 2 | دروس ترمذی اردو شرح الترمذی جلد ۲ | Maulana Raeesuddin | https://archive.org/download/DarsENizamiDoraEHadees8thYear/DuroosETirmiziUrduSharhAlTirmiziJild2.pdf
+dars-e-tirmizi | Dars e Tirmizi Urdu | درس ترمذی اردو | Mufti Taqi Usmani | https://archive.org/download/DARSETIRMEZI/DARS%20E%20TIRMEZI%20VOL%201.pdf
+falah-o-bahbood | Falah o Bahbood Urdu Sharha Abu Dawood | فلاح و بہبود اردو شرح ابو داؤد | Maulana Muhammad Hanif Gangohi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/FalahOBahboodUrduSharhAbuDawoodVol1.pdf
+haqaiq-al-sunan | Haqaiq Al Sunan Urdu Sharha Al Tirmizi | حقائق السنن اردو شرح سنن الترمذی | Maulana Abdulhaq | https://archive.org/download/DarsENizamiDoraEHadees8thYear/HaqaiqUsSunanUrduSharhAlTirmizi.pdf
+ihsan-e-eilahi-urdu-khulasa | Ihsan e Eilahi Urdu Khulasa Moatta’ain, Tahawi, Nasai, Ibn e Maja | احسان الہی اردو خلاصہ مؤطائین، طحاوی، نسائی، ابن ماجہ | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/IhsanEElahiUrduSharhMoattaaintahavinasaeeIbnEMaja.pdf
+inam-ul-mabood | Inam ul Mabood Urdu Sharha Abu Dawood | انعام المعبود اردو شرح ابو داؤد | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/InamUlMaboodUrduSharhAbuDawoodBanat.pdf
+inamaat-e-rahmani | Inamaat e Rahmani Urdu Sharha Tirmizi Jild | 2 انعامات رحمانی اردو شرح ترمذی ثانی۲ | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/InamatERahmaniUrduSharhAlTirmiziJild2Banat.pdf
+inamat-e-rabbani | Inamat e Rabbani Urdu Sharha Al Tirmizi Jild | 2 انعامات ربانی اردو شرح سنن الترمذی۲ | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/InamatERabbaniUrduSharhAlTirmiziJild2.pdf
+jame-ut-tirmizi-urdu | Jame ut Tirmizi Urdu | جامع الترمذی اردو | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/JAME-AL-TIRMEZI-URDU-VOL-1.pdf
+jawami-ur-rasool | Jawami ur Rasool Urdu Sharh Tirmizi | جوامع الرسول اردو شرح ترمذی | Maulana Rasool Khan | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/JAWAMI_AL_RASOOL_URDU_SHARH_TIRMIZI.pdf
+khair-ul-mabood | Khair ul Mabood Urdu Sharha Abu Dawood | خیر المعبود اردو شرح ابو داؤد | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/KhairUlMaboodUrduSharhAbuDawoodBanat.pdf
+khazain-us-sunan | Khazain us Sunan Urdu Sharha Tirmizi | خزائن السنن اردو شرح سنن ترمذی | Maulana Sarfaraz Khan Safdar | https://archive.org/download/DarsENizamiDoraEHadees8thYear/KHAZAIN-US-SUNAN-01.pdf
+maarif-e-tirmizi | Maarif e Tirmizi Sharh Al Tirmizi | معارف ترمذی اردو شرح سنن الترمذی | Mufti Muhammad Tariq | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/MAARIF_E_TIRMIZI_VOL_01.pdf
+maarif-us-sunan | Maarif us Sunan Arabic Sharh Tirmezi | معارف السنن عربی شرح الترمذی | Maulana Yusuf Banuri | https://archive.org/download/MaarifUsSunan/Ma%27arif_Us_Sunan_Vol_01.pdf
+majmaul-bahrain | Majmaul Bahrain Urdu Sharha Al Tirmizi | مجمع البحرین اردو شرح سنن ترمذی | Mufti Nizamuddin Shamzai | https://archive.org/download/DarsENizamiDoraEHadees8thYear/MajmaUlBahrainUrduSharhAlTirmizi.pdf
+maqboolain | Maqboolain Urdu Sharh Jalalain | مقبولین اردو شرح تفسیر جلالین | Maulana Shams ud Din | https://archive.org/download/AlSadisah6thYear1/MAQBOOLAIN_SHARH_JALALAIN_VOL_01.pdf
+sharha-maani-ul-asaar | Sharha Maani ul Asaar | شرح معانی الآثار | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHARH-MAANI-UL-AASAAR-VOL-1-RAHMANIA.pdf
+tafseer-e-kamalain | Tafseer e Kamalain Urdu Sharh Jalalain | تفسیر کمالین اردو شرح تفسیر جلالین | Maulana Muhammad Naeem | https://archive.org/download/AlSadisah6thYear1/TafseerEKamalainVol01.pdf
+tafsir-jamalain | Tafsir Jamalain Urdu Sharh Jalalain | تفسیر جمالین اردو شرح تفسیر جلالین | Maulana Muhammad Jamal | https://archive.org/download/AlSadisah6thYear1/TafseerEJamalainVol01.pdf
+tahzeeb-al-tahawi | Tahzeeb al Tahawi Urdu Sharha Ma’ani al Athar | تہذیب الطحاوی اردو شرح شرح معانی الآثار | Maulana Shamsul Haq Shahabzai | https://archive.org/download/feb-21/TAHZEEB_AL_TAHAWI.pdf
+taqreer-e-tahawi | Taqreer e Tahawi Shareef Urdu | تقریر طحاوی شریف | Maulana Muhammad Asadullah | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/TAQREER_E_TAHAWI_SHAREEF.pdf
+taqreer-e-tirmizi | Taqreer e Tirmizi Urdu | تقریر ترمذی | Mufti Taqi Usmani | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmiziMoamalatVol1.pdf
+taqreer-e-tirmizi-2 | Taqreer e Tirmizi Urdu Sharha Al Tirmizi | تقریر ترمذی اردو | Maulana Ashraf Ali Thanvi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmizi.pdf
+tasheel-ul-jalalain | Tasheel ul Jalalain Urdu Sharh Jalalain | تسہیل الجلالین اردو شرح تفسیر جلالین | Maulana Ijaz Ahmad Azmi | https://archive.org/download/darrs2/TASHEEL_UL_JALALAIN_VOL_01.pdf
+tashil-e-uloom-e-hadith | Tashil e Uloom e Hadith | تسہیل علوم حدیث | Mufti Faizan ur Rahman Kamal | https://archive.org/download/dec_22/TASHIL_E_ULOOM_UL_HADTH.pdf
+tashrih-ul-hidaya | Tashrih ul Hidaya Urdu Sharh Al Hidayah | تشریح الہدایۃ شرح اردو ہدایہ | Maulana Naseebullah | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHREEH_UL_HIDAYA_VOL_01.pdf
+tashrihaat-e-tirmizi-urdu | Tashrihaat e Tirmizi Urdu | تشریحات ترمذی اردو | Maulana Kamal ud Din Al Mustarshid | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TASHRIHAAT_E_TIRMAZI_VOL_01.pdf
+tohfa-tul-abqari | Tohfa tul Abqari Urdu Sharha Al Tirmizi | تحفۃ العبقری اردو شرح سنن الترمذی | Maulana Ikram Ali | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TOHFA-TUL-ABQARI-VOL-1.pdf
+tohfa-tul-almaee | Tohfa tul Almaee Urdu Sharha Al Tirmizi | تحفۃ الالمعی اردو شرح سنن الترمذی | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TohfatUlAlmaeeUrduSharhAlTirmiziVol1.pdf
+urdu-note-tahawi-shareef | Urdu Note Tahawi Shareef | اردو نوٹ طحاوی شریف | Maulana Muhammad Ziauddin | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/NOTE_E_TAHAWI.pdf
+urdu-tarjama-sharha-maani-al-asaar | Urdu Tarjama Sharha Maani al Asaar | اردو ترجمہ طحاوی شریف | - | https://archive.org/download/BestUrduBooks11/Sharh-Maani-ul-Aasaar-Urdu-1.pdf

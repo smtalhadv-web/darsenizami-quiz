@@ -1,0 +1,20 @@
+# alamiyah-1-matn | scraped 2026-11-02 | 18 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+al-hidayah | Al Hidayah Al Bushra | الھدایۃ مكتبة البشرى | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor.pdf
+al-hidayah-maa-ahadithiha-wa-usooliha | Al Hidayah ma’a Ahadithiha wa Usooliha | الہدایۃ مع احادیثہا و اصولہا | Maulana Samiruddin Qasmi | https://archive.org/download/maulana-samiruddin-qasmi/AL_HIDAYAH_MAA_AHADITHIHA_WA_USOOLIHA_VOL_01.pdf
+al-hidayah-rahmania | Al Hidayah Rahmania | الہدایۃ مکتبہ رحمانیہ | - | https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA.pdf
+al-hidayah-rasheediya | Al Hidayah Rasheediya | الھدایۃ المكتبة الرشيدية | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf
+al-jalalain-rahmania | Al Jalalain Maktaba Rahmania | تفسیر الجلالین مکتبہ رحمانیہ | - | https://archive.org/download/LJALALAIN-MUSNADEIMAMAAZAM/TAFSEER%20UL%20JALALAIN-%20RAHMANIA.pdf
+amani-ul-akhbar-sharh-maani-ul-asaar | Amani ul Akhbar Sharh Maani ul Asaar | امانی الاخبار فی شرح معانی الآثار | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AmaniUlAhbarArabicSharhMaaniUlAasarVol1.pdf
+eizah-al-tahawi | Eizah al Tahawi Sharha Tahawi Shareef | ایضاح الطحاوی اردو شرح طحاوی شریف | Maulana Shabir Ahmad Qasmi | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/EIZAH_UT_TAHAWI_VOL_01.pdf
+ithaf-al-zaki | Ithaf al Zaki Urdu Sharh Jami Al Tirmzi | اتحاف الذکی اردو شرح جامع الترمذی | Maulana Shykh Saleemullah Khan | https://archive.org/download/iazaki/ITHAF_AL_ZAKI_VOL_01.pdf
+jame-al-tirmizi | Jame Al Tirmizi Al Bushra | جامع الترمذی البشری | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/JAMI_AL_TIRMIZI_BUSHRA_VOL_01.pdf
+mahasin-e-tirmizi | Mahasin e Tirmizi | محاسن ترمذی | Mufti Atta ur Rahman Multani | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/MAHASIN_E_TIRMIZI_VOL_01.pdf
+nazar-e-tahawi | Nazar e Tahawi | نظر طحاوی | Maulana Muhammad Shafiq ur Rehman | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/NAZR_E_TAHAWI.pdf
+sharha-sunan-e-abi-dawood | Sharha Sunan e Abi Dawood Al Ayni | شرح سنن ابى داؤد للعينى | - | https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-01.pdf
+sunan-e-abe-dawood | Sunan e Abe Dawood | سنن ابی داؤد | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-1-RAHMANIA.pdf
+tafseer-al-jalalain-qadeemi | Tafseer e Jalalain Qadeemi | تفسیر جلالین قدیمی کتب خانہ | - | https://archive.org/download/Jalalain-MusnadImamAazam/TAFSEER%20UL%20JALALAIN-%20QADEMI.pdf
+tafsir-al-jalalain-al-bushra | Tafsir Al Jalalain Al Bushra | تفسیر الجلالین البشری | - | https://archive.org/download/AlSadisah6thYear1/TafseerUlJalalainVol1AlBushraColor.pdf
+taiseer-e-mustalah-al-hadith | Taiseer e Mustalah al Hadith | تیسیر مصطلح الحدیث | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TaiseerEMustalahUlHadithAlBushraColor.pdf
+tasheel-al-tahawi | Tasheel al Tahawi Urdu Sharha Sharh Maani al Asaar | تسہیل الطحاوی اردو شرح طحاوی شریف | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/TASHEEL_UT_TAHAWI.pdf
+usool-e-hidayah | Usool e Hidayah | اصول ہدایہ | Maulana Muhammad Noman | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf

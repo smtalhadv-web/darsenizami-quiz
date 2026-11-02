@@ -1,0 +1,25 @@
+# aliyah-2-sharh | scraped 2026-11-02 | 23 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+aen-ul-hidaya | Aen ul Hidaya Urdu Sharh Al Hidaya | عین الہدایہ اردو شرح ہدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/EainUlHidayaUrduSharhAlHidayaVol1.pdf
+ahsan-ul-hidaya | Ahsan ul Hidaya Urdu Sharh Al Hidaya | احسن الہدایہ اردو شرح ھدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AhsanUlHidayaUrduSharhAlHidaya1.pdf
+al-binayah | Al Binayah Arabic Sharha Al Hidayah | البنایہ عربی شرح الھدایہ | - | https://archive.org/download/AlBinayaSharhAlHidayah/Al_Binaya_Sharh_Al_Hidayah_01.pdf
+al-hidayah-2 | Al Hidayah [Sharh Bidayatul Mubtadi] | الهداية شرح بداية المبتدى | - | https://archive.org/download/oct_22/AL_HIDAYAH_SHARH_BIDAYATUL_MUBTADI_VOL_01.pdf
+al-mafateeh | Al Mafateeh Arabic Sharha Mishkat ul Masabeeh | المفاتیح عربی شرح مشکوۃ المصابیح | - | https://archive.org/download/besturdubooks2/Al-Mateeh-Sharh-Al-Masabeeh-Vol-1.pdf
+al-taqrir-ur-rafee | Al Taqrir ur Rafee Arabic Sharha Mishkat ul Masabeeh | التقریر الرفیع عربی شرح مشکوۃ المصابیح | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlTaqreerUrRafeeVol1ArabicSharhMishkatUlMasabeeh.pdf
+asad-ul-mafateeh | As’ad ul Mafateeh Urdu Sharh Mishkat ul Masabeeh | اسعد المفاتیح اردو شرح مشکوۃ المصابیح | Maulana Abdul Ghani Jajarvi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AsaadUlMafateehVol1UrduSharhMishkatUlMasabeeh.pdf
+ashraf-al-taozeeh | Ashraf al Taozeeh Urdu Taqrir Mishkat ul Masabeeh | اشرف التوضیح اردو تقریر مشکاۃ المصابیح | Maulana Nazir Ahmad | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AshrafUtTaozeehVol1UrduTaqreerMishkatUlMasabeeh.pdf
+ashraf-ul-hidaya | Ashraf ul Hidaya Urdu Sharha Hidaya | اشرف الھدایہ اردو شرح ھدایہ | Maulana Jameel Ahmad Sakrodvi | https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_01.pdf
+asmaar-ul-hidaya | Asmaar ul Hidaya Urdu Sharh Al Hidaya | اثمار الہدایہ اردو شرح ہدایہ | Maulana Samiruddin Qasmi | https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_01.pdf
+dars-e-mishkat-kamil-urdu | Dars e Mishkat | اردو درس مشکوۃ کامل | Maulana Muhammad Ishaq | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/DarsEMishkatKamilVol1UrduSharhMishkatUlMasabeeh.pdf
+eizah-ul-mishkat | Eizah ul Mishkat Urdu Sharha Mishkat al-Masabih | ایضاح المشکاۃ اردو شرح مشکاۃ المصابیح | Maulana Rafiq Ahmad | https://archive.org/download/151119/EIZAHUL_MISHKAT_VOL_01.pdf
+fuyuzaat | Fuyuzaat Urdu Sharh Mishkat ul Masabih | فیوضات اردو شرح مشکوۃ المصابیح | Mufti Muhammad Bilal Banvi | https://archive.org/download/dec_22/FUYOOZAT_SHARH_E_MISHKAT_VOL_01.pdf
+khair-ul-mafateeh | Khair ul Mafateeh Urdu Sharh Mishkat ul Masabeeh | خیر المفاتیح اردو شرح مشکوۃ المصابیح | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/KhairUlMafateehVol1UrduSharhMishkatUlMasabeeh.pdf
+lamaat-ut-tanqeeh | Lamaat ut Tanqeeh Arabic Sharha Mishkat ul Masabeeh | لمعات التنقیح عربی شرح مشکاۃ المصابیح | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-01.pdf
+mazahir-e-haq-urdu | Mazahir e Haq Urdu Sharh Mishkat ul Masabeeh | مظاہر حق اردو شرح مشکوۃ شریف | Maulana Qutbuddin Dehlvi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MuzaherEHaqVol1UrduSharhMishkatUlMasabeeh.pdf
+misfatul-yanabee | Misfatul Yanabee Urdu Sharh Mishkat ul Masabih | مصفاۃ الینابیع اردو شرح مشکوۃ المصابیح | Mufti Muhammad Tahir | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/MISFATUL_YANABEE_VOL_01.pdf
+nafahat-al-tanqih | Nafahat Al Tanqih Urdu Sharh Mishkat ul Masabih | نفحات التنقیح اردو شرح مشکاۃ المصابیح | Maulana Shykh Saleemullah Khan | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/NAFAHAAT_AL_TANQEEH_SHARH_MISHKAT_VOL_01.pdf
+taozihaat-urdu-sharh-mishkat | Taozihaat Urdu Sharh Mishkat ul Masabeeh | توضیحات اردو شرح مشکوۃ المصابیح | Maulana Fazal Muhammad | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TaozihaatVol1UrduSharhMishkatUlMasabeeh.pdf
+tashrih-ul-hidaya | Tashrih ul Hidaya Urdu Sharh Al Hidayah | تشریح الہدایۃ شرح اردو ہدایہ | Maulana Naseebullah | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHREEH_UL_HIDAYA_VOL_01.pdf
+tohfa-tul-miraat | Tohfa tul Miraat Urdu Duroos Al Mishkat | تحفۃ المراٰۃ اردو دروس المشکوۃ | Qari Muhammad Tahir Raheemi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TOHFA_TUL_MIRAT_DUROOS_MISHKAT.pdf
+zia-us-sabeeh | Zia us Sabeeh Urdu Taqrir Mishkat ul Masabeeh | ضیاء الصبیح اردو تقریر مشکوۃ المصابیح | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/ZiaUsSabeehUrduSharhMishkatUlMasabeeh.pdf
+mirqat-ul-mafateeh | مرقاة المفاتيح شرح مشكاة المصابيح للإمام ملا علي القاري | مرقاة المفاتيح شرح مشكاة المصابيح للإمام ملا علي القاري | - | https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_01.pdf

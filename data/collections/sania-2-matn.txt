@@ -1,0 +1,41 @@
+# sania-2-matn | scraped 2026-11-02 | 37 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-afzal-al-tatbeeq-al-asri-ala-masail-al-quduri | Afzal Al Tatbeeq Al Asri ala Masail Al Quduri افضل التطبیق العصری علی مسائل القدوری | افضل التطبیق العصری علی مسائل القدوری | Mufti Muhammad Afzal Ishaati | https://archive.org/download/afzal-al-tatbeeq-al-asri/AFZAL_AL_TATBEEQ_AL_ASRI.pdf
+dn-al-hall-uz-zaroori-urdu-sharh-mukhtasar-ul-quduri | Al Hall uz Zaroori Urdu Sharh Mukhtasar ul Quduri | الحل الضروری اردو شرح مختصر القدوری | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AL-HAL-UL-ZARORI.pdf
+dn-al-jawhara-tun-niyara-arabic-sharh-mukhtasar-ul-quduri | Al Jawhara tun Niyara Arabic Sharh Mukhtasar ul Quduri | الجوہرۃ النیرۃ عربی شرح مختصر القدوری | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlJaoharaTunNaiyyarahMeerMuhammad.pdf
+dn-al-mirqat | Al Mirqat | المرقاۃ | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlMirqatAlBushraColor.pdf
+dn-al-mirqat-ma-taqwiya-tul-mirqat-maulana-ilyas-bin-abdullah-gadhvi | Al Mirqat ma Taqwiya tul Mirqat المرقاۃ مع تقویۃ المرقاۃ Maulana Ilyas Bin Abdullah Gadhvi | المرقاۃ مع تقویۃ المرقاۃ | Maulana Ilyas Bin Abdullah Gadhvi | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AL-MIRQAT-TAQWIYAT-UL-MIRQAT.pdf
+dn-al-mukhtasar-ul-quduri | Al Mukhtasar ul Quduri | المختصر القدوری | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/MukhtasarUlQudoriAlBushraColor.pdf
+dn-al-nahw-ul-wazih-2 | Al Nahw ul Wazih | النحو الواضح | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlNahwUlWazehAlBushraColor.pdf
+dn-al-qaol-us-sawab | Al Qaol us Sawab | القول الصواب فی مسائل الکتاب مختصر القدوری میں مفتٰی بہ اقوال | - | https://ia600709.us.archive.org/23/items/DarsENizamiDarjaSaniah2ndYear1/AlQaolUsSawabFiMasailIlKitab.pdf
+al-qiraat-ur-rashida | Al Qiraat ur Rashida | القراءة الراشدة | Maulana Abul Hasan Ali Nadvi | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AL_QIRAAT_AL_RASHIDAH.pdf
+dn-al-qirat-ur-rasheda | Al Qirat Ur Rasheda | 1،2،3 القراءۃ الراشدہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20QIRAAT%20UL%20RASHEDAH%20VOL%201.pdf
+al-quduri-maa-ahadithih-wa-usoolih | Al Quduri ma’a Ahadithih wa Usoolih | القدوری مع احادیثہ و اصولہ | Maulana Samiruddin Qasmi | https://archive.org/download/maulana-samiruddin-qasmi/AL_QUDURI_MAA_AHADITHIH_WA_USOOLIH_01.pdf
+dn-al-sharh-us-sameeri-urdu-sharh-mukhtasar-ul-quduri | Al Sharh us Sameeri Urdu Sharh Mukhtasar Ul Quduri | الشرح الثمیری اردو شرح مختصر القدوری | Maulana Samiruddin Qasmi | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlSharhUsSameeriUrduSharhAlQuduriVol1.pdf
+dn-al-takmeel-uz-zaroori-urdu-sharh-mukhtasar-ul-quduri | Al Takmeel uz Zaroori Urdu Sharh Mukhtasar Ul Quduri | التکمیل الضروری اردو شرح مختصر القدوری | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlTakmeelUzZarooriUrduSharhAlQuduri.pdf
+anwaar-ul-quduri | Anwaar ul Quduri Urdu Sharh Mukhtasar ul Quduri | انوار القدوری اردو شرح مختصر القدوری | Mufti Waseem Ahmad Qasmi | https://archive.org/download/11320/ANWAAR_UL_QUDURI_VOL_01.pdf
+arabi-ka-muallim | Arabi Ka Muallim | عربی کا معلم | Mawlawi Abdul Sattar Khan | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/ArabiKaMuallimVol1AlBushraColor.pdf
+dn-arabi-ka-muallim | Arabi Ka Muallim | عربی کا معلم | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/ArabiKaMuallimVol3AlBushraColor.pdf
+asaan-mantiq | Asaan Mantiq Sharh Urdu Taiseer ul Mantiq | آسان منطق اردو شرح تیسیر المنطق | Maulana Asmatullah Muavia | https://archive.org/download/amst0/ASAAN_MANTIQ_SHARH_TAISIR_E_MANTIQ.pdf
+dn-asan-taiseer-ul-mantiq | Asan Taiseer ul Mantiq آسان تیسیر المنطق | آسان تیسیر المنطق | Maulana Muhammad Umar Farooq Dervi | https://archive.org/download/asantayseerulmantiq/ASAN_TAYSEER_UL_MANTIQ.pdf
+dn-asas-ul-mantiq | Asas ul Mantiq | اساس المنطق اردو شرح تیسیر المنطق | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AsasUlMantiqUrduSharhTaiseerUlMantiqVol1.pdf
+dn-eisa-ghoji | Eisa Ghoji | ایساغوجی | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/EsaGhojiAlBushraColor.pdf
+dn-fawaid-e-makkia | Fawaid e Makkia | فوائد مکیہ | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/FawaidEMakkiyahAlBushraColor.pdf
+dn-fusool-e-akbari | Fusool e Akbari | فصول اکبری | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/FusoolEAkbariAlBushraColor.pdf
+dn-hidayat-un-nahw | Hidayat un Nahw | ھدایۃ النحو | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/HidayaTunNahwAlBushraColor.pdf
+dn-ilm-us-sigha-arabic | Ilm us Sigha Arabic | علم الصیغہ عربی | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IlmUsSeghaAlBushraColor.pdf
+dn-ilm-us-sigha-farsi | Ilm us Sigha Farsi | علم الصیغہ | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IlmUsSeghaQademi.pdf
+dn-ishraq-e-noori-urdu-sharha-mukhtasar-ul-quduri | Ishraq e Noori Urdu Sharha Mukhtasar ul Quduri | اشراق نوری اردو شرح قدوری | - | https://archive.org/download/darrs2/ISHRAQ_NOORI.pdf
+kaleed-e-arabi-ka-muallim | Kaleed e Arabi Ka Muallim | کلید عربی کا معلم | - | https://archive.org/download/KaleedArabiKaMuallim/Kaleed_Arabi_Ka_Muallim_1.pdf
+muallim-ul-insha | Muallim ul Insha | معلم الانشاء | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MuallimUlInshaVol1.pdf
+dn-new-version-colored | New Version Colored | نیا رنگین نسخہ | - | https://archive.org/download/maulana-abdul-hai-astori/MAARIF_UN_NAHW_SHARH_HIDAYATU_NAHW.pdf
+dn-qadeemi-download-12mb | Qadeemi Download (12MB) | - | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlMukhtasarUlQudoriQademi.pdf
+dn-qadeemi-download-12mb-2 | Qadeemi Download (12MB) (Rashidia Download (20MB)) | تبیین المنطق | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlMukhtasarUlQudoriRashedia.pdf
+tabyin-ul-mantiq | Tabyin ul Mantiq | تبیین المنطق | Maulana Muhammad Zahid Mazahiri | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TABYIN_UL_MANTIQ_SHARH_TAYSIR_UL_MANTIQ.pdf
+tadrees-e-quran | Tadrees e Quran | تدریس قرآن | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/2809_19/TADREES_E_QURAN_PARA_29.pdf
+dn-taiseer-ul-mantiq | Taiseer Ul Mantiq | تیسیر المنطق | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TaiseerUlMantiqAlBushraColor.pdf
+dn-tanveer-ul-mantiq | Tanveer ul Mantiq | تنویر المنطق اردو شرح تیسیر المنطق | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TANVEER_UL_MANTIQ_TASHEEL_TAYSEER_UL_MANTIQ.pdf
+dn-zaad-ul-talibeen | Zaad ul Talibeen | زاد الطالبین | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/ZadUlTalibeenAlBushraColor.pdf
+dn-kitab-2 | سابقہ سادہ نسخہ | سابقہ سادہ نسخہ | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MARIF-UN-NAHW-URDU-SHARH-HIDAYAT-UN-NAHW.pdf
+# FLAGGED — malformed entries on the source site; excluded from the catalogue
+# dn-d-ownload-5mb-3 | D ownload (5MB) | ایساغوجی | - | https://archive.org/download/20102019/AL_QAWL_UL_MUKHTAR.pdf

@@ -1,0 +1,36 @@
+# aliyah-1-sharh | scraped 2026-11-02 | 34 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+afzalur-raji | Afzalur Raji Urdu Sharh Al Siraji | افضل الراجی اردو شرح سراجی | Mufti Muhammad Afzal Ishati | https://archive.org/download/DarjaAlSadisa6thYear/AFZAL-UR-RAJI-URDU-SHARH-SIRAJI-VOL-1.pdf
+al-abbasia | Al Abbasia Urdu Sharh Al Siraji | العباسیہ اردو شرح السراجیہ | Maulana Muhammad Zakaria Al Madni | https://archive.org/download/DarjaAlSadisa6thYear/AlAbasiaUrduSharhAlSiraji.pdf
+al-aqeeda-al-tahawiyyah-urdu | Al Aqeeda Al Tahawiyyah Urdu | العقیدۃ الطحاویہ اردو | - | https://archive.org/download/DarjaAlSadisa6thYear/AlAqidaAlTahawiaUrdu.pdf
+al-minhatul-ilahiyah | Al Minhatul Ilahiyah Urdu Sharh Siraji | المنحۃ الالہیہ اردو شرح سراجی | Maulana Naseeb ur Rahman Alvi | https://archive.org/download/DarjaAlSadisa6thYear/AlMinhatUlEilahiaUrduSharhAlSiraji.pdf
+al-takmeel-al-zaroori | Al Takmeel al Zaroori Sharh Urdu Al Quduri | التکمیل الضروری شرح اردو القدوری | Maulana Abdul Ali Qasmi | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlTakmeelUzZarooriUrduSharhAlQuduri.pdf
+al-tashrih-ul-wafi | Al Tashrih ul Wafi Urdu Sharh Quduri | التشریح الوافی اردو شرح مختصر القدوری | Maulana Naseebullah | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AL_TASHRIH_UL_WAFI_SHARH_QUDOORI.pdf
+anwaraat | Anwaraat Urdu Sharh Mukhtaraat | انوارات اردو شرح مختارات | Maulana Khalid Mahmood | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AnwaraatUrduSharhAlMukhtarat.pdf
+ashraf-ul-anwaar | Ashraf ul Anwaar Urdu Sharh Noor ul Anwaar | اشرف الانوار اردو شرح نور الانوار | Maulana Abdul Hafeez | https://archive.org/download/DarsENizamiDarjaRabea4thYear/ASHRAF_UL_ANWAAR_VOL_01.pdf
+ashraf-ul-noori | Ashraf ul Noori Urdu Sharh Quduri | اشرف النوری اردو شرح قدوری | Maulana Abdul Hafeez | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/ASHRAF-UL-NOORI-VOL-01.pdf
+budoor-ul-fasahat | Budoor ul Fasahat Urdu Sharh Duroos ul Balagha | بدور الفصاحۃ شرح اردو دروس البلاغۃ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/DurosUlBalaghaMeerMuhammad.pdf
+dalil-ul-faleheen | Dalil ul Faleheen Urdu Sharh Riaz us Salehin | دلیل الفالحین اردو شرح ریاض الصالحین | - | https://archive.org/download/DalilUlFaliheen/Dalil-ul-Faliheen-Vol-1.pdf
+dars-e-siraji | Dars e Siraji Urdu Sharh Al Siraji | درس سراجی اردو | Maulana Muhammad Yusuf Tawli | https://archive.org/download/DarjaAlSadisa6thYear/DarsESirajiUrduSharhAlSiraji.pdf
+khair-us-saleheen | Khair us Saleheen Urdu Sharh Riaz us Saleheen | خیر الصالحین اردو شرح ریاض الصالحین | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KHAIR_UL_SALIHEEN_VOL_1.pdf
+khulasa-tul-anwaar | Khulasa tul Anwaar Urdu Sharh Noor ul Anwar | خلاصۃ الانوار اردو شرح نور الانوار | Mufti Abdul Ghafoor | https://archive.org/download/DarsENizamiDarjaRabea4thYear/KhulasatUlAnwarUrduSharhNoorUlAnwar.pdf
+kitab-ul-faraiz | Kitab ul Faraiz Asan Siraji | کتاب الفرائض آسان سراجی | Mufti Muhammad Salman Mansoorpuri | https://archive.org/download/AlSadisah6thYear1/KITAB_UL_FARAIZ_ASAN_SIRAJI.pdf
+lamaat-uz-zahab | Lamaat uz Zahab Urdu Sharh Mukhtaraat | لمعات الذھب اردو شرح مختارات | Maulana Atiq ur Rahman Saif | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/LamaatUzZahabUrduSharhAlMukhtarat.pdf
+maarif-ul-asrar | Maarif ul Asrar Sharha Noor ul Anwaar | معارف الاسرار اردو شرح نور الانوار | Maulana Abdul Hai Astori | https://archive.org/download/maulana-abdul-hai-astori/MAARIF_UL_ASRAR_SHARH_NOOR_UL_ANWAAR.pdf
+miftah-ul-balagha | Miftah ul Balagha Urdu Sharh Duroos ul Balagha | مفتاح البلاغہ اردو شرح دروس البلاغۃ | Maulana Rasheed Ahmad Musa | https://archive.org/download/DarsENizamiDarjaRabea4thYear/MiftahUlBalaghaUrduSharhDuroosUlBalagha.pdf
+mishkat-us-siraj | Mishkat us Siraj Urdu Sharh Al Siraji | مشکوۃ السراج اردو شرح السراجی | Mufti Sabir Ali Amrohi | https://archive.org/download/DarjaAlSadisa6thYear/MishkatUsSirajUrduSharhSiraji.pdf
+mubashshiraat | Mubashiraat Urdu Sharh Mukhtaraat | مبشرات اردو شرح مختارات | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/MubasheratUrduSharhAlMukhtarat.pdf
+nuzhatul-muttaqin | Nuzhatul Muttaqin Urdu Sharh Riaz us Salehin | نزہۃ المتقین اردو شرح ریاض الصالحین | Maulana Shamsuddin | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NUZHA_TUL_MUTTAQEEN_VOL_1.pdf
+qootul-akhyar | Qootul Akhyar Urdu Sharh Noor ul Anwar | قوت الاخیار اردو شرح نور الانوار | Maulana Jameel Ahmad Sakrodvi | https://archive.org/download/DarsENizamiDarjaRabea4thYear/Qout%20Ul%20Akhyar.pdf
+raozatus-saleheen | Raozatus Saleheen Sharh Riaz us Saleheen | روضۃ الصالحین شرح ریاض الصالحین | Maulana Husain Siddiqi | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/RaozatUsSaleheenUrduSharhRiazUsSaleheen1.pdf
+riaz-al-saleheen-urdu | Riaz al Saleheen Urdu | ریاض الصالحین اردو | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/RiazUsSaleheenUrdu1.pdf
+riaz-us-saleheen-urdu | Riaz us Saleheen Urdu | ریاض الصالحین اردو | - | https://archive.org/download/RiazusSalihinUrdu/Riazus%20Salihin%20By%20Imam%20Navavi%20Urdu.pdf
+siraji-hall | Siraji Hall | آدھے گھنٹے میں سراجی حل | Maulana Saifullah Qasmi | https://archive.org/download/AlSadisah6thYear1/AADHE_GANTE_ME_SIRAJI_HAL.pdf
+tafheem-ul-balagha | Tafheem ul Balagha Urdu Sharh Duroos ul Balagha | تفہیم البلاغہ اردو شرح دروس البلاغہ | Maulana Muhammad Yar Abid | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TafheemUlBalaghaUrduSharhDuroosUlBalagha.pdf
+tahzeeb-ul-balagha | Tahzeeb ul Balagha Urdu Sharh Duroos ul Balaghah | تہذیب البلاغہ اردو شرح دروس البلاغہ | Maulana Asghar Ali | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TahzeebUlBalaghaUrduSharhDuroosUlBalagha.pdf
+tajalliyat | Tajalliyat Urdu Sharh Mukhtarat | تجلیات اردو شرح مختارات | Mufti Sabir Mahmood | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/TAJALLIYAT-URDU-SHARH-MUKHTARAT.pdf
+talkhees-ul-faraiz | Talkhees ul Faraiz Urdu Khulasa e Siraji | تلخیص الفرائض اردو خلاصہ سراجی | Maulana Khalid Husain Shah | https://archive.org/download/AlSadisah6thYear1/TALKHEES_UL_FARAIZ_KHULASA_SIRAJI.pdf
+talkhis-ul-anwaar | Talkhis ul Anwaar Urdu Sharh Noor ul Anwar | تلخیص الانوار اردو شرح نور الانوار | Maulana Abdul Musawwir | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TalkheesUlAnwarUrduSharhNoorUlAnwarVol2.pdf
+tareeq-us-salekin | Tareeq us Salekin Urdu Sharh Riaz us Saleheen | طریق السالکین اردو شرح ریاض الصالحین | Maulana Dr. Sajid ur Rahman Siddiqi | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAREEQ_UL_SALIKEEN_VOL_1.pdf
+tasheel-us-siraji | Tasheel us Siraji Urdu Sharh Siraji | تسھیل السراجی اردو شرح سراجی | Mufti Abu Lubaba Shah Mansoor | https://archive.org/download/DarjaAlSadisa6thYear/TasheelUsSirajiUrduSharhAlSiraji.pdf
+tashreeh-us-siraji | Tashreeh us Siraji Urdu Sharh Al Siraji | تشریح السراجی اردو شرح السراجی | Maulana Syed Waqar Ali | https://archive.org/download/DarjaAlSadisa6thYear/TashrihUsSirajiUrduSharhAlSiraji.pdf

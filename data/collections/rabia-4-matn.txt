@@ -1,0 +1,15 @@
+# rabia-4-matn | scraped 2026-11-02 | 13 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-al-maqamaat-ul-haririyah | Al Maqamaat ul Haririyah | المقامات الحریریۃ | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlMaqamatUlHareriyahAlBushraColor.pdf
+dn-al-qutbi | Al Qutbi | القطبی | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlQutbiAlBushraColor.pdf
+dn-duroos-ul-balagha | Duroos ul Balagha | دروس البلاغۃ | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/DurosUlBalaghaAlBushraColor.pdf
+khulasatul-qutbi | Khulasatul Qutbi | خلاصۃ القطبی | Maulana Ali Muhammad | https://archive.org/download/DarsENizamiDarjaRabea4thYear/KHULASATUL_QUTBI.pdf
+dn-lataif-ul-maani-urdu-sharh-sharh-e-jami-2 | Lataif ul Maani Urdu Sharh Sharh e Jami | لطائف المعانی اردو شرح شرح جامی | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/LataifUlMaaniUrduSharhSharhUlJami.pdf
+dn-noor-ul-anwaar | Noor Ul Anwaar | نورالانوار | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/NoorUlAnwaarVol2AlBushraColor.pdf
+dn-noor-ul-anwaar-2 | Noor Ul Anwaar | نورالانوار | - | https://archive.org/download/NOORULANWAAR/NOOR%20UL%20ANWAAR%20RAHMANIA.pdf
+riaz-us-salehin | Riaz us Salehin | ریاض الصالحین | - | https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28AlBushra%29%20By%20Imam%20Navavi.pdf
+sharh-e-jami | Sharh e Jami | شرح ملا جامی | - | https://archive.org/download/SHARHJAMI/SHARH_MULLA_JAMI_AL_BUSHRA_COLOR_01.pdf
+sharh-e-jami-2 | Sharh e Jami | شرح جامی | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%B4%D9%87%D9%88%D8%B1%20%D8%A8%D9%85%D9%84%D8%A7%20%D8%AC%D8%A7%D9%85%D9%8A.pdf
+dn-sharh-e-jami-uloom-e-islamia | Sharh e Jami Uloom e Islamia | شرح ملا جامی علوم اسلامیہ | - | https://archive.org/download/SHARHJAMI/SHARH-JAMI-ULOOM-E-ISLAMIA.pdf
+tafheem-e-qutbi | Tafheem e Qutbi | تفہیم قطبی | Mufti Faizan ur Rahman Kamal | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TAFHIM_E_QUTBI.pdf
+dn-tafheem-e-qutbi-mufti-faizan-ur-rahman-kamal | Tafheem e Qutbi تفہیم قطبی Mufti Faizan ur Rahman Kamal | تفہیم قطبی | Mufti Faizan ur Rahman Kamal | https://archive.org/download/DarsENizamiDarjaRabea4thYear/KHULAS_E_QUTBI.pdf

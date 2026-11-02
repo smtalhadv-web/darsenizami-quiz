@@ -1,0 +1,16 @@
+# khasa-2-matn | scraped 2026-11-02 | 14 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+al-hall-al-zaroori | Al Hall al Zaroori Urdu Sharh Mukhtasar ul Quduri | الحل الضروری اردو شرح مختصر القدوری | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AL-HAL-UL-ZARORI.pdf
+al-jawhara-al-niyara | Al Jawhara al Niyara Arabic Sharh Mukhtasar ul Quduri | الجوهرة النيرة عربى شرح القدورى | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlJaoharaTunNaiyyarahMeerMuhammad.pdf
+al-mukhtasar-ul-quduri | Al Mukhtasar ul Quduri Al Bushra | المختصر القدوری مکتبۃ البشری | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/MukhtasarUlQudoriAlBushraColor.pdf
+al-sharh-al-sameeri | Al Sharh al Sameeri Urdu Sharh Mukhtasar ul Quduri | الشرح الثمیری اردو شرح مختصر القدوری | Maulana Samiruddin Qasmi | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlSharhUsSameeriUrduSharhAlQuduriVol1.pdf
+anwaar-ul-quduri | Anwaar ul Quduri Urdu Sharh Mukhtasar ul Quduri | انوار القدوری اردو شرح مختصر القدوری | Mufti Waseem Ahmad Qasmi | https://archive.org/download/11320/ANWAAR_UL_QUDURI_VOL_01.pdf
+asaan-mantiq | Asaan Mantiq Sharh Urdu Taiseer ul Mantiq | آسان منطق اردو شرح تیسیر المنطق | Maulana Asmatullah Muavia | https://archive.org/download/amst0/ASAAN_MANTIQ_SHARH_TAISIR_E_MANTIQ.pdf
+asan-taiseer-ul-mantiq | Asan Taiseer ul Mantiq | آسان تیسیر المنطق | Maulana Muhammad Umar Farooq Dervi | https://archive.org/download/asantayseerulmantiq/ASAN_TAYSEER_UL_MANTIQ.pdf
+asas-ul-mantiq | Asas ul Mantiq Urdu Sharh Tayseer ul Mantiq | اساس المنطق اردو شرح تیسیر المنطق | Maulana Saif ur Rahman Qasim | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AsasUlMantiqUrduSharhTaiseerUlMantiqVol1.pdf
+hidayat-un-nahw | Hidayat un Nahw | ہدایۃ النحو | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/HidayaTunNahwAlBushraColor.pdf
+ilm-us-seegha | Ilm us Seegha Farsi | علم الصیغہ | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IlmUsSeghaQademi.pdf
+ilm-us-sigha | Ilm us Sigha Arabic | علم الصيغة عربى | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IlmUsSeghaAlBushraColor.pdf
+tanvir-ul-mantiq | Tanvir ul Mantiq Sharh Taiseer ul Mantiq | تنویر المنطق اردو شرح تیسیر المنطق | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TANVEER_UL_MANTIQ_TASHEEL_TAYSEER_UL_MANTIQ.pdf
+tayseer-ul-mantiq | Tayseer ul Mantiq | تیسیر المنطق | - | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TaiseerUlMantiqAlBushraColor.pdf
+usool-al-shashi | Usool al Shashi | اصول الشاشی | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUlShashiAlBushraColor.pdf

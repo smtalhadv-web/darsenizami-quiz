@@ -1,0 +1,25 @@
+# aliyah-2-matn | scraped 2026-11-02 | 23 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+al-faraid-ul-bahiyah | Al Faraid ul Bahiyah Urdu Sharh Sharh ul Aqaid | الفرائد البھیۃ اردو شرح شرح العقائد | Mufti Muhammad Aslam | https://archive.org/download/DarjaAlSadisa6thYear/AL_FARAID_UL_BAHIYAH_UR_SHRH_SHARH_UL_AQAID.pdf
+al-hidayah | Al Hidayah Al Bushra | الھدایۃ مكتبة البشرى | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor.pdf
+al-hidayah-maa-ahadithiha-wa-usooliha | Al Hidayah ma’a Ahadithiha wa Usooliha | الہدایۃ مع احادیثہا و اصولہا | Maulana Samiruddin Qasmi | https://archive.org/download/maulana-samiruddin-qasmi/AL_HIDAYAH_MAA_AHADITHIHA_WA_USOOLIHA_VOL_01.pdf
+al-hidayah-rahmania | Al Hidayah Rahmania | الہدایۃ مکتبہ رحمانیہ | - | https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA.pdf
+al-hidayah-rasheediya | Al Hidayah Rasheediya | الھدایۃ المكتبة الرشيدية | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf
+al-jawahir-ul-bahiyah | Al Jawahir ul Bahiyah Arabic Sharh Sharh ul Aqaid | الجواهر البهية عربی شرح شرح العقائد | Maulana Shams ud Din Afghani | https://archive.org/download/DarjaAlSadisa6thYear/AL-JAWAHIR-UL-BAHIYAH-VOL-01.pdf
+al-khayali | Al Khayali Arabic Sharh Sharh ul Aqaid | الخیالی عربی شرح شرح العقائد | - | https://archive.org/download/MantiqOFalsafaBooks/AL%20KHAYALI%20HAQQANIA---www.besturdubooks.wordpress.com.pdf
+al-nibras | Al Nibras Arabic Sharh Sharh ul Aqaid | النبراس شرح عربی شرح العقائد | Muhammad Abdul Al Aziz Al Farhari | https://archive.org/download/BayanUlFawaid/Al%20Nibraas%20Arabic%20Sharh%20Sharh%20ul%20Aqaid.pdf
+ashraf-ul-fawaid | Ashraf ul Fawaid Urdu Sharh Sharh ul Aqaid | اشرف الفوائد اردو شرح شرح العقائد | Mufti Fida Muhammad | https://archive.org/download/DarjaAlSadisa6thYear/AshrafulFawaidUrduSharhSharhUlAqaid.pdf
+bayan-ul-fawaid | Bayan ul Fawaid Urdu Sharh Sharh ul Aqaid | بیان الفوائد اردو شرح شرح العقائد | Maulana Mujeebullah Gondvi | https://archive.org/download/BayanUlFawaid/Bayan%20ul%20Fawaid%20Sharh%20Urdu%20Sharh%20ul%20Aqaid%201%2C2%20By%20Maulana%20Mujibullah.pdf
+jawahir-ul-faraid | Jawahir ul Faraid Urdu Sharh Sharh ul Aqaid | جواہر الفرائد اردو شرح شرح العقائد | Maulana Muhammad Yusuf Tawli | https://archive.org/download/DarjaAlSadisa6thYear/JawahirUlFaraidUrduSharhSharhUlAqaid.pdf
+kashf-ul-faraid | Kashf ul Faraid Urdu Sharh Sharh ul Aqaid | کشف الفرائد اردو شرح شرح العقائد | Maulana Abdur Rauf | https://archive.org/download/DarjaAlSadisa6thYear/KashfUlFaraidUrduSharhSharhUlAqaid.pdf
+khair-ul-usool | Khair ul Usool | خیر الاصول | Maulana Khair Muhammad Jalandhari | https://archive.org/download/DarjaAlSadisa6thYear/KhairUlUsool-AlBushraColor.pdf
+mishkat-ul-masabeeh | Mishkat ul Masabeeh Rahmania | مشکوۃ المصابیح رحمانیہ | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkarUlMasabeehVol1Rahmania.pdf
+mishkat-ul-masabih-al-bushra | Mishkat ul Masabih Al Bushra | مشکوۃ المصابیح البشری | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehVol1AlBushraColor.pdf
+mishkat-ul-masabih-qadimi | Mishkat ul Masabih Qadimi | مشکوۃ المصابیح قدیمی | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehQademi.pdf
+muhaddiseen-e-ezaam-aur-unki-kitabon-ka-taaruf | Muhaddiseen e Izam aur unki Kitabon ka Ta’aruf | محدثین عظام اور ان کی کتابوں کا تعارف | Shaykh Saleemullah Khan | https://archive.org/download/BESTUBOOKS1118/MUHADDESEEN_EZAAM_AUR_UNKI_KITABON_KA_TAARUF.pdf
+nashr-ul-fawaid | Nashr ul Fawaid Urdu Khulasa Sharh ul Aqaid | نشر الفوائد اردو خلاصہ شرح العقائد | Maulana Ubaidul Haq | https://archive.org/download/DarjaAlSadisa6thYear/NashrUlFawaidUrduSharhSharhUlAqaid.pdf
+shams-ul-fawaid | Shams ul Fawaid Urdu Sharh Sharh ul Aqaid | شمس الفوائد اردو شرح شرح العقائد | Maulana Khurshid Alam | https://archive.org/download/AlSadisah6thYear1/SHAMSUL_FAWAID_SHARH_SHARHUL_AQAID.pdf
+sharh-ul-aqaid-al-nasafiya | Sharh ul Aqaid Al Nasafiya | شرح العقائد النسفیہ | Allama Taftazani | https://archive.org/download/DarjaAlSadisa6thYear/SharhUlAqaidUnNasafiyah-AlBushra.pdf
+taozeeh-ul-aqaid | Taozeeh ul Aqaid Urdu Sharh Sharh ul Aqaid | توضیح العقائد اردو شرح شرح العقائد | Maulana Ikram ul Haq | https://archive.org/download/DarjaAlSadisa6thYear/TaozeehUlAqaidUrduSharhSharhUlAqaid.pdf
+uloom-ul-quran | Uloom ul Quran | علوم القرآن | Mufti Muhammad Taqi Usmani | http://archive.org/download/UloomUlQuran_201310/Uloom-ul-Quran.pdf
+usool-e-hidayah | Usool e Hidayah | اصول ہدایہ | Maulana Muhammad Noman | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf

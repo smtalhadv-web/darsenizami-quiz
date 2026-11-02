@@ -1,0 +1,39 @@
+# dora-matn | scraped 2026-11-02 | 35 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-al-bushra-black | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_MUATTA_LI_IMAM_MUHAMMAD_VOL_01_AL_BUSHRA.pdf
+dn-al-bushra-black-7m-2 | Al Bushra Black (7M) | - | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHAMAIL-E-TIRMEZI-AL-BUSHRA-BLACK.pdf
+dn-al-bushra-color | Al Bushra Color | - | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AlMuattaLilImamMuhammadVol1AlBushraColor.pdf
+dn-al-bushra-color-50m | Al Bushra Color (50M) | الجامع الکبیر سنن الترمذی مع الکوکب الدری | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHAMAIL-E-TIRMEZI-AL-BUSHRA-COLOR.pdf
+dn-al-jame-ul-kabir-sunan-al-tirmezi | Al Jame ul Kabir (Sunan Al Tirmezi) | الجامع الکبیر سنن الترمذی مع الکوکب الدری | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_01.pdf
+dn-al-mizan | Al Mizan | - | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_MUATTA_LI_IMAM_MUHAMMAD_AL_MEEZAN.pdf
+dn-al-mizan-2 | Al Mizan | المؤطا امام مالک | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/MUATT_IMAM_MUHAMMAD_RAHMANIA.pdf
+dn-al-moatta-imam-malik | Al Moatta Imam Malik | المؤطا امام مالک | - | https://archive.org/download/AlMuattaImamMalik/AL_MUATTA_IMAM_MALIK_VOL_01_AL_BUSHRA_COLOR.pdf
+dn-al-moatta-imam-malik-2 | Al Moatta Imam Malik | المؤطا امام مالک | - | https://archive.org/download/AlMuattaImamMalik/Al_Muatta_Imam_Malik_Vol_1.pdf
+dn-al-sahih-li-muslim-4 | Al Sahih Li Muslim | صحیح مسلم | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AlSahiLiMuslimVol1Rahmania.pdf
+dn-al-sahih-li-muslim-2 | Al Sahih Li Muslim (Maktaba Al Bushra Black) | صحیح مسلم | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AL-SAHI-LI-MUSLIM-VOL-01-AL-BUSHRA.pdf
+dn-al-sahih-li-muslim | Al Sahih Li Muslim (Maktaba Al Bushra Color) | صحیح مسلم | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AL-SAHI-LI-MUSLIM-VOL-01-AL-BUSHRA-COLOR.pdf
+dn-al-sahih-li-muslim-3 | Al Sahih Li Muslim (Qadimi Kutubkhana) | صحیح مسلم | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AlSahiLiMuslimVol1Qademi.pdf
+dn-jame-ut-tirmezi | Jame ut Tirmezi | جامع الترمذی | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/JAMI_AL_TIRMIZI_BUSHRA_VOL_01.pdf
+dn-jame-ut-tirmezi-4 | Jame ut Tirmezi | جامع الترمذی | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/JAME-AL-TIRMEZI-VOL-1-RAHMANIA.pdf
+dn-jame-ut-tirmezi-3 | Jame ut Tirmezi (Altaf & Sons) | جامع الترمذی | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/JAME-AL-TIRMEZI-VOL-1-ALTAF.pdf
+dn-jame-ut-tirmezi-2 | Jame ut Tirmezi (Qadimi Kutubkhana Download Link 1) | جامع الترمذی | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/JAME-AL-TIRMEZI-VOL-1-QADEMI.pdf
+dn-jame-ut-tirmezi-urdu | Jame ut Tirmezi Urdu | جامع الترمذی اردو | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/JAME-AL-TIRMEZI-URDU-VOL-1.pdf
+dn-sahih-muslim-shareef-urdu-2 | Sahih Muslim Shareef Urdu | صحیح مسلم شریف اردو | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SAHI-MUSLIM-SHAREEF-URDU-VOL-01.pdf
+dn-sahih-muslim-urdu | Sahih Muslim Urdu | صحیح مسلم اردو | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_MUSLIM_URDU_VOL_01.pdf
+dn-sahih-ul-bukhari | Sahih ul Bukhari | صحيح البخاري | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf
+dn-sahih-ul-bukhari-3 | Sahih ul Bukhari | صحيح البخاري | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol1Rahmania.pdf
+dn-sahih-ul-bukhari-2 | Sahih ul Bukhari (Altaf & Sons) | صحيح البخاري | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SAHI-AL-BUKHARI-VOL-1-ALTAF-AND-SONS.pdf
+dn-sahih-ul-bukhari-4 | Sahih ul Bukhari (Qadimi Kutubkhana) | صحيح البخاري | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol1Qademi.pdf
+dn-sahih-ul-bukhari-urdu | Sahih ul Bukhari Urdu | صحیح البخاری اردو | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_BUKHARI_URDU_VOL_01.pdf
+dn-shamail-un-nabi-s-a-w | Shamail un Nabi [S.A.W] | شمائل النبیﷺ | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SHAMAIL_UN_NABI_AL_KAOKAB_UD_DURI_VOL_09.pdf
+dn-sharh-e-maani-ul-asaar | Sharh e Ma’ani ul Asaar | شرح معانی الآثار | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SHARH-MAANI-UL-AASAAR-VOL-1-RAHMANIA.pdf
+dn-sunan-e-abu-dawood-2 | Sunan e Abu Dawood | سنن ابو داؤد | Shykh Abul Hasan Al Sindhi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-1-RAHMANIA.pdf
+dn-sunan-e-abu-dawood-3 | Sunan e Abu Dawood | سنن ابو داؤد | Shykh Abul Hasan Al Sindhi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-1-HAQQANIA.pdf
+dn-sunan-e-abu-dawood-4 | Sunan e Abu Dawood | سنن ابو داؤد | Shykh Abul Hasan Al Sindhi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-MEER-MUHAMMAD.pdf
+dn-sunan-e-ibn-e-maja-2 | Sunan e Ibn-e-Maja | سنن ابن ماجہ | Maulana Asad Qasim Sambhali | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-IBN-E-MAJA-RAHMANIA.pdf
+dn-sunan-e-ibn-e-maja | Sunan e Ibn-e-Maja (Qadimi Kutubkhana) | سنن ابن ماجہ | Maulana Asad Qasim Sambhali | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-IBN-E-MAJA-QADEMI.pdf
+dn-sunan-e-ibn-e-maja-urdu | Sunan e Ibn-e-Maja Urdu | سنن ابن ماجہ اردو | Maulana Asad Qasim Sambhali | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-IBN-E-MAJA-URDU-VOL-1.pdf
+dn-sunan-e-nasai | Sunan e Nasai (Qadimi Kutubkhana) | سنن نسائی | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-NASAI-VOL-1-QADEMI.pdf
+dn-sunan-e-nasai-urdu | Sunan e Nasai Urdu | سنن نسائی اردو | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-NASAI-URDU-VOL-1.pdf
+# FLAGGED — malformed entries on the source site; excluded from the catalogue
+# dn-d-ownload-59mb | D ownload (59MB) | جامع الترمذی | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/MUATT_IMAM_MALIK_RAHMANIA.pdf

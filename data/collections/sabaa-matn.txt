@@ -1,0 +1,23 @@
+# sabaa-matn | scraped 2026-11-02 | 21 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-al-bushra | Al Bushra | - | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlTibyanAlBushraColor.pdf
+dn-al-bushra-2 | Al Bushra | - | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/SharahNukhbaTulFikrAlBushraColor.pdf
+dn-al-bushra-black-2 | Al Bushra Black | - | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiAlBushra.pdf
+dn-al-bushra-color-2 | Al Bushra Color | الھیئۃ الوسطی | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiAlBushraColor.pdf
+dn-al-haiat-ul-wusta-2 | Al Hai’at Ul Wusta | الھیئۃ الوسطی | - | https://archive.org/download/ALHAIATULWUSTA/AL%20HAI%27AT%20UL%20WUSTA.pdf
+dn-al-hidaya-al-bushra-vol | Al Hidaya Al Bushra Vol | 5-8 الھدایۃ البشری | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol5AlBushraColor.pdf
+dn-al-hidaya-vol | Al Hidaya Vol | 3-4 الھدایۃ | - | https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-3-RAHMANIA.pdf
+dn-al-hidaya-vol-2 | Al Hidaya Vol | 3-4 الھدایۃ | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol3Rashedia.pdf
+al-hidayah-2 | Al Hidayah [Sharh Bidayatul Mubtadi] | الهداية شرح بداية المبتدى | - | https://archive.org/download/oct_22/AL_HIDAYAH_SHARH_BIDAYATUL_MUBTADI_VOL_01.pdf
+al-hidayah | Al Hidayah Al Bushra | الھدایۃ مكتبة البشرى | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor.pdf
+al-hidayah-rahmania | Al Hidayah Rahmania | الہدایۃ مکتبہ رحمانیہ | - | https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA.pdf
+al-hidayah-rasheediya | Al Hidayah Rasheediya | الھدایۃ المكتبة الرشيدية | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf
+dn-al-mutawwal | Al Mutawwal | المطول | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AL-MUTAWWAL.pdf
+dn-nukhbatul-fikar-ma-imdad-un-nazar | Nukhbatul Fikar ma Imdad un Nazar | نخبۃ الفکر مع امداد النظر | Maulana Ilyas Bin Abdullah Gadhvi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/NUHBA-TUL-FIKAR-IMDAD-UN-NAZAR.pdf
+dn-qadimi-2 | Qadimi | - | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlTibyanQadimi.pdf
+dn-qadimi-3 | Qadimi | تفسیر بیضاوی مکمل | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/SharahNukhbaTulFikrQademi.pdf
+dn-tafseer-e-baizawi | Tafseer e Baizawi | تفسیر بیضاوی مکمل | - | https://archive.org/download/TafseerBaizawi/Tafseer-Baizawi-01.pdf
+dn-tafseer-e-baizawi-meer-muhammad | Tafseer e Baizawi Meer Muhammad | تفسیر بیضاوی | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiMeerMuhammad.pdf
+dn-tafseer-e-baizawi-rahmania | Tafseer e Baizawi Rahmania | تفسیر بیضاوی | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiRahmania.pdf
+dn-tafseer-e-baizawi-rashidia | Tafseer e Baizawi Rashidia | تفسیر بیضاوی | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiRashedia.pdf
+dn-taiseer-e-mustalah-ul-hadith | Taiseer e Mustalah ul Hadith | تیسیر مصطلح الحدیث | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TaiseerEMustalahUlHadithAlBushraColor.pdf
