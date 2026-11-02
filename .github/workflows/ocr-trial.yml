@@ -44,7 +44,8 @@ jobs:
       - name: Fetch the PDF
         run: |
           mkdir -p work/pages
-          curl -sSL --max-time 300 -o work/book.pdf "${{ inputs.pdf_url }}"
+          curl -sSL --max-time 600 --retry 5 --retry-delay 5 --retry-all-errors \
+            -o work/book.pdf "${{ inputs.pdf_url }}"
           ls -lh work/book.pdf
           pdfinfo work/book.pdf | head -15
 
