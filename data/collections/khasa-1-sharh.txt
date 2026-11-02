@@ -1,4 +1,4 @@
-# khasa-1-sharh | Banat Khasa Year 1 — Shuroohat | scraped 2026-11-02 | 17 entries
+# khasa-1-sharh | scraped 2026-11-02 | 17 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 al-hadaiq-ul-arabia | Al Hadaiq ul Arabia Urdu Sharh Al Tariqa tul Asria | الحدائق العربیہ اردو ترجمہ الطریقۃ العصریہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlHadaiqUlArabiaUrduSharhAlTariqatulAsria.pdf
 al-tohfatul-marziyah | Al Tohfatul Marziyah Urdu Tarjama Al Tariqatul Asria | التحفۃ المرضیہ اردو ترجمہ الطریقۃ العصریہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlTohfatUlMarziahUrduTarjamaAlTariqatulAsria.pdf

@@ -1,4 +1,4 @@
-# sabaa-sharh | scraped 2026-11-02 | 41 entries
+# sabaa-sharh | scraped 2026-11-02 | 60 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 aen-ul-hidaya | Aen ul Hidaya Urdu Sharh Al Hidaya | عین الہدایہ اردو شرح ہدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/EainUlHidayaUrduSharhAlHidayaVol1.pdf
 dn-aen-ul-hidaya-urdu-sharh-al-hidaya-vol-3 | Aen ul Hidaya Urdu Sharh Al Hidaya Vol 3, | 4 عین الھدایہ اردو شرح ھدایہ | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AenUlHidayaVol6UrduSharhAlHidaya.pdf
@@ -41,6 +41,25 @@ dn-nafahat-al-tanqih-urdu-sharh-mishkat-ul-masabih | Nafahat Al Tanqih Urdu Shar
 noor-ul-qamar | Noor ul Qamar Sharh Nuzhatun Nazar | نور القمر شرح نزہۃ النظر | Maulana Habib ur Rahman Al Azami | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/NOORUL_QAMAR_SHARH_NUZHATUN_NAZAR.pdf
 nudhratun-nazar | Nudhratun Nazar Sharh Urdu Sharh-e-Nukhba | نضرۃ النظر شرح اردو شرح نخبة الفكر | Maulana Muhammad Imran | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/NUDHRATUN_NAZAR_SHARH_NUKHBATUL_FIKAR.pdf
 dn-nuzha-tun-nazar-arabic-sharh-e-nukhbah-tul-fikar | Nuzha tun Nazar Arabic Sharh e Nukhbah tul Fikar | نزھۃ النظر عربی شرح شرح نخبۃ الفکر | Allama Wajihuddin Gujrati | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/SHARH_NUZHA_TUN_NAZAR.pdf
+dn-qatarat-ul-etar-urdu-sharh-nukhbat-ul-fikar-2 | Qatarat ul Etar Urdu Sharh Nukhbat ul Fikar | قطرات العطر اردو شرح شرح نخبۃ الفکر | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/QatratUlEtarUrduSharhNuhbatUlFikar.pdf
+dn-salat-ul-qurbah-urdu-sharh-nukhbat-ul-fikar | Sal’at ul Qurbah Urdu Sharh Nukhbat ul Fikar | سلعۃ القربۃ اردو شرح شرح نخبۃ الفکر | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/SalatUlQurbahUrduSharhNuhbatUlFikar.pdf
+sharh-nukhba-tul-fikar-ki-asan-sharh | Sharh Nukhba tul Fikar ki Asan Sharh | شرح نخبۃ الفکر کی آسان شرح | Mufti Abdur Rauf Sakharvi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/SHARH_NUKHBA_TUL_FIKAR_KI_ASAN_SHARH.pdf
+tafheem-ul-hidaya | Tafheem ul Hidaya Sharh Hidaya | تفہیم الہدایہ شرح اردو ہدایہ | Maulana Jameel Ahmad Sakrodvi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TAFHIM_UL_HIDAYAH_SHARH_HIDAYA_RABE.pdf
+dn-tanzim-ud-diraya-urdu-sharh-al-hidaya-vol-3 | Tanzim ud Diraya Urdu Sharh Al Hidaya Vol 3, | 4 تنظیم الدرایہ لحل عویضات الھدایہ | - | https://archive.org/download/TanzeemUdDirayah/Tanzeem_ud_Dirayah.pdf
+dn-taozihaat-urdu-sharh-mishkat-ul-masabeeh | Taozihaat Urdu Sharh Mishkat ul Masabeeh | توضیحات اردو شرح مشکوۃ المصابیح | Maulana Fazal Muhammad | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TaozihaatVol1UrduSharhMishkatUlMasabeeh.pdf
+dn-taqrir-e-shahi-bar-tafsir-baizawi | Taqrir e Shahi bar Tafsir Baizawi تقریر شاہی بر تفسیر بیضاوی | تقریر شاہی بر تفسیر بیضاوی | Maulana Syed Anzar Shah Kashmiri | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TAQRIR_E_SHAHI_TAFSIR_E_BAIZAWI.pdf
+tasheel-e-baizawi | Tasheel e Baizawi | تسہیل بیضاوی | Maulana Mujeeb ur Rahman Paroa | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHEEL_E_BAIZAWI_URDU.pdf
+tashrih-ul-hidaya | Tashrih ul Hidaya Urdu Sharh Al Hidayah | تشریح الہدایۃ شرح اردو ہدایہ | Maulana Naseebullah | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHREEH_UL_HIDAYA_VOL_01.pdf
+tashrihat-e-nisari | Tashrihat e Nisari Sharh Tafseer e Baizawi | تشریحات نثاری شرح تفسیر بیضاوی | Mufti Nisar Muhammad | https://archive.org/download/maulana-m-nisar/TASHRIHAT_E_NISARI_FI_TAFSIR_AL_BAIZAWI.pdf
+dn-tohfa-tul-miraat-urdu-duroos-al-mishkat-by | Tohfa tul Miraat Urdu Duroos Al Mishkat تحفۃ المراٰۃ اردو دروس المشکوۃ By | تحفۃ المراٰۃ اردو دروس المشکوۃ | Qari Muhammad Tahir Raheemi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TOHFA_TUL_MIRAT_DUROOS_MISHKAT.pdf
+dn-tohfat-ud-durar-urdu-sharh-nukhbat-ul-fikar | Tohfat ud Durar Urdu Sharh Nukhbat ul Fikar | تحفۃ الدرر اردو شرح شرح نخبۃ الفکر | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TohfatUdDurarUrduSharhNuhbatUlFikar.pdf
+dn-tohfatul-qamar-urdu-sharh-nuzhatun-nazar | Tohfatul Qamar Urdu Sharh Nuzhatun Nazar تحفۃ القمر اردو شرح نزہۃ النظر | تحفۃ القمر اردو شرح نزہۃ النظر | Mufti Muhammad Shahid Qasmi | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TUHFAT_UL_QAMAR_URDU_SHARH_NUZHATUN_NAZAR.pdf
+dn-umdat-un-nazar-urdu-sharh-nukhbat-ul-fikar | Umdat un Nazar Urdu Sharh Nukhbat ul Fikar | عمدۃ النظر اردو شرح شرح نخبۃ الفکر | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/UmdatUnNazarUrduSharhNuhbatUlFikar.pdf
+dn-urdu-sharh-sharh-e-nukhbah-tul-fikar | Urdu Sharh Sharh e Nukhbah tul Fikar | اردو شرح شرح نخبۃ الفکر | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/SHARH_URDU_NUHBA_TUL_FIKAR.pdf
+usool-e-hidayah | Usool e Hidayah | اصول ہدایہ | Maulana Muhammad Noman | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf
+dn-usool-e-hidayah-jild-3-4 | Usool e Hidayah Jild 3,4 – اصول ہدایہ جلد ۲-۴ | اصول ہدایہ جلد ۲-۴ | Maulana Muhammad Noman | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/USOOL_E_HIDAYAH_VOL_03-04.pdf
+dn-wasila-tuz-zafar-urdu-sharh-nukhbah | Wasila tuz Zafar Urdu Sharh Nukhbah | وسیلۃ الظفر اردو شرح نخبۃ الفکر | - | http://www.mediafire.com/file/zko6s7w111u71ll/WASILAT-UZ-ZAFAR-URDU-SHARH-NUKHBAT-UL-FIKR.pdf/file
+dn-zia-us-sabeeh-urdu-taqrir-mishkat-ul-masabeeh | Zia us Sabeeh Urdu Taqrir Mishkat ul Masabeeh | ضیاء الصبیح اردو شرح مشکوۃ المصابیح | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/ZiaUsSabeehUrduSharhMishkatUlMasabeeh.pdf
 # FLAGGED — malformed entries on the source site; excluded from the catalogue
 # dn-d-ownload-13mb-2 | D ownload (13MB) | - | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/PARCHAJAAT_SABIA_2021.pdf
 # dn-d-ownload-15mb | D ownload (15MB) | - | - | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/NASEEM_UL_BAYAN_URDU_SHARH_AL_TIBYAN.pdf

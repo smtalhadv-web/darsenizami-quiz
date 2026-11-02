@@ -1,4 +1,4 @@
-# salesa-3-sharh | scraped 2026-11-02 | 48 entries
+# salesa-3-sharh | scraped 2026-11-02 | 55 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 dn-ahsan-ul-masail-urdu-tarjama-kanz-ud-daqaiq | Ahsan ul Masail Urdu Tarjama Kanz ud Daqaiq | احسن المسائل اردو شرح کنز الدقائق | Maulana Muhammad Ahsan Nanotvi | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AhsanUlMasailUrduTarjamaKanzUdDaqaiq.pdf
 dn-ajmal-ul-hawashi-urdu-sharh-usool-ush-shashi | Ajmal ul Hawashi Urdu Sharh Usool ush Shashi | اجمل الحواشی اردو شرح اصول الشاشی | Maulana Muhammad Ishaq Siddiqi | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AjmalUlHawashiUrduSharhUsoolUshShashi.pdf
@@ -48,3 +48,10 @@ dn-tasheel-e-usool-al-shashi | Tasheel e Usool Al Shashi | تسہیل اصول �
 dn-tasheel-ul-haqaiq-urdu-sharh-kanz-ud-daqaiq | Tasheel ul Haqaiq Urdu Sharh Kanz ud Daqaiq | تسھیل الحقائق اردو شرح کنز الدقائق | Maulana Naseebullah | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TasheelUlHaqaiqUrduSharhKanzUdDaqaiq1.pdf
 dn-tasheel-ul-insha-urdu-sharh-muallim-ul-insha | Tasheel ul Insha Urdu Sharh Muallim ul Insha | 2 تسھیل الانشاء اردو شرح معلم الانشاء | Mufti Muhammad Ibrahim | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TasheelUlInshaUrduSharhMuallimUlInsha2.pdf
 dn-tayseer-ul-haqaiq-arabic-sharh-kanz-al-daqaiq | Tayseer ul Haqaiq Arabic Sharh Kanz Al Daqaiq تیسیر الحقائق عربی شرح کنز الدقائق | تیسیر الحقائق عربی شرح کنز الدقائق | Maulana Anwar Badakhshani | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAYSIR_UL_HAQAIQ_ARABIC_SHARH_KANZ.pdf
+tohfa-e-usmania | Tohfa e Usmania Urdu Sharah Aqeeda Tahawiya | تحفہ عثمانیہ شرح عقیدہ طحاویہ | Mufti Zakir Hasan Nomani | -
+tohfa-tul-labib | Tohfa tul Labib Sharah al Tahzeeb | تحفۃ اللبیب شرح اردو شرح التہذیب | Mufti Muhammad Nazim Qasmi | https://archive.org/download/darsenizamidarjasalsa3rdyear2/TOHFA_TUL_LABIB_SHARHA_SHARH_E_TAHZIB.pdf
+dn-tohfat-ul-adab-urdu-sharh-nafhat-ul-arab | Tohfat ul Adab Urdu Sharh Nafhat ul Arab | تحفۃ الادب اردو شرح نفحۃ العرب | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TohfatUlAdabUrduSharhNafhaTulArab.pdf
+dn-usool-ush-shashi-urdu-2 | Usool ush Shashi Urdu | اصول الشاشی اردو | Maulana Muhammad Ishaq Siddiqi | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUshShashiUrdu.pdf
+wafia | Wafia Urdu Sharh Kafia | وافیہ اردو شرح کافیہ | Mufti Abu Jandal Qasmi | https://archive.org/download/darsenizamidarjasalsa3rdyear2/WAFIA_SHARH_KAFIA.pdf
+dn-waziha-urdu-sharh-kafia | Waziha Urdu Sharh Kafia واضحہ اردو شرح کافیہ | واضحہ اردو شرح کافیہ | Maulana Muhammad Yahya Palanpuri | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/WAZIHA_URDU_SHARH_KAFIA_VOL_01.pdf
+dn-kitab | ھادیہ اردو شرح کافیہ | ھادیہ اردو شرح کافیہ | - | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/HadiaUrduSharhKafia.pdf

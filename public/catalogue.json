@@ -55,7 +55,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 87,
+      "bookCount": 90,
       "questionCount": 8
     },
     {
@@ -76,7 +76,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 85,
+      "bookCount": 94,
       "questionCount": 0
     },
     {
@@ -97,7 +97,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 71,
+      "bookCount": 78,
       "questionCount": 0
     },
     {
@@ -118,7 +118,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 61,
+      "bookCount": 72,
       "questionCount": 0
     },
     {
@@ -160,7 +160,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 95,
+      "bookCount": 105,
       "questionCount": 0
     },
     {
@@ -181,7 +181,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 62,
+      "bookCount": 81,
       "questionCount": 0
     },
     {
@@ -202,7 +202,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 79,
+      "bookCount": 145,
       "questionCount": 0
     },
     {
@@ -307,7 +307,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 66,
+      "bookCount": 67,
       "questionCount": 0
     },
     {
@@ -328,7 +328,7 @@
         "matn": true,
         "sharh": true
       },
-      "bookCount": 63,
+      "bookCount": 79,
       "questionCount": 0
     }
   ],
@@ -1497,6 +1497,24 @@
       "hasDemoQuestions": false
     },
     {
+      "id": "alamiyah-1-sharh:zubdatul-maqsood",
+      "slug": "zubdatul-maqsood",
+      "collection": "alamiyah-1-sharh",
+      "year": "alamiyah-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Zubdatul Maqsood Sharh Qala Abu Dawood",
+        "ur": "زبدۃ المقصود شرح قال ابو داؤد"
+      },
+      "author": "Qari Muhammad Tahir Raheemi",
+      "sourceUrl": "https://darsenizami.net/books/book/zubdatul-maqsood/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/ZUBDATUL_MAQSOOD_SHARH_QALA_ABU_DAWUD.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
       "id": "alamiyah-2-matn:al-abwab-wat-tarajim-sahih-bukhari",
       "slug": "al-abwab-wat-tarajim-sahih-bukhari",
       "collection": "alamiyah-2-matn",
@@ -2603,6 +2621,288 @@
       },
       "sourceUrl": "https://darsenizami.net/books/book/sahih-muslim-urdu/",
       "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_MUSLIM_URDU_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:sahih-ul-bukhari-urdu",
+      "slug": "sahih-ul-bukhari-urdu",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Sahih ul Bukhari Urdu",
+        "ur": "صحیح البخاری اردو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/sahih-ul-bukhari-urdu/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_BUKHARI_URDU_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tabshir-un-nas",
+      "slug": "tabshir-un-nas",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tabshir un Nas Urdu Sharha Qala Baazun nas",
+        "ur": "تبشیر الناس فی شرح قال بعض الناس"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/tabshir-un-nas/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/Tabsheer_Un_Naas.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tafhim-ul-muslim",
+      "slug": "tafhim-ul-muslim",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tafhim ul Muslim Urdu Sharha Sahih al Muslim",
+        "ur": "تفھیم المسلم اردو شرح صحیح مسلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/tafhim-ul-muslim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TafheemUlMuslimUrduSharhAlSahihUlMuslimVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:taiseer-ul-bari",
+      "slug": "taiseer-ul-bari",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Taiseer ul Bari Urdu Tarjama Sahih ul Bukhari",
+        "ur": "تیسیر الباری اردو ترجمہ صحیح البخاری"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/taiseer-ul-bari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaiseerUlBariUrduTarjamaAlSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:taqreer-e-bukhari",
+      "slug": "taqreer-e-bukhari",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqreer e Bukhari Urdu Sharha Sahih ul Bukhari",
+        "ur": "تقریر بخاری شریف اردو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/taqreer-e-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerEBukhariUrduSharhAlSahihUlBukhariVol1_2_3.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:taqreer-e-tirmizi",
+      "slug": "taqreer-e-tirmizi",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqreer e Tirmizi Urdu",
+        "ur": "تقریر ترمذی"
+      },
+      "author": "Mufti Taqi Usmani",
+      "sourceUrl": "https://darsenizami.net/books/book/taqreer-e-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmiziMoamalatVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:taqreer-e-tirmizi-2",
+      "slug": "taqreer-e-tirmizi-2",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqreer e Tirmizi Urdu Sharha Al Tirmizi",
+        "ur": "تقریر ترمذی اردو"
+      },
+      "author": "Maulana Ashraf Ali Thanvi",
+      "sourceUrl": "https://darsenizami.net/books/book/taqreer-e-tirmizi-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmizi.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tashrihaat-e-bukhari-urdu-sharh-sahihul-bukhari",
+      "slug": "tashrihaat-e-bukhari-urdu-sharh-sahihul-bukhari",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrihaat e Bukhari Urdu Sharh Sahihul Bukhari",
+        "ur": "تشریحات بخاری اردو شرح بخاری"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/tashrihaat-e-bukhari-urdu-sharh-sahihul-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TashrihaatEBukhariUrduTarjamaAlSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tashrihaat-e-tirmizi-urdu",
+      "slug": "tashrihaat-e-tirmizi-urdu",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrihaat e Tirmizi Urdu",
+        "ur": "تشریحات ترمذی اردو"
+      },
+      "author": "Maulana Kamal ud Din Al Mustarshid",
+      "sourceUrl": "https://darsenizami.net/books/book/tashrihaat-e-tirmizi-urdu/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TASHRIHAAT_E_TIRMAZI_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tohfa-tul-abqari",
+      "slug": "tohfa-tul-abqari",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Abqari Urdu Sharha Al Tirmizi",
+        "ur": "تحفۃ العبقری اردو شرح سنن الترمذی"
+      },
+      "author": "Maulana Ikram Ali",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-tul-abqari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TOHFA-TUL-ABQARI-VOL-1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tohfa-tul-almaee",
+      "slug": "tohfa-tul-almaee",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Almaee Urdu Sharha Al Tirmizi",
+        "ur": "تحفۃ الالمعی اردو شرح سنن الترمذی"
+      },
+      "author": "Maulana Mufti Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-tul-almaee/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TohfatUlAlmaeeUrduSharhAlTirmiziVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tohfa-tul-muneim",
+      "slug": "tohfa-tul-muneim",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Muneim Urdu Sharha Al Sahih al Muslim",
+        "ur": "تحفۃ المنعم اردو شرح صحیح مسلم"
+      },
+      "author": "Maulana Fazal Muhammad Yusafzai",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-tul-muneim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TOHFATUL_MUNIM_SHARH_SAHIH_MUSLIM_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:tohfa-tul-qari",
+      "slug": "tohfa-tul-qari",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Qari Urdu Sharha Sahih ul Bukhari",
+        "ur": "تحفۃ القاری اردو شرح صحیح البخاری"
+      },
+      "author": "Maulana Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-tul-qari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TOHFA_TUL_QARI_URDU_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:umdat-ul-qari-arabic-sharha-bukhari",
+      "slug": "umdat-ul-qari-arabic-sharha-bukhari",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Umdat ul Qari Arabic Sharha Sahih ul Bukhari",
+        "ur": "عمدۃ القاری عربی شرح صحیح البخاری"
+      },
+      "author": "Allama Ayni",
+      "sourceUrl": "https://darsenizami.net/books/book/umdat-ul-qari-arabic-sharha-bukhari/",
+      "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:zain-ul-mahafil",
+      "slug": "zain-ul-mahafil",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Zain ul Mahafil",
+        "ur": "زین المحافل شرح الشمائل للترمذی"
+      },
+      "author": "Maulana Samiul Haq Shaheed",
+      "sourceUrl": "https://darsenizami.net/books/book/zain-ul-mahafil/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/ZAIN_UL_MAHAFIL_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "alamiyah-2-sharh:zubdatul-maqsood",
+      "slug": "zubdatul-maqsood",
+      "collection": "alamiyah-2-sharh",
+      "year": "alamiyah-2",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Zubdatul Maqsood Sharh Qala Abu Dawood",
+        "ur": "زبدۃ المقصود شرح قال ابو داؤد"
+      },
+      "author": "Qari Muhammad Tahir Raheemi",
+      "sourceUrl": "https://darsenizami.net/books/book/zubdatul-maqsood/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/ZUBDATUL_MAQSOOD_SHARH_QALA_ABU_DAWUD.pdf",
       "language": "ur",
       "questionCount": 0,
       "hasDemoQuestions": false
@@ -4819,7 +5119,7 @@
       "stream": "banin",
       "kind": "matn",
       "title": {
-        "en": "Taleem ul Muta'allim",
+        "en": "Taleem ul Muta’allim",
         "ur": "تعلیم المتعلم"
       },
       "sourceUrl": "https://darsenizami.net/books/book/dn-taleem-ul-mutaallim/",
@@ -4836,7 +5136,7 @@
       "stream": "banin",
       "kind": "matn",
       "title": {
-        "en": "Taleem ul Muta'allim",
+        "en": "Taleem ul Muta’allim",
         "ur": "تعلیم المتعلم"
       },
       "sourceUrl": "https://darsenizami.net/books/book/dn-taleem-ul-mutaallim-2/",
@@ -5737,6 +6037,58 @@
       },
       "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-ul-mubtadi-2/",
       "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TasheelUlMubtadiAlBushraColor.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-sharh:dn-tasheel-un-nahw",
+      "slug": "dn-tasheel-un-nahw",
+      "collection": "aula-1-sharh",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel un Nahw",
+        "ur": "تسھیل النحو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-un-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASHEEL%20UL%20NAHW.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-sharh:dn-tasweer-urdu-sharh-tanveer",
+      "slug": "dn-tasweer-urdu-sharh-tanveer",
+      "collection": "aula-1-sharh",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasweer Urdu Sharh Tanveer",
+        "ur": "تثویر اردو شرح تنویر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasweer-urdu-sharh-tanveer/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASWEER.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-sharh:dn-tazkeer-urdu-sharh-nahw-meer",
+      "slug": "dn-tazkeer-urdu-sharh-nahw-meer",
+      "collection": "aula-1-sharh",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tazkeer Urdu Sharh Nahw Meer",
+        "ur": "تذکیر اردو شرح نحومیر"
+      },
+      "author": "Maulana Sajid Khan Naqshbandi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tazkeer-urdu-sharh-nahw-meer/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TAZKEER-URDU-SHARH-NAHWMEER.pdf",
       "language": "ur",
       "questionCount": 0,
       "hasDemoQuestions": false
@@ -7108,6 +7460,1168 @@
       "author": "Maulana Abdulhaq",
       "sourceUrl": "https://darsenizami.net/books/book/dn-haqaiq-us-sunan-urdu-sharh-al-tirmizi/",
       "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/HaqaiqUsSunanUrduSharhAlTirmizi.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-husnul-bari-urdu-taqrir-e-bukhari",
+      "slug": "dn-husnul-bari-urdu-taqrir-e-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Husnul Bari Urdu Taqrir e Bukhari",
+        "ur": "حسن الباری اردو تقریر بخاری"
+      },
+      "author": "Mufti Wali Hasan Tonki",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-husnul-bari-urdu-taqrir-e-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/HUSNUL_BARI_URDU_TAQRIR_E_BUKHARI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-ihsan-e-eilahi-urdu-khulasa-moattaain-tahavi-nasai-ibn-e-maja",
+      "slug": "dn-ihsan-e-eilahi-urdu-khulasa-moattaain-tahavi-nasai-ibn-e-maja",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Ihsan e Eilahi Urdu Khulasa Moatta’ain, Tahavi, Nasai, Ibn e Maja",
+        "ur": "احسان الہی اردو شرح مؤطائین، طحاوی، نسائی، ابن ماجہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-ihsan-e-eilahi-urdu-khulasa-moattaain-tahavi-nasai-ibn-e-maja/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/IhsanEElahiUrduSharhMoattaaintahavinasaeeIbnEMaja.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-ikram-ul-bari",
+      "slug": "dn-ikram-ul-bari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Ikram ul Bari اکرام الباری",
+        "ur": "اکرام الباری"
+      },
+      "author": "Maulana Ikram Ali",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-ikram-ul-bari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/IKRAM_UL_BARI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-inam-ul-bari-urdu-sharh-ashaar-ul-bukhari-by-2",
+      "slug": "dn-inam-ul-bari-urdu-sharh-ashaar-ul-bukhari-by-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Inam ul Bari Urdu Sharh Ashaar ul Bukhari انعام البخاری اردو شرح اشعار البخاری By",
+        "ur": "انعام البخاری اردو شرح اشعار البخاری"
+      },
+      "author": "Maulana Ashiq Ilahi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-inam-ul-bari-urdu-sharh-ashaar-ul-bukhari-by-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/INAMUL_BARI_URDU_SHARH_ASHAAR_UL_BUKHARI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:inam-ul-bari",
+      "slug": "inam-ul-bari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Inam ul Bari Urdu Sharh Sahihul Bukhari",
+        "ur": "انعام الباری دروس بخاری شریف"
+      },
+      "author": "Mufti Muhammad Taqi Usmani",
+      "sourceUrl": "https://darsenizami.net/books/book/inam-ul-bari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/INAM_UL_BARI_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-inam-ul-mabood-urdu-sharh-abu-dawood",
+      "slug": "dn-inam-ul-mabood-urdu-sharh-abu-dawood",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Inam ul Mabood Urdu Sharh Abu Dawood",
+        "ur": "انعام المعبود اردو شرح ابو داؤد"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-inam-ul-mabood-urdu-sharh-abu-dawood/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/InamUlMaboodUrduSharhAbuDawoodBanat.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:inamat-ul-munim",
+      "slug": "inamat-ul-munim",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Inamaat ul Munim Urdu Sharha Sahih al Muslim",
+        "ur": "انعامات المنعم اردو شرح صحیح مسلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/inamat-ul-munim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/INAMAAT_UL_MUN%27IM_SHARH_MUSLIM_BANAT.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-inamat-e-rabbani-urdu-sharh-al-tirmizi-jild",
+      "slug": "dn-inamat-e-rabbani-urdu-sharh-al-tirmizi-jild",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Inamat e Rabbani Urdu Sharh Al Tirmizi Jild",
+        "ur": "2 انعامات ربانی اردو شرح سنن الترمذی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-inamat-e-rabbani-urdu-sharh-al-tirmizi-jild/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/InamatERabbaniUrduSharhAlTirmiziJild2.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-inamat-rahmani-urdu-sharh-tirmizi-jild-2",
+      "slug": "dn-inamat-rahmani-urdu-sharh-tirmizi-jild-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Inamat Rahmani Urdu Sharh Tirmizi Jild",
+        "ur": "2 انعامات رحمانی اردو شرح ترمذی ثانی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-inamat-rahmani-urdu-sharh-tirmizi-jild-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/InamatERahmaniUrduSharhAlTirmiziJild2Banat.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:inayat-ul-bari",
+      "slug": "inayat-ul-bari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Inayat ul Bari Li Talaba e Bukhari",
+        "ur": "عنایۃ الباری لطلبۃ البخاری"
+      },
+      "author": "Maulana Muhammad Idrees",
+      "sourceUrl": "https://darsenizami.net/books/book/inayat-ul-bari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/INAYAT_UL_BARI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-injah-ul-haja-arabic-sharh-ibn-e-maja-2",
+      "slug": "dn-injah-ul-haja-arabic-sharh-ibn-e-maja-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Injah ul Haja Arabic Sharh Ibn e Maja",
+        "ur": "انجاح الحاجۃ عربی حاشیہ ابن ماجہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-injah-ul-haja-arabic-sharh-ibn-e-maja-2/",
+      "pdfUrl": "https://archive.org/download/InjahUlHaja/Injah_ul_Haja.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:irshad-ul-qari-ila-sahih-il-bukhari",
+      "slug": "irshad-ul-qari-ila-sahih-il-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Irshad ul Qari ila Sahih il Bukhari",
+        "ur": "ارشاد القاری الی صحیح البخاری"
+      },
+      "author": "Mufti Rasheed Ahmad Ludhyanvi",
+      "sourceUrl": "https://darsenizami.net/books/book/irshad-ul-qari-ila-sahih-il-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/IRSHAD_UL_QARI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-ithaf-al-zaki-urdu-sharh-jami-al-tirmzi-by",
+      "slug": "dn-ithaf-al-zaki-urdu-sharh-jami-al-tirmzi-by",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Ithaf al Zaki Urdu Sharh Jami Al Tirmzi اتحاف الذکی اردو شرح جامع الترمذی By",
+        "ur": "اتحاف الذکی اردو شرح جامع الترمذی"
+      },
+      "author": "Maulana Shykh Saleemullah Khan",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-ithaf-al-zaki-urdu-sharh-jami-al-tirmzi-by/",
+      "pdfUrl": "https://archive.org/download/iazaki/ITHAF_AL_ZAKI_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:izah-ul-muslim",
+      "slug": "izah-ul-muslim",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Izah ul Muslim Sharh Sahih Muslim",
+        "ur": "ایضاح المسلم شرح صحیح مسلم"
+      },
+      "author": "Maulana Mufti Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/izah-ul-muslim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/IZAH_UL_MUSLIM_SHARH_SAHIH_MUSLIM_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-jamul-fazail-urdu-sharh-shamail",
+      "slug": "dn-jamul-fazail-urdu-sharh-shamail",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Jam’ul Fazail Urdu Sharh Shamail جمع الفضائل فی شرح الشمائل اردو",
+        "ur": "جمع الفضائل فی شرح الشمائل اردو"
+      },
+      "author": "Maulana Muhammad Islam Qasmi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-jamul-fazail-urdu-sharh-shamail/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/JAMUL_FAZAIL_URDU_SHARH_SHAMAIL.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:kashf-al-niqab",
+      "slug": "kashf-al-niqab",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Kashf Al Niqab",
+        "ur": "كشف النقاب عما يقوله الترمذى و فى الباب"
+      },
+      "author": "Dr. Habibullah Mukhtar Shaheed",
+      "sourceUrl": "https://darsenizami.net/books/book/kashf-al-niqab/",
+      "pdfUrl": "https://archive.org/download/apr-22/%D9%83%D8%B4%D9%81%20%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8%20%D8%B9%D9%85%D8%A7%20%D9%8A%D9%82%D9%88%D9%84%D9%87%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%D8%B0%D9%8A%20%D9%A1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:kashf-ul-bari-pashto",
+      "slug": "kashf-ul-bari-pashto",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Kashf ul Bari Pashto Sharh Sahih ul Bukhari",
+        "ur": "کشف الباری پشتو شرح صحیح البخاری"
+      },
+      "author": "Maulana Shykh Saleemullah Khan",
+      "sourceUrl": "https://darsenizami.net/books/book/kashf-ul-bari-pashto/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/KASHF_UL_BARI_PASHTO_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:lame-al-darari",
+      "slug": "lame-al-darari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Lame Al Darari Arabic Sharh Sahihul Bukhari",
+        "ur": "لامع الدراری عربی شرح صحیح البخاری"
+      },
+      "author": "Maulana Rasheed Ahmad Gangohi",
+      "sourceUrl": "https://darsenizami.net/books/book/lame-al-darari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/LAME_AL_DARARI_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:maarif-e-tirmizi",
+      "slug": "maarif-e-tirmizi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Maarif e Tirmizi Sharh Al Tirmizi",
+        "ur": "معارف ترمذی اردو شرح سنن الترمذی"
+      },
+      "author": "Mufti Muhammad Tariq",
+      "sourceUrl": "https://darsenizami.net/books/book/maarif-e-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/MAARIF_E_TIRMIZI_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:misbah-ul-mulhim",
+      "slug": "misbah-ul-mulhim",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Misbah ul Mulhim Khulasa e Sahih Muslim",
+        "ur": "مصباح الملہم خلاصہ مسلم"
+      },
+      "author": "Maulana Abdur Rauf Mansehravi",
+      "sourceUrl": "https://darsenizami.net/books/book/misbah-ul-mulhim/",
+      "pdfUrl": "https://archive.org/download/dec_22/MISBAH_UL_MULHIM_SHARH_E_MUSLIM.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:mudallal-sharh-ibn-e-maja",
+      "slug": "mudallal-sharh-ibn-e-maja",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Mudallal Sharh Ibn e Maja",
+        "ur": "مدلل شرح ابن ماجہ"
+      },
+      "author": "Maulana Mansoor Ahmad Al Qasmi",
+      "sourceUrl": "https://darsenizami.net/books/book/mudallal-sharh-ibn-e-maja/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/MUDALLAL_SHARH_IBN_E_MAJA_URDU.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:mughni-al-muhtaj",
+      "slug": "mughni-al-muhtaj",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Mughni al Muhtaj Sharh Muqaddima-e-Muslim",
+        "ur": "مغنی المحتاج شرح مقدمہ مسلم"
+      },
+      "author": "Maulana Khurshid Ahmad Azami",
+      "sourceUrl": "https://darsenizami.net/books/book/mughni-al-muhtaj/",
+      "pdfUrl": "https://archive.org/download/maulanakaa/MUGHNI_AL_MUHTAJ_SHARH_MUQADDIMA_E_MUSLIM.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:muqaddima-sahih-bukhari",
+      "slug": "muqaddima-sahih-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Muqaddima Sahih Bukhari",
+        "ur": "مقدمہ صحیح بخاری"
+      },
+      "author": "Maulana Muhammad Noman",
+      "sourceUrl": "https://darsenizami.net/books/book/muqaddima-sahih-bukhari/",
+      "pdfUrl": "https://archive.org/download/june_22/MUQADDIMA_E_SAHIH_BUKHARI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-naf-ul-muslim-urdu-sharh-al-sahih-al-muslim-2",
+      "slug": "dn-naf-ul-muslim-urdu-sharh-al-sahih-al-muslim-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Naf ul Muslim Urdu Sharh Al Sahih al Muslim",
+        "ur": "نفع المسلم اردو شرح صحیح مسلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-naf-ul-muslim-urdu-sharh-al-sahih-al-muslim-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/NafUlMuslimUrduSharhAlSahihUlMuslim.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-nafh-al-shazi-fi-matalib-al-tirmizi-urdu",
+      "slug": "dn-nafh-al-shazi-fi-matalib-al-tirmizi-urdu",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Nafh Al Shazi fi Matalib Al Tirmizi Urdu نفح الشذی فی حل مطالب الترمذی",
+        "ur": "نفح الشذی فی حل مطالب الترمذی"
+      },
+      "author": "Maulana Rasheed Ahmad Gangohi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-nafh-al-shazi-fi-matalib-al-tirmizi-urdu/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/NAFH_AL_SHAZI_MATALIB_JAME_TIRMIZI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:nasr-ul-bari-urdu-sharh-sahihul-bukhari",
+      "slug": "nasr-ul-bari-urdu-sharh-sahihul-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Nasr ul Bari Urdu Sharha Sahihul Bukhari",
+        "ur": "نصر الباری اردو شرح صحیح بخاری"
+      },
+      "author": "Maulana Muhammad Usman Ghani",
+      "sourceUrl": "https://darsenizami.net/books/book/nasr-ul-bari-urdu-sharh-sahihul-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/NasrUlBariUrduSharhAlSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-nazar-e-tahawi",
+      "slug": "dn-nazar-e-tahawi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Nazar e Tahawi نظر طحاوی",
+        "ur": "نظر طحاوی"
+      },
+      "author": "Maulana Muhammad Shafiq ur Rehman",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-nazar-e-tahawi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/NAZR_E_TAHAWI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-nibras-al-sari-maulana-muhammad-yunus-jaunpuri",
+      "slug": "dn-nibras-al-sari-maulana-muhammad-yunus-jaunpuri",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Nibras al Sari نبراس السارى فى رياض البخارى Maulana Muhammad Yunus Jaunpuri",
+        "ur": "نبراس السارى فى رياض البخارى"
+      },
+      "author": "Maulana Muhammad Yunus Jaunpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-nibras-al-sari-maulana-muhammad-yunus-jaunpuri/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/NIBRAS_AL_SARI_FI_RIAZ_AL_BUKHARI_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-nimat-ul-munim-urdu-sharh-sahih-muslim",
+      "slug": "dn-nimat-ul-munim-urdu-sharh-sahih-muslim",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Nimat ul Munim Urdu Sharh Sahih Muslim",
+        "ur": "نعمت المنعم اردو شرح صحیح مسلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-nimat-ul-munim-urdu-sharh-sahih-muslim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/NIMAT_UL_MUNIM_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-nukhb-ul-afkaar-sharh-maani-ul-aasaar",
+      "slug": "dn-nukhb-ul-afkaar-sharh-maani-ul-aasaar",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Nukhb Ul Afkaar Sharh Maani Ul Aasaar",
+        "ur": "نخب الافکار"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-nukhb-ul-afkaar-sharh-maani-ul-aasaar/",
+      "pdfUrl": "https://archive.org/download/NukhbUlAfkaarSharhMaaniUlAasar/Nukhb_Ul_Afkaar_Sharh_Maani_Ul_Aasar_Vol_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-raozat-ul-muslim-urdu-sharh-muqaddema-muslim",
+      "slug": "dn-raozat-ul-muslim-urdu-sharh-muqaddema-muslim",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Raozat ul Muslim Urdu Sharh Muqaddema Muslim",
+        "ur": "روضۃ المسلم اردو شرح مقدمۃ مسلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-raozat-ul-muslim-urdu-sharh-muqaddema-muslim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/RAOZA-TUL-MUSLIM-URDU-SHARH-MUQADDEMA-MUSLIM.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-sahih-muslim-shareef-urdu-3",
+      "slug": "dn-sahih-muslim-shareef-urdu-3",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Sahih Muslim Shareef Urdu",
+        "ur": "صحیح مسلم شریف اردو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-sahih-muslim-shareef-urdu-3/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SAHI-MUSLIM-SHAREEF-URDU-VOL-01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-sameen-ud-darari-muqaddema-bukhari",
+      "slug": "dn-sameen-ud-darari-muqaddema-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Sameen ud Darari Muqaddema Bukhari",
+        "ur": "ثمین الدراری اردو شرح مقدمہ صحیح البخاری"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-sameen-ud-darari-muqaddema-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SaminUdDarariUrduSharhMuqaddimaBukhari.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:shamail-e-tirmizi-urdu",
+      "slug": "shamail-e-tirmizi-urdu",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Shamail e Tirmizi Urdu",
+        "ur": "شمائل ترمذی اردو"
+      },
+      "author": "Maulana Sufi Abdul Hameed Sawati",
+      "sourceUrl": "https://darsenizami.net/books/book/shamail-e-tirmizi-urdu/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/SHAMAIL_E_TIRMIZI_URDU_SAWATI_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-sharh-e-sunan-e-abi-dawood-al-aini",
+      "slug": "dn-sharh-e-sunan-e-abi-dawood-al-aini",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Sharh e Sunan e Abi Dawood Al Aini",
+        "ur": "شرح سنن ابى داؤد للعينى"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-sharh-e-sunan-e-abi-dawood-al-aini/",
+      "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-sharh-ilal-al-tirmizi",
+      "slug": "dn-sharh-ilal-al-tirmizi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Sharh Ilal al Tirmizi شرح علل الترمذى",
+        "ur": "شرح علل الترمذى"
+      },
+      "author": "Maulana Mufti Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-sharh-ilal-al-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SHARH_ELAL_E_TIRMIZI_ARABIC.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-shurooh-e-ibn-e-maja-2",
+      "slug": "dn-shurooh-e-ibn-e-maja-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Shurooh E Ibn-e-Maja",
+        "ur": "عربی شروح اپن ماجہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-shurooh-e-ibn-e-maja-2/",
+      "pdfUrl": "https://archive.org/download/ShuroohEIbnEMaja/Shurooh_E_Ibn-E-Maja.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tabshir-un-nas",
+      "slug": "dn-tabshir-un-nas",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tabshir un Nas",
+        "ur": "تبشیر الناس فی شرح قال بعض الناس"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tabshir-un-nas/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/Tabsheer_Un_Naas.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tafhim-ul-bukhari-urdu-sharh-sahihul-bukhari-2",
+      "slug": "dn-tafhim-ul-bukhari-urdu-sharh-sahihul-bukhari-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tafhim ul Bukhari Urdu Sharh Sahihul Bukhari",
+        "ur": "تفہیم البخاری اردو شرح صحیح البخاری"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tafhim-ul-bukhari-urdu-sharh-sahihul-bukhari-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TafheemUlBukhariUrduSharhAlSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tafhim-ul-muslim-urdu-sharh-al-sahih-al-muslim",
+      "slug": "dn-tafhim-ul-muslim-urdu-sharh-al-sahih-al-muslim",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tafhim ul Muslim Urdu Sharh Al Sahih al Muslim",
+        "ur": "تفھیم المسلم اردو شرح صحیح مسلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tafhim-ul-muslim-urdu-sharh-al-sahih-al-muslim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TafheemUlMuslimUrduSharhAlSahihUlMuslimVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tahzeeb-al-tahawi-urdu-sharha-maani-al-athar",
+      "slug": "dn-tahzeeb-al-tahawi-urdu-sharha-maani-al-athar",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tahzeeb al Tahawi Urdu Sharha Ma’ani al Athar تہذیب الطحاوی اردو شرح شرح معانی الآثار",
+        "ur": "تہذیب الطحاوی اردو شرح شرح معانی الآثار"
+      },
+      "author": "Maulana Shamsul Haq Shahabzai",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tahzeeb-al-tahawi-urdu-sharha-maani-al-athar/",
+      "pdfUrl": "https://archive.org/download/feb-21/TAHZEEB_AL_TAHAWI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-taiseer-ul-bari-urdu-tarjama-sahih-ul-bukhari",
+      "slug": "dn-taiseer-ul-bari-urdu-tarjama-sahih-ul-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taiseer ul Bari Urdu Tarjama Sahih ul Bukhari",
+        "ur": "تیسیر الباری اردو ترجمہ صحیح البخاری"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taiseer-ul-bari-urdu-tarjama-sahih-ul-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaiseerUlBariUrduTarjamaAlSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:takmeel-ul-hajah",
+      "slug": "takmeel-ul-hajah",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Takmeel ul Hajah Sharh Ibn e Maja",
+        "ur": "تکمیل الحاجۃ"
+      },
+      "author": "Mufti Ghulam Rasool Manzoor Qasmi",
+      "sourceUrl": "https://darsenizami.net/books/book/takmeel-ul-hajah/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/TAKMEEL_UL_HAJAH_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:tanqih-ul-masalik",
+      "slug": "tanqih-ul-masalik",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tanqih ul Masalik Sharh Muwatta Imam Malik",
+        "ur": "تنقیح المسالک شرح اردو موطا امام مالک"
+      },
+      "author": "Maulana Muhhammad Alamgir Danish Qasmi",
+      "sourceUrl": "https://darsenizami.net/books/book/tanqih-ul-masalik/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TANQIH_UL_MASALIK_SHARH_MUWATTA_IMAM_MALIK.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-taqreer-e-bukhari-urdu-sharh-sahih-ul-bukhari-2",
+      "slug": "dn-taqreer-e-bukhari-urdu-sharh-sahih-ul-bukhari-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqreer e Bukhari Urdu Sharh Sahih ul Bukhari",
+        "ur": "تقریر بخاری شریف اردو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taqreer-e-bukhari-urdu-sharh-sahih-ul-bukhari-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerEBukhariUrduSharhAlSahihUlBukhariVol1_2_3.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-taqreer-e-tahawi-shareef-urdu-al-hawi-fi-hall-e-tahawi",
+      "slug": "dn-taqreer-e-tahawi-shareef-urdu-al-hawi-fi-hall-e-tahawi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqreer e Tahawi Shareef Urdu (Al Hawi fi Hall e Tahawi)",
+        "ur": "تقریر طحاوی شریف (الحاوی اردو فی حل الطحاوی)۔"
+      },
+      "author": "Maulana Muhammad Asadullah",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taqreer-e-tahawi-shareef-urdu-al-hawi-fi-hall-e-tahawi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/TAQREER_E_TAHAWI_SHAREEF.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-taqreer-e-tirmezi-urdu-sharh-al-tirmizi-moamlaat-2",
+      "slug": "dn-taqreer-e-tirmezi-urdu-sharh-al-tirmizi-moamlaat-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqreer e Tirmezi Urdu Sharh Al Tirmizi Moamlaat",
+        "ur": "تقریر ترمذی حصہ معاملات"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taqreer-e-tirmezi-urdu-sharh-al-tirmizi-moamlaat-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmiziMoamalatVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-taqreer-e-tirmizi-urdu-sharh-al-tirmizi",
+      "slug": "dn-taqreer-e-tirmizi-urdu-sharh-al-tirmizi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqreer e Tirmizi Urdu Sharh Al Tirmizi",
+        "ur": "تقریر ترمذی اردو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taqreer-e-tirmizi-urdu-sharh-al-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmizi.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-taqrib-e-sharh-e-maani-al-asaar",
+      "slug": "dn-taqrib-e-sharh-e-maani-al-asaar",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqrib e Sharh e Maani al Asaar",
+        "ur": "تقریب شرح معانی الآثار"
+      },
+      "author": "Maulana Naimatullah Azmi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taqrib-e-sharh-e-maani-al-asaar/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/TAQRIB_E_SHARH_MAANI_UL_ASAAR_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tasheel-ut-tahawi-urdu-sharh-tahawi-sharh-maani-ul-aasaar",
+      "slug": "dn-tasheel-ut-tahawi-urdu-sharh-tahawi-sharh-maani-ul-aasaar",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel ut Tahawi Urdu Sharh Tahawi [Sharh Maani ul Aasaar].",
+        "ur": "تسھیل الطحاوی اردو شرح طحاوی شریف"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-ut-tahawi-urdu-sharh-tahawi-sharh-maani-ul-aasaar/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/TASHEEL_UT_TAHAWI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:tashrihaat-e-bukhari-urdu-sharh-sahihul-bukhari",
+      "slug": "tashrihaat-e-bukhari-urdu-sharh-sahihul-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrihaat e Bukhari Urdu Sharh Sahihul Bukhari",
+        "ur": "تشریحات بخاری اردو شرح بخاری"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/tashrihaat-e-bukhari-urdu-sharh-sahihul-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TashrihaatEBukhariUrduTarjamaAlSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tashrihaat-e-tirmizi-urdu-sharh-al-tirmizi",
+      "slug": "dn-tashrihaat-e-tirmizi-urdu-sharh-al-tirmizi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrihaat E Tirmizi Urdu Sharh Al Tirmizi",
+        "ur": "تشریحات ترمذی اردو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tashrihaat-e-tirmizi-urdu-sharh-al-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TASHRIHAAT_E_TIRMAZI_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tohfa-tul-abqari-urdu-sharh-tirmizi",
+      "slug": "dn-tohfa-tul-abqari-urdu-sharh-tirmizi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Abqari Urdu Sharh Tirmizi",
+        "ur": "تحفۃ العبقری اردو شرح سنن الترمذی"
+      },
+      "author": "Maulana Ikram Ali",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfa-tul-abqari-urdu-sharh-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TOHFA-TUL-ABQARI-VOL-1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:tohfa-tul-almaee",
+      "slug": "tohfa-tul-almaee",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Almaee Urdu Sharha Al Tirmizi",
+        "ur": "تحفۃ الالمعی اردو شرح سنن الترمذی"
+      },
+      "author": "Maulana Mufti Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-tul-almaee/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TohfatUlAlmaeeUrduSharhAlTirmiziVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tohfa-tul-almaee-urdu-sharha-al-tirmizi",
+      "slug": "dn-tohfa-tul-almaee-urdu-sharha-al-tirmizi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Almaee Urdu Sharha Al Tirmizi تحفۃ الالمعی اردو شرح سنن الترمذی",
+        "ur": "تحفۃ الالمعی اردو شرح سنن الترمذی"
+      },
+      "author": "Maulana Mufti Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfa-tul-almaee-urdu-sharha-al-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/KHAZAIN-US-SUNAN-01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tohfat-ul-muneim-urdu-sharh-al-sahih-al-muslim",
+      "slug": "dn-tohfat-ul-muneim-urdu-sharh-al-sahih-al-muslim",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ul Muneim Urdu Sharh Al Sahih al Muslim",
+        "ur": "تحفۃ المنعم اردو شرح صحیح مسلم"
+      },
+      "author": "Maulana Fazal Muhammad Yusafzai",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ul-muneim-urdu-sharh-al-sahih-al-muslim/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TOHFATUL_MUNIM_SHARH_SAHIH_MUSLIM_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tohfat-ul-qari-arabic-sharh-sahih-ul-bukhari",
+      "slug": "dn-tohfat-ul-qari-arabic-sharh-sahih-ul-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ul Qari Arabic Sharh Sahih ul Bukhari",
+        "ur": "تحفۃ القاری عربی شرح صحیح البخاری"
+      },
+      "author": "Maulana Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ul-qari-arabic-sharh-sahih-ul-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TohfatUlQariArabicSharhSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tohfat-ul-qari-urdu-sharh-sahih-ul-bukhari",
+      "slug": "dn-tohfat-ul-qari-urdu-sharh-sahih-ul-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ul Qari Urdu Sharh Sahih ul Bukhari",
+        "ur": "تحفۃ القاری اردو شرح صحیح بخاری"
+      },
+      "author": "Maulana Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ul-qari-urdu-sharh-sahih-ul-bukhari/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TohfatUlQariUrduSharhSahihUlBukhariVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-tohfat-ul-qari-urdu-sharh-sahih-ul-bukhari-by",
+      "slug": "dn-tohfat-ul-qari-urdu-sharh-sahih-ul-bukhari-by",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ul Qari Urdu Sharh Sahih ul Bukhari By",
+        "ur": "تحفۃ القاری اردو شرح صحیح البخاری"
+      },
+      "author": "Maulana Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ul-qari-urdu-sharh-sahih-ul-bukhari-by/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/TOHFA_TUL_QARI_URDU_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-umdat-ul-qari-arabi-sharh-sahih-ul-bukhari",
+      "slug": "dn-umdat-ul-qari-arabi-sharh-sahih-ul-bukhari",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Umdat Ul Qari Arabi Sharh Sahih ul Bukhari",
+        "ur": "عمدۃ القاری عربی شرح صحیح البخاری"
+      },
+      "author": "Allama Ayni",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-umdat-ul-qari-arabi-sharh-sahih-ul-bukhari/",
+      "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-urdu-note-tahawi-shareef",
+      "slug": "dn-urdu-note-tahawi-shareef",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Urdu Note Tahawi Shareef",
+        "ur": "اردو نوٹ طحاوی شریف"
+      },
+      "author": "Maulana Muhammad Ziauddin",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-urdu-note-tahawi-shareef/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/NOTE_E_TAHAWI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-urdu-sharh-shamail-e-tirmizi",
+      "slug": "dn-urdu-sharh-shamail-e-tirmizi",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Urdu Sharh Shamail e Tirmizi",
+        "ur": "شرح شمائل ترمذی اردو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-urdu-sharh-shamail-e-tirmizi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SharhShamailETirmiziUrduVol1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-urdu-tarjama-sharh-maani-ul-asaar-2",
+      "slug": "dn-urdu-tarjama-sharh-maani-ul-asaar-2",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Urdu Tarjama Sharh Maani ul Asaar",
+        "ur": "اردو ترجمہ طحاوی شریف"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-urdu-tarjama-sharh-maani-ul-asaar-2/",
+      "pdfUrl": "https://archive.org/download/oct10-22/BUGHYATUS_SALIK_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:zia-al-sunan",
+      "slug": "zia-al-sunan",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Zia al Sunan Sharh Ibn e Maja",
+        "ur": "ضیاء السنن شرح ابن ماجہ"
+      },
+      "author": "Maulana Asad Qasim Sambhali",
+      "sourceUrl": "https://darsenizami.net/books/book/zia-al-sunan/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/ZIA_US_SUNAN_SHARH_IBN_E_MAJA.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:zubdatul-maqsood",
+      "slug": "zubdatul-maqsood",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Zubdatul Maqsood Sharh Qala Abu Dawood",
+        "ur": "زبدۃ المقصود شرح قال ابو داؤد"
+      },
+      "author": "Qari Muhammad Tahir Raheemi",
+      "sourceUrl": "https://darsenizami.net/books/book/zubdatul-maqsood/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear03/ZUBDATUL_MAQSOOD_SHARH_QALA_ABU_DAWUD.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "dora-sharh:dn-zubdatul-maqsood-sharh-qala-abu-dawood",
+      "slug": "dn-zubdatul-maqsood-sharh-qala-abu-dawood",
+      "collection": "dora-sharh",
+      "year": "dora",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Zubdatul Maqsood Sharh Qala Abu Dawood زبدۃ المقصود شرح قال ابو داؤد",
+        "ur": "زبدۃ المقصود شرح قال ابو داؤد"
+      },
+      "author": "Qari Muhammad Tahir Raheemi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-zubdatul-maqsood-sharh-qala-abu-dawood/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/MISBAH-UZ-ZAJAJA-URDU-SHARH-IBN-E-MAJA.pdf",
       "language": "ur",
       "questionCount": 0,
       "hasDemoQuestions": false
@@ -10985,6 +12499,196 @@
       "hasDemoQuestions": false
     },
     {
+      "id": "rabia-4-sharh:dn-tanveer-ul-absaar-urdu-sharha-noorul-anwaar",
+      "slug": "dn-tanveer-ul-absaar-urdu-sharha-noorul-anwaar",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tanveer ul Absaar Urdu Sharha Noorul Anwaar تنویر الابصار اردو شرح نور الانوار قیاس",
+        "ur": "تنویر الابصار اردو شرح نور الانوار قیاس"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tanveer-ul-absaar-urdu-sharha-noorul-anwaar/",
+      "pdfUrl": "https://archive.org/download/170220/TANVEER_UL_ABSAAR.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-taozeeh-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol",
+      "slug": "dn-taozeeh-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taozeeh ul Wiqaya Sharh Urdu Sharh ul Wiqaya Vol",
+        "ur": "2 توضیح الوقایہ اردو شرح شرح الوقایہ جلد 2"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taozeeh-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TAOZEEH_UL_WIQAYA.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-taozih-ul-wiqaya-sharh-urdu-sharh-ul-waqaya-3-al-baya",
+      "slug": "dn-taozih-ul-wiqaya-sharh-urdu-sharh-ul-waqaya-3-al-baya",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taozih ul Wiqaya Sharh Urdu Sharh ul Waqaya 3 (Al Baya)",
+        "ur": "توضیح الوقایہ اردو شرح شرح الوقایہ البیوع"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taozih-ul-wiqaya-sharh-urdu-sharh-ul-waqaya-3-al-baya/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TaozihUlWiqayaUrduSharhSharhUlWiqayaAkhirain1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:tareeq-us-salekin",
+      "slug": "tareeq-us-salekin",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tareeq us Salekin Urdu Sharh Riaz us Saleheen",
+        "ur": "طریق السالکین اردو شرح ریاض الصالحین"
+      },
+      "author": "Maulana Dr. Sajid ur Rahman Siddiqi",
+      "sourceUrl": "https://darsenizami.net/books/book/tareeq-us-salekin/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAREEQ_UL_SALIKEEN_VOL_1.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-tasheel-e-qutbi-urdu-sharh-al-qutbi",
+      "slug": "dn-tasheel-e-qutbi-urdu-sharh-al-qutbi",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel E Qutbi Urdu Sharh Al Qutbi",
+        "ur": "تسھیل قطبی اردو شرح قطبی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-e-qutbi-urdu-sharh-al-qutbi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TasheelEQutbiUrduSharhAlQutbi.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-tasheel-ul-qutbi",
+      "slug": "dn-tasheel-ul-qutbi",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel ul Qutbi",
+        "ur": "تسہیل القطبی"
+      },
+      "author": "Maulana Khalid Qasmi Balyawi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-ul-qutbi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TASHEEL_UL_QUTBI_TASDIQAAT.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-tasheel-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol",
+      "slug": "dn-tasheel-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel ul Wiqaya Sharh Urdu Sharh ul Wiqaya Vol",
+        "ur": "1 تسھیل الوقایہ اردو شرح شرح الوقایہ جلد 1"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TASHEEL_UL_WIQAYA.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-tashrihaat-urdu-sharh-maqamat-2",
+      "slug": "dn-tashrihaat-urdu-sharh-maqamat-2",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrihaat Urdu Sharh Maqamat",
+        "ur": "تشریحات اردو شرح مقامات"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tashrihaat-urdu-sharh-maqamat-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TashrihatUrduSharhMaqamat.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-tohfa-e-jami",
+      "slug": "dn-tohfa-e-jami",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa e Jami",
+        "ur": "تحفہ جامی"
+      },
+      "author": "Maulana Abdur Rahman Jami",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfa-e-jami/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TOHFA_E_JAMI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-tohfat-ul-balagha-urdu-sharh-duroos-ul-balagha",
+      "slug": "dn-tohfat-ul-balagha-urdu-sharh-duroos-ul-balagha",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ul Balagha Urdu Sharh Duroos ul Balagha",
+        "ur": "تحفۃ البلاغۃ اردو شرح دروس البلاغۃ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ul-balagha-urdu-sharh-duroos-ul-balagha/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TohfatUlBalaghaUrduSharhDuroosUlBalagha.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "rabia-4-sharh:dn-tuhfa-tul-mushtaq-urdu-sharh-maqamat",
+      "slug": "dn-tuhfa-tul-mushtaq-urdu-sharh-maqamat",
+      "collection": "rabia-4-sharh",
+      "year": "rabia-4",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tuhfa tul Mushtaq Urdu Sharh Maqamat",
+        "ur": "تحفۃ المشتاق لمن یقرء المقامات"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tuhfa-tul-mushtaq-urdu-sharh-maqamat/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TuhfaTulMushtaaq.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
       "id": "sabaa-matn:dn-al-bushra",
       "slug": "dn-al-bushra",
       "collection": "sabaa-matn",
@@ -12053,6 +13757,340 @@
       "hasDemoQuestions": false
     },
     {
+      "id": "sabaa-sharh:dn-qatarat-ul-etar-urdu-sharh-nukhbat-ul-fikar-2",
+      "slug": "dn-qatarat-ul-etar-urdu-sharh-nukhbat-ul-fikar-2",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Qatarat ul Etar Urdu Sharh Nukhbat ul Fikar",
+        "ur": "قطرات العطر اردو شرح شرح نخبۃ الفکر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-qatarat-ul-etar-urdu-sharh-nukhbat-ul-fikar-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/QatratUlEtarUrduSharhNuhbatUlFikar.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-salat-ul-qurbah-urdu-sharh-nukhbat-ul-fikar",
+      "slug": "dn-salat-ul-qurbah-urdu-sharh-nukhbat-ul-fikar",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Sal’at ul Qurbah Urdu Sharh Nukhbat ul Fikar",
+        "ur": "سلعۃ القربۃ اردو شرح شرح نخبۃ الفکر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-salat-ul-qurbah-urdu-sharh-nukhbat-ul-fikar/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/SalatUlQurbahUrduSharhNuhbatUlFikar.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:sharh-nukhba-tul-fikar-ki-asan-sharh",
+      "slug": "sharh-nukhba-tul-fikar-ki-asan-sharh",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Sharh Nukhba tul Fikar ki Asan Sharh",
+        "ur": "شرح نخبۃ الفکر کی آسان شرح"
+      },
+      "author": "Mufti Abdur Rauf Sakharvi",
+      "sourceUrl": "https://darsenizami.net/books/book/sharh-nukhba-tul-fikar-ki-asan-sharh/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/SHARH_NUKHBA_TUL_FIKAR_KI_ASAN_SHARH.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:tafheem-ul-hidaya",
+      "slug": "tafheem-ul-hidaya",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tafheem ul Hidaya Sharh Hidaya",
+        "ur": "تفہیم الہدایہ شرح اردو ہدایہ"
+      },
+      "author": "Maulana Jameel Ahmad Sakrodvi",
+      "sourceUrl": "https://darsenizami.net/books/book/tafheem-ul-hidaya/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TAFHIM_UL_HIDAYAH_SHARH_HIDAYA_RABE.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-tanzim-ud-diraya-urdu-sharh-al-hidaya-vol-3",
+      "slug": "dn-tanzim-ud-diraya-urdu-sharh-al-hidaya-vol-3",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tanzim ud Diraya Urdu Sharh Al Hidaya Vol 3,",
+        "ur": "4 تنظیم الدرایہ لحل عویضات الھدایہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tanzim-ud-diraya-urdu-sharh-al-hidaya-vol-3/",
+      "pdfUrl": "https://archive.org/download/TanzeemUdDirayah/Tanzeem_ud_Dirayah.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-taozihaat-urdu-sharh-mishkat-ul-masabeeh",
+      "slug": "dn-taozihaat-urdu-sharh-mishkat-ul-masabeeh",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taozihaat Urdu Sharh Mishkat ul Masabeeh",
+        "ur": "توضیحات اردو شرح مشکوۃ المصابیح"
+      },
+      "author": "Maulana Fazal Muhammad",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taozihaat-urdu-sharh-mishkat-ul-masabeeh/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TaozihaatVol1UrduSharhMishkatUlMasabeeh.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-taqrir-e-shahi-bar-tafsir-baizawi",
+      "slug": "dn-taqrir-e-shahi-bar-tafsir-baizawi",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taqrir e Shahi bar Tafsir Baizawi تقریر شاہی بر تفسیر بیضاوی",
+        "ur": "تقریر شاہی بر تفسیر بیضاوی"
+      },
+      "author": "Maulana Syed Anzar Shah Kashmiri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taqrir-e-shahi-bar-tafsir-baizawi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TAQRIR_E_SHAHI_TAFSIR_E_BAIZAWI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:tasheel-e-baizawi",
+      "slug": "tasheel-e-baizawi",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel e Baizawi",
+        "ur": "تسہیل بیضاوی"
+      },
+      "author": "Maulana Mujeeb ur Rahman Paroa",
+      "sourceUrl": "https://darsenizami.net/books/book/tasheel-e-baizawi/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHEEL_E_BAIZAWI_URDU.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:tashrih-ul-hidaya",
+      "slug": "tashrih-ul-hidaya",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrih ul Hidaya Urdu Sharh Al Hidayah",
+        "ur": "تشریح الہدایۃ شرح اردو ہدایہ"
+      },
+      "author": "Maulana Naseebullah",
+      "sourceUrl": "https://darsenizami.net/books/book/tashrih-ul-hidaya/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHREEH_UL_HIDAYA_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:tashrihat-e-nisari",
+      "slug": "tashrihat-e-nisari",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrihat e Nisari Sharh Tafseer e Baizawi",
+        "ur": "تشریحات نثاری شرح تفسیر بیضاوی"
+      },
+      "author": "Mufti Nisar Muhammad",
+      "sourceUrl": "https://darsenizami.net/books/book/tashrihat-e-nisari/",
+      "pdfUrl": "https://archive.org/download/maulana-m-nisar/TASHRIHAT_E_NISARI_FI_TAFSIR_AL_BAIZAWI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-tohfa-tul-miraat-urdu-duroos-al-mishkat-by",
+      "slug": "dn-tohfa-tul-miraat-urdu-duroos-al-mishkat-by",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Miraat Urdu Duroos Al Mishkat تحفۃ المراٰۃ اردو دروس المشکوۃ By",
+        "ur": "تحفۃ المراٰۃ اردو دروس المشکوۃ"
+      },
+      "author": "Qari Muhammad Tahir Raheemi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfa-tul-miraat-urdu-duroos-al-mishkat-by/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TOHFA_TUL_MIRAT_DUROOS_MISHKAT.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-tohfat-ud-durar-urdu-sharh-nukhbat-ul-fikar",
+      "slug": "dn-tohfat-ud-durar-urdu-sharh-nukhbat-ul-fikar",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ud Durar Urdu Sharh Nukhbat ul Fikar",
+        "ur": "تحفۃ الدرر اردو شرح شرح نخبۃ الفکر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ud-durar-urdu-sharh-nukhbat-ul-fikar/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TohfatUdDurarUrduSharhNuhbatUlFikar.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-tohfatul-qamar-urdu-sharh-nuzhatun-nazar",
+      "slug": "dn-tohfatul-qamar-urdu-sharh-nuzhatun-nazar",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfatul Qamar Urdu Sharh Nuzhatun Nazar تحفۃ القمر اردو شرح نزہۃ النظر",
+        "ur": "تحفۃ القمر اردو شرح نزہۃ النظر"
+      },
+      "author": "Mufti Muhammad Shahid Qasmi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfatul-qamar-urdu-sharh-nuzhatun-nazar/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TUHFAT_UL_QAMAR_URDU_SHARH_NUZHATUN_NAZAR.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-umdat-un-nazar-urdu-sharh-nukhbat-ul-fikar",
+      "slug": "dn-umdat-un-nazar-urdu-sharh-nukhbat-ul-fikar",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Umdat un Nazar Urdu Sharh Nukhbat ul Fikar",
+        "ur": "عمدۃ النظر اردو شرح شرح نخبۃ الفکر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-umdat-un-nazar-urdu-sharh-nukhbat-ul-fikar/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/UmdatUnNazarUrduSharhNuhbatUlFikar.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-urdu-sharh-sharh-e-nukhbah-tul-fikar",
+      "slug": "dn-urdu-sharh-sharh-e-nukhbah-tul-fikar",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Urdu Sharh Sharh e Nukhbah tul Fikar",
+        "ur": "اردو شرح شرح نخبۃ الفکر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-urdu-sharh-sharh-e-nukhbah-tul-fikar/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/SHARH_URDU_NUHBA_TUL_FIKAR.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:usool-e-hidayah",
+      "slug": "usool-e-hidayah",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Usool e Hidayah",
+        "ur": "اصول ہدایہ"
+      },
+      "author": "Maulana Muhammad Noman",
+      "sourceUrl": "https://darsenizami.net/books/book/usool-e-hidayah/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-usool-e-hidayah-jild-3-4",
+      "slug": "dn-usool-e-hidayah-jild-3-4",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Usool e Hidayah Jild 3,4 – اصول ہدایہ جلد ۲-۴",
+        "ur": "اصول ہدایہ جلد ۲-۴"
+      },
+      "author": "Maulana Muhammad Noman",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-usool-e-hidayah-jild-3-4/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/USOOL_E_HIDAYAH_VOL_03-04.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-wasila-tuz-zafar-urdu-sharh-nukhbah",
+      "slug": "dn-wasila-tuz-zafar-urdu-sharh-nukhbah",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Wasila tuz Zafar Urdu Sharh Nukhbah",
+        "ur": "وسیلۃ الظفر اردو شرح نخبۃ الفکر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-wasila-tuz-zafar-urdu-sharh-nukhbah/",
+      "pdfUrl": "http://www.mediafire.com/file/zko6s7w111u71ll/WASILAT-UZ-ZAFAR-URDU-SHARH-NUKHBAT-UL-FIKR.pdf/file",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sabaa-sharh:dn-zia-us-sabeeh-urdu-taqrir-mishkat-ul-masabeeh",
+      "slug": "dn-zia-us-sabeeh-urdu-taqrir-mishkat-ul-masabeeh",
+      "collection": "sabaa-sharh",
+      "year": "sabaa",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Zia us Sabeeh Urdu Taqrir Mishkat ul Masabeeh",
+        "ur": "ضیاء الصبیح اردو شرح مشکوۃ المصابیح"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-zia-us-sabeeh-urdu-taqrir-mishkat-ul-masabeeh/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/ZiaUsSabeehUrduSharhMishkatUlMasabeeh.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
       "id": "sadesa-6-matn:dn-al-aqaid-un-nasafiya-ma-al-fawaid-ul-imdadia",
       "slug": "dn-al-aqaid-un-nasafiya-ma-al-fawaid-ul-imdadia",
       "collection": "sadesa-6-matn",
@@ -12867,6 +14905,42 @@
       "sourceUrl": "https://darsenizami.net/books/book/dn-taozeeh-ul-aqaid-urdu-sharh-sharh-ul-aqaid/",
       "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/TaozeehUlAqaidUrduSharhSharhUlAqaid.pdf",
       "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-matn:usool-e-hidayah",
+      "slug": "usool-e-hidayah",
+      "collection": "sadesa-6-matn",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Usool e Hidayah",
+        "ur": "اصول ہدایہ"
+      },
+      "author": "Maulana Muhammad Noman",
+      "sourceUrl": "https://darsenizami.net/books/book/usool-e-hidayah/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-matn:dn-usool-e-hidayah-jild-2",
+      "slug": "dn-usool-e-hidayah-jild-2",
+      "collection": "sadesa-6-matn",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Usool e Hidayah Jild 2 – اصول ہدایہ جلد ۲",
+        "ur": "اصول ہدایہ جلد ۲"
+      },
+      "author": "Maulana Muhammad Noman",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-usool-e-hidayah-jild-2/",
+      "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/USOOL_E_HIDAYAH_VOL_02.pdf",
+      "language": "ar",
       "questionCount": 0,
       "hasDemoQuestions": false
     },
@@ -13706,6 +15780,146 @@
       },
       "sourceUrl": "https://darsenizami.net/books/book/dn-tanqeeh-ut-tashrih-urdu-sharh-al-tawzeeh-wat-talweeh/",
       "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/TanqeehUtTashreehUrduSharhAlTaozeehWatTalweeh.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:tanzeem-ul-luali",
+      "slug": "tanzeem-ul-luali",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tanzeem ul Luali Sharh Aqeeda Al Tahawi",
+        "ur": "تنظیم اللالی شرح عقیدۃ الطحاوی"
+      },
+      "author": "Maulana Syed Ghiyas ud Deen Mazahiri",
+      "sourceUrl": "https://darsenizami.net/books/book/tanzeem-ul-luali/",
+      "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/TANZIM_UL_LUALI_SHARH_AQEEDA_TAHAWI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:dn-taozeeh-ud-darasa-urdu-sharh-diwan-ul-hamasa",
+      "slug": "dn-taozeeh-ud-darasa-urdu-sharh-diwan-ul-hamasa",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Taozeeh Ud Darasa Urdu Sharh Diwan ul Hamasa توضیح الدراسہ اردو شرح دیوان الحماسہ (باب الحماسۃ)",
+        "ur": "توضیح الدراسہ اردو شرح دیوان الحماسہ (باب الحماسۃ"
+      },
+      "author": "Maulana Ibnul Hasan Abbasi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taozeeh-ud-darasa-urdu-sharh-diwan-ul-hamasa/",
+      "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/TaozeehUdDarasaUrduSharhAlHamasa.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:tasheel-ul-jalalain",
+      "slug": "tasheel-ul-jalalain",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel ul Jalalain Urdu Sharh Jalalain",
+        "ur": "تسہیل الجلالین اردو شرح تفسیر جلالین"
+      },
+      "author": "Maulana Ijaz Ahmad Azmi",
+      "sourceUrl": "https://darsenizami.net/books/book/tasheel-ul-jalalain/",
+      "pdfUrl": "https://archive.org/download/darrs2/TASHEEL_UL_JALALAIN_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:dn-tasheel-us-siraji-urdu-sharh-al-siraji",
+      "slug": "dn-tasheel-us-siraji-urdu-sharh-al-siraji",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel Us Siraji Urdu Sharh Al Siraji",
+        "ur": "تسھیل السراجی اردو شرح السراجی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-us-siraji-urdu-sharh-al-siraji/",
+      "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/TasheelUsSirajiUrduSharhAlSiraji.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:dn-tashreeh-us-siraji-urdu-sharh-al-siraji",
+      "slug": "dn-tashreeh-us-siraji-urdu-sharh-al-siraji",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashreeh Us Siraji Urdu Sharh Al Siraji",
+        "ur": "تشریح السراجی اردو شرح السراجی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tashreeh-us-siraji-urdu-sharh-al-siraji/",
+      "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/TashrihUsSirajiUrduSharhAlSiraji.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:tashrih-ul-hidaya",
+      "slug": "tashrih-ul-hidaya",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrih ul Hidaya Urdu Sharh Al Hidayah",
+        "ur": "تشریح الہدایۃ شرح اردو ہدایہ"
+      },
+      "author": "Maulana Naseebullah",
+      "sourceUrl": "https://darsenizami.net/books/book/tashrih-ul-hidaya/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHREEH_UL_HIDAYA_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:dn-tirazi-urdu-sharh-al-siraji",
+      "slug": "dn-tirazi-urdu-sharh-al-siraji",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tirazi Urdu Sharh Al Siraji",
+        "ur": "طرازی اردو شرح السراجی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tirazi-urdu-sharh-al-siraji/",
+      "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/TARAZI_SHARH_SIRAJI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sadesa-6-sharh:tohfa-e-usmania",
+      "slug": "tohfa-e-usmania",
+      "collection": "sadesa-6-sharh",
+      "year": "sadesa-6",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa e Usmania Urdu Sharah Aqeeda Tahawiya",
+        "ur": "تحفہ عثمانیہ شرح عقیدہ طحاویہ"
+      },
+      "author": "Mufti Zakir Hasan Nomani",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-e-usmania/",
       "language": "ur",
       "questionCount": 0,
       "hasDemoQuestions": false
@@ -14926,6 +17140,129 @@
       "author": "Maulana Anwar Badakhshani",
       "sourceUrl": "https://darsenizami.net/books/book/dn-tayseer-ul-haqaiq-arabic-sharh-kanz-al-daqaiq/",
       "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAYSIR_UL_HAQAIQ_ARABIC_SHARH_KANZ.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "salesa-3-sharh:tohfa-e-usmania",
+      "slug": "tohfa-e-usmania",
+      "collection": "salesa-3-sharh",
+      "year": "salesa-3",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa e Usmania Urdu Sharah Aqeeda Tahawiya",
+        "ur": "تحفہ عثمانیہ شرح عقیدہ طحاویہ"
+      },
+      "author": "Mufti Zakir Hasan Nomani",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-e-usmania/",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "salesa-3-sharh:tohfa-tul-labib",
+      "slug": "tohfa-tul-labib",
+      "collection": "salesa-3-sharh",
+      "year": "salesa-3",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfa tul Labib Sharah al Tahzeeb",
+        "ur": "تحفۃ اللبیب شرح اردو شرح التہذیب"
+      },
+      "author": "Mufti Muhammad Nazim Qasmi",
+      "sourceUrl": "https://darsenizami.net/books/book/tohfa-tul-labib/",
+      "pdfUrl": "https://archive.org/download/darsenizamidarjasalsa3rdyear2/TOHFA_TUL_LABIB_SHARHA_SHARH_E_TAHZIB.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "salesa-3-sharh:dn-tohfat-ul-adab-urdu-sharh-nafhat-ul-arab",
+      "slug": "dn-tohfat-ul-adab-urdu-sharh-nafhat-ul-arab",
+      "collection": "salesa-3-sharh",
+      "year": "salesa-3",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ul Adab Urdu Sharh Nafhat ul Arab",
+        "ur": "تحفۃ الادب اردو شرح نفحۃ العرب"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ul-adab-urdu-sharh-nafhat-ul-arab/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TohfatUlAdabUrduSharhNafhaTulArab.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "salesa-3-sharh:dn-usool-ush-shashi-urdu-2",
+      "slug": "dn-usool-ush-shashi-urdu-2",
+      "collection": "salesa-3-sharh",
+      "year": "salesa-3",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Usool ush Shashi Urdu",
+        "ur": "اصول الشاشی اردو"
+      },
+      "author": "Maulana Muhammad Ishaq Siddiqi",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-usool-ush-shashi-urdu-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/UsoolUshShashiUrdu.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "salesa-3-sharh:wafia",
+      "slug": "wafia",
+      "collection": "salesa-3-sharh",
+      "year": "salesa-3",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Wafia Urdu Sharh Kafia",
+        "ur": "وافیہ اردو شرح کافیہ"
+      },
+      "author": "Mufti Abu Jandal Qasmi",
+      "sourceUrl": "https://darsenizami.net/books/book/wafia/",
+      "pdfUrl": "https://archive.org/download/darsenizamidarjasalsa3rdyear2/WAFIA_SHARH_KAFIA.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "salesa-3-sharh:dn-waziha-urdu-sharh-kafia",
+      "slug": "dn-waziha-urdu-sharh-kafia",
+      "collection": "salesa-3-sharh",
+      "year": "salesa-3",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Waziha Urdu Sharh Kafia واضحہ اردو شرح کافیہ",
+        "ur": "واضحہ اردو شرح کافیہ"
+      },
+      "author": "Maulana Muhammad Yahya Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-waziha-urdu-sharh-kafia/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/WAZIHA_URDU_SHARH_KAFIA_VOL_01.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "salesa-3-sharh:dn-kitab",
+      "slug": "dn-kitab",
+      "collection": "salesa-3-sharh",
+      "year": "salesa-3",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "ھادیہ اردو شرح کافیہ",
+        "ur": "ھادیہ اردو شرح کافیہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-kitab/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/HadiaUrduSharhKafia.pdf",
       "language": "ur",
       "questionCount": 0,
       "hasDemoQuestions": false
@@ -16412,12 +18749,170 @@
       "language": "ur",
       "questionCount": 0,
       "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:dn-tasheel-ul-insha-urdu-sharh-muallim-ul-insha-2",
+      "slug": "dn-tasheel-ul-insha-urdu-sharh-muallim-ul-insha-2",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel ul Insha Urdu Sharh Muallim ul Insha",
+        "ur": "تسھیل الانشاء اردو شرح معلم الانشاء"
+      },
+      "author": "Mufti Muhammad Ibrahim",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-ul-insha-urdu-sharh-muallim-ul-insha-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TasheelUlInshaSharhMoallimUlInsha.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:dn-tasheel-ul-mantiq",
+      "slug": "dn-tasheel-ul-mantiq",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel ul Mantiq",
+        "ur": "تسہیل المنطق اردو شرح تیسیر المنطق"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-ul-mantiq/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TASHEEL-UL-MANTIQ-SHARH-TAISEER-UL-MANTIQ.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:dn-tasheel-ul-mantiq-arabic-2",
+      "slug": "dn-tasheel-ul-mantiq-arabic-2",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel Ul Mantiq Arabic",
+        "ur": "تسھیل المنطق عربی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tasheel-ul-mantiq-arabic-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TasheelUlMantiq.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:tashil-e-taysir-ul-mantiq",
+      "slug": "tashil-e-taysir-ul-mantiq",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashil e Taysir ul Mantiq",
+        "ur": "تسہیل تیسیر المنطق"
+      },
+      "author": "Maulana Ayaz Muhammad",
+      "sourceUrl": "https://darsenizami.net/books/book/tashil-e-taysir-ul-mantiq/",
+      "pdfUrl": "https://archive.org/download/m-ayaz-muhammad/TASHIL_E_TAYSIR_UL_MANTIQ.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:dn-tashrihat-e-sawati-sharh-eisa-ghoji",
+      "slug": "dn-tashrihat-e-sawati-sharh-eisa-ghoji",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tashrihat e Sawati Sharh Eisa Ghoji تشریحات سواتی اردو شرح ایساغوجی",
+        "ur": "تشریحات سواتی اردو شرح ایساغوجی"
+      },
+      "author": "Sufi Abdul Hameed Sawati",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tashrihat-e-sawati-sharh-eisa-ghoji/",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TASHRIHAT_SAWATI_SHARH_EISAGHOJI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:dn-tohfat-ul-mazoor-urdu-sharh-al-mirqat",
+      "slug": "dn-tohfat-ul-mazoor-urdu-sharh-al-mirqat",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tohfat ul Mazoor Urdu Sharh Al Mirqat",
+        "ur": "تحفۃ المنظور اردو شرح مرقات"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tohfat-ul-mazoor-urdu-sharh-al-mirqat/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TohfatUlManzoorUrduSharhMirqat.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:dn-tozihat-ul-insha-urdu-sharh-muallim-ul-insha",
+      "slug": "dn-tozihat-ul-insha-urdu-sharh-muallim-ul-insha",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Tozihat ul Insha Urdu Sharh Muallim ul Insha",
+        "ur": "توضیحات الانشاء اردو شرح معلم الانشاء"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tozihat-ul-insha-urdu-sharh-muallim-ul-insha/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TozihaatUlInshaSharhMoallimUlInsha.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:urdu-sharh-meer-isaghuji",
+      "slug": "urdu-sharh-meer-isaghuji",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Urdu Sharh Meer Isaghuji",
+        "ur": "اردو شرح میر ایساغوجی"
+      },
+      "author": "Zahoor Ahmad",
+      "sourceUrl": "https://darsenizami.net/books/book/urdu-sharh-meer-isaghuji/",
+      "pdfUrl": "https://archive.org/download/zabooks/SHARH_MEER_ISAGHOUJI.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "sania-2-sharh:dn-zia-un-nahw-urdu-sharh-hidayat-un-nahw-2",
+      "slug": "dn-zia-un-nahw-urdu-sharh-hidayat-un-nahw-2",
+      "collection": "sania-2-sharh",
+      "year": "sania-2",
+      "stream": "banin",
+      "kind": "sharh",
+      "title": {
+        "en": "Zia un Nahw Urdu Sharh Hidayat un Nahw",
+        "ur": "ضیاء النحو اردو شرح ھدایۃ النحو"
+      },
+      "author": "Maulana Asghar Ali",
+      "sourceUrl": "https://darsenizami.net/books/book/dn-zia-un-nahw-urdu-sharh-hidayat-un-nahw-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/ZiaUnNahwUrduSharhHidayatUnNahw.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
     }
   ],
   "stats": {
     "collectionsImported": 28,
     "collectionsTotal": 28,
-    "books": 921,
+    "books": 1063,
     "questions": 12
   }
 }

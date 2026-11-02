@@ -1,4 +1,4 @@
-# aula-1-sharh | scraped 2026-11-02 | 48 entries
+# aula-1-sharh | scraped 2026-11-02 | 51 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 dn-al-bashir-ul-kamil-sharh-e-urdu-sharh-miata-aamil-2 | Al Bashir ul Kamil Sharh e Urdu Sharh Miata Aamil | البشیر الکامل اردو شرح مائۃ عامل | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20BASHEER%20UL%20KAMIL%20Sharh%20urdu%20Sharh%20e%20Miata%20Aamil.pdf
 al-fiqh-ul-muyassar | Al Fiqh ul Muyassar | الفقہ المیسر | Maulana Shafiq ur Rahman Nadwi | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlFiqhUlMuyassar.pdf
@@ -48,3 +48,6 @@ dn-tanveer-urdu-sharh-nahwmeer | Tanveer Urdu Sharh Nahwmeer | تنویر ارد
 dn-tanweer-us-sarf-urdu-sharh-irshad-us-sarf | Tanweer us Sarf Urdu Sharh Irshad Us Sarf | تنویر الصرف اردو شرح ارشاد الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TanweerUsSarfUrduSharhIrshadUsSarf.pdf
 dn-tartib-un-nahw-hall-e-tamareen-tashil-un-nahw | Tartib un Nahw Hall e Tamareen Tashil un Nahw ترتیب النحو اردو حل تمارین تسہیل النحو | ترتیب النحو اردو حل تمارین تسہیل النحو | Maulana Yaqoob Haqqani | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TARTIB_UN_NAHW_URDU_TASHIL_UN_NAHW.pdf
 dn-tasheel-ul-mubtadi-2 | Tasheel ul Mubtadi | تسھیل المبتدی | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TasheelUlMubtadiAlBushraColor.pdf
+dn-tasheel-un-nahw | Tasheel un Nahw | تسھیل النحو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASHEEL%20UL%20NAHW.pdf
+dn-tasweer-urdu-sharh-tanveer | Tasweer Urdu Sharh Tanveer | تثویر اردو شرح تنویر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASWEER.pdf
+dn-tazkeer-urdu-sharh-nahw-meer | Tazkeer Urdu Sharh Nahw Meer | تذکیر اردو شرح نحومیر | Maulana Sajid Khan Naqshbandi | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TAZKEER-URDU-SHARH-NAHWMEER.pdf

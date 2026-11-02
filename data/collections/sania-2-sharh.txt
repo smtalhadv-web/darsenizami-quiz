@@ -1,4 +1,4 @@
-# sania-2-sharh | scraped 2026-11-02 | 48 entries
+# sania-2-sharh | scraped 2026-11-02 | 57 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 dn-al-minhaj-fil-qawaid-wal-iraab | Al Minhaj fil Qawaid wal Iraab | المنھاج فی القواعد و الاعراب | Mufti Rooh ul Amin | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlMinhaajAlBushraColor.pdf
 an-nahw-ul-wazih-urdu | Al Nahw ul Wazih Urdu | النحو الواضح اردو | Muhammad Ameen Khokhar | https://archive.org/download/AnNahwUlWazihUrdu/Al-Nahw-ul-Wazih-Urdu.pdf
@@ -48,3 +48,12 @@ dn-talkhees-un-nahw-urdu-sharh-hidayat-un-nahw | Talkhees un Nahw Urdu Sharh Hid
 dn-taozihat-urdu-sharh-al-mirqat | Taozihat Urdu Sharh Al Mirqat | توضیحات اردو شرح مرقات | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TozihaatUrduSharhMirqat.pdf
 dn-taozihat-urdu-sharh-ilm-us-sigha-2 | Taozihat Urdu Sharh Ilm us Sigha | توضیحات اردو شرح علم الصیغہ | Mufti Muhammad Ibrahim | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TozeehatUrduSharhIlmUsSigha.pdf
 dn-tasheel-ul-adab | Tasheel ul Adab | تسھیل الادب | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TASHEEL_UL_ADAB.pdf
+dn-tasheel-ul-insha-urdu-sharh-muallim-ul-insha-2 | Tasheel ul Insha Urdu Sharh Muallim ul Insha | تسھیل الانشاء اردو شرح معلم الانشاء | Mufti Muhammad Ibrahim | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TasheelUlInshaSharhMoallimUlInsha.pdf
+dn-tasheel-ul-mantiq | Tasheel ul Mantiq | تسہیل المنطق اردو شرح تیسیر المنطق | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TASHEEL-UL-MANTIQ-SHARH-TAISEER-UL-MANTIQ.pdf
+dn-tasheel-ul-mantiq-arabic-2 | Tasheel Ul Mantiq Arabic | تسھیل المنطق عربی | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TasheelUlMantiq.pdf
+tashil-e-taysir-ul-mantiq | Tashil e Taysir ul Mantiq | تسہیل تیسیر المنطق | Maulana Ayaz Muhammad | https://archive.org/download/m-ayaz-muhammad/TASHIL_E_TAYSIR_UL_MANTIQ.pdf
+dn-tashrihat-e-sawati-sharh-eisa-ghoji | Tashrihat e Sawati Sharh Eisa Ghoji تشریحات سواتی اردو شرح ایساغوجی | تشریحات سواتی اردو شرح ایساغوجی | Sufi Abdul Hameed Sawati | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TASHRIHAT_SAWATI_SHARH_EISAGHOJI.pdf
+dn-tohfat-ul-mazoor-urdu-sharh-al-mirqat | Tohfat ul Mazoor Urdu Sharh Al Mirqat | تحفۃ المنظور اردو شرح مرقات | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TohfatUlManzoorUrduSharhMirqat.pdf
+dn-tozihat-ul-insha-urdu-sharh-muallim-ul-insha | Tozihat ul Insha Urdu Sharh Muallim ul Insha | توضیحات الانشاء اردو شرح معلم الانشاء | - | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TozihaatUlInshaSharhMoallimUlInsha.pdf
+urdu-sharh-meer-isaghuji | Urdu Sharh Meer Isaghuji | اردو شرح میر ایساغوجی | Zahoor Ahmad | https://archive.org/download/zabooks/SHARH_MEER_ISAGHOUJI.pdf
+dn-zia-un-nahw-urdu-sharh-hidayat-un-nahw-2 | Zia un Nahw Urdu Sharh Hidayat un Nahw | ضیاء النحو اردو شرح ھدایۃ النحو | Maulana Asghar Ali | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/ZiaUnNahwUrduSharhHidayatUnNahw.pdf

@@ -1,4 +1,4 @@
-# alamiyah-2-sharh | scraped 2026-11-02 | 48 entries
+# alamiyah-2-sharh | scraped 2026-11-02 | 64 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 al-arf-ush-shazi-arabic-sharh-tirmezi | Al Arf ush Shazi Arabic Sharh Tirmezi | العرف الشذی عربی شرح سنن الترمذی | Maulana Anwar Shah Kashmiri | https://archive.org/download/AlArfAlShazi/Al_Arf_Al_Shazi_Vol_1.pdf
 al-dars-al-shazi | Al Dars al Shazi Urdu Sharha Al Tirmizi | الدرس الشذی اردو شرح سنن الترمذی | Sufi Muhammad Sarwar | https://archive.org/download/DarsENizamiDoraEHadees8thYear/AlDarsUshShaziUrduSharhAlTirmizi.pdf
@@ -48,3 +48,19 @@ naimat-ul-munim | Naimat ul Munim Urdu Sharh Sahih Muslim | نعمت المنع�
 nasr-ul-bari-urdu-sharh-sahihul-bukhari | Nasr ul Bari Urdu Sharha Sahihul Bukhari | نصر الباری اردو شرح صحیح بخاری | Maulana Muhammad Usman Ghani | https://archive.org/download/DarsENizamiDoraEHadees8thYear/NasrUlBariUrduSharhAlSahihUlBukhariVol1.pdf
 sahih-muslim-shareef-urdu | Sahih Muslim Shareef Urdu | صحیح مسلم شریف اردو | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/SAHI-MUSLIM-SHAREEF-URDU-VOL-01.pdf
 sahih-muslim-urdu | Sahih Muslim Urdu | صحیح مسلم اردو | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_MUSLIM_URDU_VOL_01.pdf
+sahih-ul-bukhari-urdu | Sahih ul Bukhari Urdu | صحیح البخاری اردو | - | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_BUKHARI_URDU_VOL_01.pdf
+tabshir-un-nas | Tabshir un Nas Urdu Sharha Qala Baazun nas | تبشیر الناس فی شرح قال بعض الناس | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/Tabsheer_Un_Naas.pdf
+tafhim-ul-muslim | Tafhim ul Muslim Urdu Sharha Sahih al Muslim | تفھیم المسلم اردو شرح صحیح مسلم | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TafheemUlMuslimUrduSharhAlSahihUlMuslimVol1.pdf
+taiseer-ul-bari | Taiseer ul Bari Urdu Tarjama Sahih ul Bukhari | تیسیر الباری اردو ترجمہ صحیح البخاری | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaiseerUlBariUrduTarjamaAlSahihUlBukhariVol1.pdf
+taqreer-e-bukhari | Taqreer e Bukhari Urdu Sharha Sahih ul Bukhari | تقریر بخاری شریف اردو | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerEBukhariUrduSharhAlSahihUlBukhariVol1_2_3.pdf
+taqreer-e-tirmizi | Taqreer e Tirmizi Urdu | تقریر ترمذی | Mufti Taqi Usmani | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmiziMoamalatVol1.pdf
+taqreer-e-tirmizi-2 | Taqreer e Tirmizi Urdu Sharha Al Tirmizi | تقریر ترمذی اردو | Maulana Ashraf Ali Thanvi | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TaqreerTirmiziUrduSharhAlTirmizi.pdf
+tashrihaat-e-bukhari-urdu-sharh-sahihul-bukhari | Tashrihaat e Bukhari Urdu Sharh Sahihul Bukhari | تشریحات بخاری اردو شرح بخاری | - | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TashrihaatEBukhariUrduTarjamaAlSahihUlBukhariVol1.pdf
+tashrihaat-e-tirmizi-urdu | Tashrihaat e Tirmizi Urdu | تشریحات ترمذی اردو | Maulana Kamal ud Din Al Mustarshid | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TASHRIHAAT_E_TIRMAZI_VOL_01.pdf
+tohfa-tul-abqari | Tohfa tul Abqari Urdu Sharha Al Tirmizi | تحفۃ العبقری اردو شرح سنن الترمذی | Maulana Ikram Ali | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TOHFA-TUL-ABQARI-VOL-1.pdf
+tohfa-tul-almaee | Tohfa tul Almaee Urdu Sharha Al Tirmizi | تحفۃ الالمعی اردو شرح سنن الترمذی | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TohfatUlAlmaeeUrduSharhAlTirmiziVol1.pdf
+tohfa-tul-muneim | Tohfa tul Muneim Urdu Sharha Al Sahih al Muslim | تحفۃ المنعم اردو شرح صحیح مسلم | Maulana Fazal Muhammad Yusafzai | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/TOHFATUL_MUNIM_SHARH_SAHIH_MUSLIM_01.pdf
+tohfa-tul-qari | Tohfa tul Qari Urdu Sharha Sahih ul Bukhari | تحفۃ القاری اردو شرح صحیح البخاری | Maulana Saeed Ahmad Palanpuri | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TOHFA_TUL_QARI_URDU_01.pdf
+umdat-ul-qari-arabic-sharha-bukhari | Umdat ul Qari Arabic Sharha Sahih ul Bukhari | عمدۃ القاری عربی شرح صحیح البخاری | Allama Ayni | https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_01.pdf
+zain-ul-mahafil | Zain ul Mahafil | زین المحافل شرح الشمائل للترمذی | Maulana Samiul Haq Shaheed | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/ZAIN_UL_MAHAFIL_VOL_01.pdf
+zubdatul-maqsood | Zubdatul Maqsood Sharh Qala Abu Dawood | زبدۃ المقصود شرح قال ابو داؤد | Qari Muhammad Tahir Raheemi | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/ZUBDATUL_MAQSOOD_SHARH_QALA_ABU_DAWUD.pdf

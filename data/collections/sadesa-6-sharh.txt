@@ -1,4 +1,4 @@
-# sadesa-6-sharh | scraped 2026-11-02 | 48 entries
+# sadesa-6-sharh | scraped 2026-11-02 | 56 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 dn-aasaan-miras | Aasaan Miras | آسان میراث | - | https://archive.org/download/ASAANMIRAS/ASAAN%20MIRAS%20BY%20MAULANA%20MUHAMMED%20USMAN.pdf
 aen-ul-hidaya | Aen ul Hidaya Urdu Sharh Al Hidaya | عین الہدایہ اردو شرح ہدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/EainUlHidayaUrduSharhAlHidayaVol1.pdf
@@ -48,3 +48,11 @@ tafseer-e-kamalain | Tafseer e Kamalain Urdu Sharh Jalalain | تفسیر کما�
 tafsir-jamalain | Tafsir Jamalain Urdu Sharh Jalalain | تفسیر جمالین اردو شرح تفسیر جلالین | Maulana Muhammad Jamal | https://archive.org/download/AlSadisah6thYear1/TafseerEJamalainVol01.pdf
 dn-talkhees-ul-faraiz-urdu-khulasa-e-siraji | Talkhees ul Faraiz Urdu Khulasa e Siraji | تلخیص الفرائض اردو خلاصہ سراجی | Maulana Khalid Husain Shah | https://archive.org/download/AlSadisah6thYear1/TALKHEES_UL_FARAIZ_KHULASA_SIRAJI.pdf
 dn-tanqeeh-ut-tashrih-urdu-sharh-al-tawzeeh-wat-talweeh | Tanqeeh ut Tashrih Urdu Sharh Al Tawzeeh wat Talweeh | تنقیح التشریح اردو شرح التوضیح و التلویح | - | https://archive.org/download/DarjaAlSadisa6thYear/TanqeehUtTashreehUrduSharhAlTaozeehWatTalweeh.pdf
+tanzeem-ul-luali | Tanzeem ul Luali Sharh Aqeeda Al Tahawi | تنظیم اللالی شرح عقیدۃ الطحاوی | Maulana Syed Ghiyas ud Deen Mazahiri | https://archive.org/download/AlSadisah6thYear1/TANZIM_UL_LUALI_SHARH_AQEEDA_TAHAWI.pdf
+dn-taozeeh-ud-darasa-urdu-sharh-diwan-ul-hamasa | Taozeeh Ud Darasa Urdu Sharh Diwan ul Hamasa توضیح الدراسہ اردو شرح دیوان الحماسہ (باب الحماسۃ) | توضیح الدراسہ اردو شرح دیوان الحماسہ (باب الحماسۃ | Maulana Ibnul Hasan Abbasi | https://archive.org/download/DarjaAlSadisa6thYear/TaozeehUdDarasaUrduSharhAlHamasa.pdf
+tasheel-ul-jalalain | Tasheel ul Jalalain Urdu Sharh Jalalain | تسہیل الجلالین اردو شرح تفسیر جلالین | Maulana Ijaz Ahmad Azmi | https://archive.org/download/darrs2/TASHEEL_UL_JALALAIN_VOL_01.pdf
+dn-tasheel-us-siraji-urdu-sharh-al-siraji | Tasheel Us Siraji Urdu Sharh Al Siraji | تسھیل السراجی اردو شرح السراجی | - | https://archive.org/download/DarjaAlSadisa6thYear/TasheelUsSirajiUrduSharhAlSiraji.pdf
+dn-tashreeh-us-siraji-urdu-sharh-al-siraji | Tashreeh Us Siraji Urdu Sharh Al Siraji | تشریح السراجی اردو شرح السراجی | - | https://archive.org/download/DarjaAlSadisa6thYear/TashrihUsSirajiUrduSharhAlSiraji.pdf
+tashrih-ul-hidaya | Tashrih ul Hidaya Urdu Sharh Al Hidayah | تشریح الہدایۃ شرح اردو ہدایہ | Maulana Naseebullah | https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear01/TASHREEH_UL_HIDAYA_VOL_01.pdf
+dn-tirazi-urdu-sharh-al-siraji | Tirazi Urdu Sharh Al Siraji | طرازی اردو شرح السراجی | - | https://archive.org/download/DarjaAlSadisa6thYear/TARAZI_SHARH_SIRAJI.pdf
+tohfa-e-usmania | Tohfa e Usmania Urdu Sharah Aqeeda Tahawiya | تحفہ عثمانیہ شرح عقیدہ طحاویہ | Mufti Zakir Hasan Nomani | -

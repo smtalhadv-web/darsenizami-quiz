@@ -1,4 +1,4 @@
-# sadesa-6-matn | scraped 2026-11-02 | 47 entries
+# sadesa-6-matn | scraped 2026-11-02 | 49 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 dn-al-aqaid-un-nasafiya-ma-al-fawaid-ul-imdadia | Al Aqaid un Nasafiya ma Al Fawaid ul Imdadia | العقائد النسفیۃ مع الفوائد الامدادیۃ | Maulana Ilyas Bin Abdullah Gadhvi | https://archive.org/download/DarjaAlSadisa6thYear/AL-AQAID-UN-NASAFIA-AL-FAWAID-UL-IMDADIYA.pdf
 al-aun-ul-kabir | Al Aun ul Kabir Sharh Al Fauzul Kabir | العون الکبیر عربی شرح الفوز الکبیر | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/jan21_1/AL_AUNUL_KABEER_SHARH_AL_FAOZUL_KABEER.pdf
@@ -47,5 +47,7 @@ tafsir-al-jalalain-al-bushra | Tafsir Al Jalalain Al Bushra | تفسیر الج�
 talkhees-e-hidayah | Talkhees e Hidayah | تلخیص ہدایہ | Mufti Muhammad Anas Abdur Raheem | -
 dn-talkhees-ul-falkiyaat | Talkhees ul Falkiyaat | تلخیص الفلکیات | - | https://archive.org/download/DarjaAlSadisa6thYear/PARCHAJAAT_SADISAH_2021.pdf
 dn-taozeeh-ul-aqaid-urdu-sharh-sharh-ul-aqaid | Taozeeh ul Aqaid Urdu Sharh Sharh ul Aqaid | توضیح العقائد اردو شرح شرح العقائد | - | https://archive.org/download/DarjaAlSadisa6thYear/TaozeehUlAqaidUrduSharhSharhUlAqaid.pdf
+usool-e-hidayah | Usool e Hidayah | اصول ہدایہ | Maulana Muhammad Noman | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear2/USOOL_E_HIDAYAH_VOL_01.pdf
+dn-usool-e-hidayah-jild-2 | Usool e Hidayah Jild 2 – اصول ہدایہ جلد ۲ | اصول ہدایہ جلد ۲ | Maulana Muhammad Noman | https://archive.org/download/AlSadisah6thYear1/USOOL_E_HIDAYAH_VOL_02.pdf
 # FLAGGED — malformed entries on the source site; excluded from the catalogue
 # dn-d-ownload-6mb-2 | D ownload (6MB) | دیوان الحماسہ | - | https://archive.org/download/AlSadisah6thYear1/KITAB_UL_FARAIZ_ASAN_SIRAJI.pdf

@@ -1,4 +1,4 @@
-# rabia-4-sharh | scraped 2026-11-02 | 48 entries
+# rabia-4-sharh | scraped 2026-11-02 | 59 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 ahsan-ul-wiqaya | Ahsan ul Wiqaya Sharh Urdu Sharhul Wiqaya | احسن الوقایہ اردو شرح شرح الوقایہ | Maulana Ali Muhammad | https://archive.org/download/DarsENizamiDarjaRabea4thYear/AhsanUlWiqayaVol1UrduSharhSharh-ulWiqayaAakhiran.pdf
 dn-al-fahm-un-nami-urdu-sharh-sharh-ul-jami | Al Fahm un Nami Urdu Sharh Sharh Ul Jami | الفھم النامی اردو شرح شرح الجامی | Mufti Atta ur Rahman Multani | https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlFahmUnNamiUrduSharhSharhUlJami.pdf
@@ -48,3 +48,14 @@ dn-taiseer-e-maqamat-urdu-sharh-maqamat | Taiseer e Maqamat Urdu Sharh Maqamat |
 dn-taiseer-e-qutbi-urdu-sharh-qutbi | Taiseer e Qutbi Urdu Sharh Qutbi | تیسیر قطبی اردو شرح قطبی | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TaiseerEQutbi.pdf
 dn-talkhees-ul-anwaar-urdu-sharh-noor-ul-anwar | Talkhees ul Anwaar Urdu Sharh Noor ul Anwar | تلخیص الانوار اردو شرح نور الانوار | Maulana Abdul Musawwir | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TalkheesUlAnwarUrduSharhNoorUlAnwarVol2.pdf
 tanveer-ul-absaar | Tanveer ul Absaar Sharha Noorul Anwaar | تنویر الابصار اردو شرح نور الانوار | - | https://archive.org/download/170220/TANVEER_UL_ABSAR_VOL_01.pdf
+dn-tanveer-ul-absaar-urdu-sharha-noorul-anwaar | Tanveer ul Absaar Urdu Sharha Noorul Anwaar تنویر الابصار اردو شرح نور الانوار قیاس | تنویر الابصار اردو شرح نور الانوار قیاس | - | https://archive.org/download/170220/TANVEER_UL_ABSAAR.pdf
+dn-taozeeh-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol | Taozeeh ul Wiqaya Sharh Urdu Sharh ul Wiqaya Vol | 2 توضیح الوقایہ اردو شرح شرح الوقایہ جلد 2 | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TAOZEEH_UL_WIQAYA.pdf
+dn-taozih-ul-wiqaya-sharh-urdu-sharh-ul-waqaya-3-al-baya | Taozih ul Wiqaya Sharh Urdu Sharh ul Waqaya 3 (Al Baya) | توضیح الوقایہ اردو شرح شرح الوقایہ البیوع | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TaozihUlWiqayaUrduSharhSharhUlWiqayaAkhirain1.pdf
+tareeq-us-salekin | Tareeq us Salekin Urdu Sharh Riaz us Saleheen | طریق السالکین اردو شرح ریاض الصالحین | Maulana Dr. Sajid ur Rahman Siddiqi | https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAREEQ_UL_SALIKEEN_VOL_1.pdf
+dn-tasheel-e-qutbi-urdu-sharh-al-qutbi | Tasheel E Qutbi Urdu Sharh Al Qutbi | تسھیل قطبی اردو شرح قطبی | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TasheelEQutbiUrduSharhAlQutbi.pdf
+dn-tasheel-ul-qutbi | Tasheel ul Qutbi | تسہیل القطبی | Maulana Khalid Qasmi Balyawi | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TASHEEL_UL_QUTBI_TASDIQAAT.pdf
+dn-tasheel-ul-wiqaya-sharh-urdu-sharh-ul-wiqaya-vol | Tasheel ul Wiqaya Sharh Urdu Sharh ul Wiqaya Vol | 1 تسھیل الوقایہ اردو شرح شرح الوقایہ جلد 1 | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TASHEEL_UL_WIQAYA.pdf
+dn-tashrihaat-urdu-sharh-maqamat-2 | Tashrihaat Urdu Sharh Maqamat | تشریحات اردو شرح مقامات | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TashrihatUrduSharhMaqamat.pdf
+dn-tohfa-e-jami | Tohfa e Jami | تحفہ جامی | Maulana Abdur Rahman Jami | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TOHFA_E_JAMI.pdf
+dn-tohfat-ul-balagha-urdu-sharh-duroos-ul-balagha | Tohfat ul Balagha Urdu Sharh Duroos ul Balagha | تحفۃ البلاغۃ اردو شرح دروس البلاغۃ | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TohfatUlBalaghaUrduSharhDuroosUlBalagha.pdf
+dn-tuhfa-tul-mushtaq-urdu-sharh-maqamat | Tuhfa tul Mushtaq Urdu Sharh Maqamat | تحفۃ المشتاق لمن یقرء المقامات | - | https://archive.org/download/DarsENizamiDarjaRabea4thYear/TuhfaTulMushtaaq.pdf

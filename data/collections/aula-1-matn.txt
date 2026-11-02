@@ -1,4 +1,4 @@
-# aula-1-matn | Al-Aula (1st Year) — Mutun | scraped 2026-11-02 | 41 entries
+# aula-1-matn | scraped 2026-11-02 | 39 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 dn-abwab-us-sarf-jadeed | Abwab us Sarf Jadeed | ابواب الصرف جدید | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/ABWAB-UL-SARF-JADEED-URDU.pdf
 dn-abwab-us-sarf-jadeed-arabic | Abwab us Sarf Jadeed Arabic | عربی ابواب الصرف جدید | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/ABWAB-UL-SARF-JADEED-ARABIC.pdf
@@ -34,11 +34,11 @@ dn-tadreeb-un-nahw | Tadreeb un Nahw | تدریب النحو | - | https://archi
 dn-tadreeb-us-sarf-2 | Tadreeb us Sarf | تدریب الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TadreebUsSarf.pdf
 dn-taiseer-ul-abwab | Taiseer ul Abwab | تیسیر الابواب | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaiseerUlAbwabAlBushraColor.pdf
 dn-taiseer-ul-mubtadi | Taiseer ul Mubtadi | تیسیر المبتدی | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaiseerUlMubtadiAlBushraColor.pdf
-dn-taleem-ul-mutaallim | Taleem ul Muta'allim | تعلیم المتعلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TALEEM%20UL%20MUTAALLIM%20TAREQ%20UL%20TAALLUM%20RAHMANIA.pdf
-dn-taleem-ul-mutaallim-2 | Taleem ul Muta'allim | تعلیم المتعلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaleemUlMutaallimAlBushraColor.pdf
+dn-taleem-ul-mutaallim | Taleem ul Muta’allim | تعلیم المتعلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TALEEM%20UL%20MUTAALLIM%20TAREQ%20UL%20TAALLUM%20RAHMANIA.pdf
+dn-taleem-ul-mutaallim-2 | Taleem ul Muta’allim | تعلیم المتعلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaleemUlMutaallimAlBushraColor.pdf
 dn-taleem-un-nahw | Taleem un Nahw | تعلیم النحو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TaleemUnNahw.pdf
 dn-taleem-us-sarf | Taleem Us Sarf | تعلیم الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TaleemUsSarf.pdf
 dn-tareeqa-jadida-2 | Tareeqa Jadida | طریقہ جدیدۃ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TAREQAH%20JADEDAH%20VOL%201.pdf
-# FLAGGED — malformed entries on the source site (MEMORY F6); excluded from the catalogue
+# FLAGGED — malformed entries on the source site; excluded from the catalogue
 # dn-d-ownload-12mb | D ownload (12MB) | - | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/DURR_E_BENAZIR_SHARH_NAHWAMIR.pdf
-# dn-d-ownload-7mb-2 | D ownload (7MB) | - | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/REEHUL_ABEER_SHARH_E_NAHWAMIR.pdf
+# dn-d-ownload-7mb-2 | D ownload (7MB) | علم الصرف آخرین | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/REEHUL_ABEER_SHARH_E_NAHWAMIR.pdf

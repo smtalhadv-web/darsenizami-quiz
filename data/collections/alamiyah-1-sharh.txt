@@ -1,4 +1,4 @@
-# alamiyah-1-sharh | scraped 2026-11-02 | 48 entries
+# alamiyah-1-sharh | scraped 2026-11-02 | 49 entries
 # SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
 aen-ul-hidaya | Aen ul Hidaya Urdu Sharh Al Hidaya | عین الہدایہ اردو شرح ہدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/EainUlHidayaUrduSharhAlHidayaVol1.pdf
 ahsan-ul-hidaya | Ahsan ul Hidaya Urdu Sharh Al Hidaya | احسن الہدایہ اردو شرح ھدایہ | - | https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AhsanUlHidayaUrduSharhAlHidaya1.pdf
@@ -48,3 +48,4 @@ tohfa-tul-abqari | Tohfa tul Abqari Urdu Sharha Al Tirmizi | تحفۃ العبق
 tohfa-tul-almaee | Tohfa tul Almaee Urdu Sharha Al Tirmizi | تحفۃ الالمعی اردو شرح سنن الترمذی | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/DarsENizamiDoraEHadees8thYear/TohfatUlAlmaeeUrduSharhAlTirmiziVol1.pdf
 urdu-note-tahawi-shareef | Urdu Note Tahawi Shareef | اردو نوٹ طحاوی شریف | Maulana Muhammad Ziauddin | https://archive.org/download/DarsENizamiDoraeHadees8thYear01/NOTE_E_TAHAWI.pdf
 urdu-tarjama-sharha-maani-al-asaar | Urdu Tarjama Sharha Maani al Asaar | اردو ترجمہ طحاوی شریف | - | https://archive.org/download/BestUrduBooks11/Sharh-Maani-ul-Aasaar-Urdu-1.pdf
+zubdatul-maqsood | Zubdatul Maqsood Sharh Qala Abu Dawood | زبدۃ المقصود شرح قال ابو داؤد | Qari Muhammad Tahir Raheemi | https://archive.org/download/DarsENizamiDoraEHadees8thYear03/ZUBDATUL_MAQSOOD_SHARH_QALA_ABU_DAWUD.pdf
