@@ -23,14 +23,27 @@ jobs:
         run: node scripts/scrape-catalogue.mjs ${{ inputs.force && '--force' || '' }}
       - name: Rebuild catalogue
         run: node scripts/build-catalogue.mjs
-      - uses: peter-evans/create-pull-request@v6
-        with:
-          branch: catalogue/update
-          title: "data: refresh Dars-e-Nizami catalogue"
-          commit-message: "data: refresh catalogue from darsenizami.net"
-          body: |
-            Automated catalogue refresh.
+      - name: Show what changed
+        run: |
+          git diff --stat data/ public/ || true
+          node -e "
+            const c=require('./public/catalogue.json');
+            console.log('collections', c.stats.collectionsImported+'/'+c.stats.collectionsTotal);
+            console.log('books', c.stats.books);
+            for (const y of c.years) console.log('  ', y.id, y.bookCount, 'books');
+          "
 
-            Review the diff before merging — the source site's markup changes
-            occasionally, and malformed entries are flagged rather than dropped
-            silently (RULES R6.1, MEMORY F6).
+      - name: Commit the refreshed catalogue
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/collections public/catalogue.json public/questions.json
+          if git diff --cached --quiet; then
+            echo "No catalogue changes."
+          else
+            git commit -m "data: refresh Dars-e-Nizami catalogue from darsenizami.net
+
+          Scraped by the scrape-catalogue workflow. Malformed source entries
+          are flagged in the collection files rather than dropped (RULES R6.1)."
+            git push
+          fi
