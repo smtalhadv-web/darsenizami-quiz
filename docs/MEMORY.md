@@ -70,6 +70,35 @@ published Urdu-model number is no better.
 Nastaliq: Gemini-2.5-Pro CER 0.125, GPT-4.1 0.203, TrOCR 0.177, Kraken 0.305,
 UTRNet 0.638, Tesseract 1.420. Every non-VLM classical OCR engine is far behind.
 
+**F10. First real Gemini trial, 2026-11-02 — Tasheel un Nahw, pages 10–14,
+gemini-flash-latest, 300 dpi, 2 passes.** Infrastructure worked end to end: PDF
+fetched, rasterised, API key valid, transcription ran. Results:
+
+| | |
+|---|---|
+| pages attempted | 5 |
+| succeeded | **1** |
+| failed on HTTP 429 | **4** |
+| self-divergence on the one success | **0.779** |
+
+Two separate problems, both material:
+
+1. **Free-tier quota is the binding constraint.** 16 × 429 and 3 × 503 across
+   the run; 4 pages exhausted their retries. At 300 dpi the page images were
+   ~900 KB each, so tokens-per-minute — not request count — is what runs out.
+   Mitigated: Retry-After honoured, 8 attempts, 120s cap, 3 rpm, 200 dpi.
+
+2. **Divergence 0.779 is the alarming number.** The model transcribed the same
+   image two substantially different ways. That is the hallucination detector
+   (D18) firing hard, and it fired on the very first real page. n=1, and page 10
+   may be front matter rather than body text, so this is a warning, not a
+   verdict — but it is the opposite of reassuring.
+
+**F11. archive.org is flaky from Actions runners.** Repeated
+`curl (35) TLS connect error: unexpected eof` on the Tasheel un Nahw URL,
+through 5 retries, on a file that had downloaded fine 15 minutes earlier.
+Reinforces R6.2: store extracted text, never rely on the link staying up.
+
 ### Decisions
 
 **D1. Human approval gate — non-negotiable.**
@@ -148,7 +177,7 @@ Nastaliq fix: its pipeline backend is PaddleOCR (naskh-trained Arabic) and its
 VLM is predominantly Chinese/English. **Untested here** — F7 blocks model
 downloads. Suggested by the owner 2026-11-02.
 
-**D18. Gemini chosen for Urdu Nastaliq; implemented, untested.** Owner has
+**D18. Gemini chosen for Urdu Nastaliq; implemented, FIRST TRIAL RUN (see F10) — infrastructure works, accuracy not yet established.** Owner has
 Gemini. Stage built at `scripts/ingest/ocr-gemini.mjs` + `.github/workflows/
 ocr-trial.yml`. Key lives in an Actions secret, never in the repo or bundle.
 Two-pass self-divergence detects hallucination: a model that transcribes one
