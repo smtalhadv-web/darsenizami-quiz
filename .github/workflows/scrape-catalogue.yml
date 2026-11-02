@@ -47,3 +47,11 @@ jobs:
           are flagged in the collection files rather than dropped (RULES R6.1)."
             git push
           fi
+
+      # A push made with GITHUB_TOKEN does not trigger other workflows, so the
+      # refreshed catalogue would sit on main undeployed. Kick Pages manually.
+      - name: Deploy the refreshed catalogue
+        if: success()
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
