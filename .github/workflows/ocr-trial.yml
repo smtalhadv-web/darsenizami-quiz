@@ -1,0 +1,99 @@
+# Urdu Nastaliq OCR trial on a handful of real pages.
+#
+# Runs on GitHub's network, which can reach archive.org and the Gemini API —
+# neither is reachable from the Claude build sandbox (MEMORY F4, F7).
+#
+# The API key is an Actions secret. It never enters the repo or the client
+# bundle (RULES R4.5). Output is always state=draft (RULES R1.1).
+name: OCR trial (Urdu via Gemini)
+
+on:
+  workflow_dispatch:
+    inputs:
+      pdf_url:
+        description: PDF URL (e.g. the archive.org link from the catalogue)
+        required: true
+      first_page:
+        description: First page to transcribe
+        default: "10"
+      pages:
+        description: How many pages
+        default: "5"
+      lang:
+        description: ur (Nastaliq) or ar (Naskh)
+        default: "ur"
+      model:
+        description: Gemini model id
+        default: "gemini-flash-latest"
+
+jobs:
+  trial:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+
+      - name: Install poppler
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Fetch the PDF
+        run: |
+          mkdir -p work/pages
+          curl -sSL --max-time 300 -o work/book.pdf "${{ inputs.pdf_url }}"
+          ls -lh work/book.pdf
+          pdfinfo work/book.pdf | head -15
+
+      - name: Does it already have a text layer?
+        run: |
+          CHARS=$(pdftotext work/book.pdf - 2>/dev/null | tr -d '[:space:]' | wc -c)
+          echo "Extractable characters: $CHARS"
+          if [ "$CHARS" -gt 2000 ]; then
+            echo "::notice::This PDF HAS a text layer. OCR may be unnecessary — check quality first."
+          else
+            echo "::notice::No usable text layer. OCR required."
+          fi
+
+      - name: Rasterise the sample pages
+        run: |
+          LAST=$(( ${{ inputs.first_page }} + ${{ inputs.pages }} - 1 ))
+          pdftoppm -r 300 -png -f ${{ inputs.first_page }} -l $LAST work/book.pdf work/pages/p
+          ls -la work/pages/
+
+      - name: Transcribe
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "::error::GEMINI_API_KEY secret is not set. Add it under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          node scripts/ingest/ocr-gemini.mjs \
+            --in work/pages --out work/ocr \
+            --lang ${{ inputs.lang }} --model ${{ inputs.model }} \
+            --passes 2 --rpm 8
+
+      - name: Summarise
+        run: |
+          echo "## OCR trial" >> $GITHUB_STEP_SUMMARY
+          echo "Model: \`${{ inputs.model }}\` · lang: \`${{ inputs.lang }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| page | confidence | divergence | illegible |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|---|---|" >> $GITHUB_STEP_SUMMARY
+          node -e "
+            const r = require('./work/ocr/_report.json');
+            for (const x of r) {
+              console.log('| ' + x.file + ' | ' + (x.confidence ?? 'FAILED') + ' | ' +
+                (x.divergence?.toFixed(3) ?? '-') + ' | ' + (x.illegible ?? '-') + ' |');
+            }
+          " >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Low confidence = the model transcribed the same image two different ways, i.e. it is improvising. Review those pages against the book before trusting anything on them." >> $GITHUB_STEP_SUMMARY
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ocr-trial-output
+          path: |
+            work/ocr/
+            work/pages/
+          retention-days: 14
