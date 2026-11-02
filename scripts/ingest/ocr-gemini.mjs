@@ -97,7 +97,9 @@ async function transcribe(imgB64, mime, prompt, model, key) {
   };
 
   // Retry on rate limit and transient server errors, with backoff.
-  for (let attempt = 0; attempt < 5; attempt++) {
+  // Free-tier quota is the binding constraint in practice, so be patient:
+  // 8 attempts with Retry-After honoured beats failing the page.
+  for (let attempt = 0; attempt < 8; attempt++) {
     const res = await fetch(`${API_BASE}/${model}:generateContent`, {
       method: 'POST',
       headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
@@ -115,8 +117,12 @@ async function transcribe(imgB64, mime, prompt, model, key) {
     }
 
     if (res.status === 429 || res.status >= 500) {
-      const wait = 2 ** attempt * 2000;
-      console.warn(`  rate limited / server error (${res.status}), waiting ${wait / 1000}s`);
+      // Google returns Retry-After on quota errors; obey it when present.
+      const hdr = Number(res.headers.get('retry-after'));
+      const wait = Number.isFinite(hdr) && hdr > 0
+        ? hdr * 1000
+        : Math.min(2 ** attempt * 3000, 120000);
+      console.warn(`  ${res.status}, waiting ${Math.round(wait / 1000)}s (attempt ${attempt + 1}/8)`);
       await sleep(wait);
       continue;
     }
@@ -150,7 +156,7 @@ async function main() {
   const model = arg('model', DEFAULT_MODEL);
   const passes = Number(arg('passes', 2));
   const limit = Number(arg('limit', 0));
-  const rpm = Number(arg('rpm', 10));
+  const rpm = Number(arg('rpm', 3));
   const gap = Math.ceil(60000 / rpm);
 
   const prompt = lang === 'ar' ? PROMPT_AR : PROMPT_UR;

@@ -16,16 +16,19 @@ on:
         default: "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASHEEL%20UL%20NAHW.pdf"
       first_page:
         description: First page to transcribe
-        default: "10"
+        default: "40"
       pages:
         description: How many pages
-        default: "5"
+        default: "3"
       lang:
         description: ur (Nastaliq) or ar (Naskh)
         default: "ur"
       model:
         description: Gemini model id
         default: "gemini-flash-latest"
+      dpi:
+        description: Raster resolution. Lower = fewer tokens = less likely to hit free-tier quota.
+        default: "200"
 
 jobs:
   trial:
@@ -58,7 +61,7 @@ jobs:
       - name: Rasterise the sample pages
         run: |
           LAST=$(( ${{ inputs.first_page }} + ${{ inputs.pages }} - 1 ))
-          pdftoppm -r 300 -png -f ${{ inputs.first_page }} -l $LAST work/book.pdf work/pages/p
+          pdftoppm -r ${{ inputs.dpi }} -png -f ${{ inputs.first_page }} -l $LAST work/book.pdf work/pages/p
           ls -la work/pages/
 
       - name: Transcribe
@@ -72,7 +75,7 @@ jobs:
           node scripts/ingest/ocr-gemini.mjs \
             --in work/pages --out work/ocr \
             --lang ${{ inputs.lang }} --model ${{ inputs.model }} \
-            --passes 2 --rpm 8
+            --passes 2 --rpm 3
 
       - name: Summarise
         run: |
