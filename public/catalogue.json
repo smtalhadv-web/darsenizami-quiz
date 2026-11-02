@@ -1,0 +1,1492 @@
+{
+  "generatedAt": "2026-11-02T11:15:17.105Z",
+  "source": "https://darsenizami.net/books/darja/",
+  "streams": [
+    {
+      "id": "banin",
+      "name": {
+        "en": "Banin",
+        "ur": "بنین",
+        "ar": "بنين"
+      },
+      "years": [
+        "aula-1",
+        "sania-2",
+        "salesa-3",
+        "rabia-4",
+        "khamesa-5",
+        "sadesa-6",
+        "sabaa",
+        "dora"
+      ]
+    },
+    {
+      "id": "banat",
+      "name": {
+        "en": "Banat",
+        "ur": "بنات",
+        "ar": "بنات"
+      },
+      "years": [
+        "khasa-1",
+        "khasa-2",
+        "aliyah-1",
+        "aliyah-2",
+        "alamiyah-1",
+        "alamiyah-2"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "id": "aula-1",
+      "stream": "banin",
+      "ordinal": 1,
+      "siteCount": 92,
+      "name": {
+        "en": "Al-Aula (1st Year)",
+        "ur": "درجہ اولی",
+        "ar": "الأولى"
+      },
+      "collections": {
+        "matn": "aula-1-matn",
+        "sharh": "aula-1-sharh"
+      },
+      "imported": {
+        "matn": true,
+        "sharh": false
+      },
+      "bookCount": 39,
+      "questionCount": 8
+    },
+    {
+      "id": "sania-2",
+      "stream": "banin",
+      "ordinal": 2,
+      "siteCount": 95,
+      "name": {
+        "en": "Al-Sania (2nd Year)",
+        "ur": "درجہ ثانیہ",
+        "ar": "الثانية"
+      },
+      "collections": {
+        "matn": "sania-2-matn",
+        "sharh": "sania-2-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "salesa-3",
+      "stream": "banin",
+      "ordinal": 3,
+      "siteCount": 78,
+      "name": {
+        "en": "Al-Salesa (3rd Year)",
+        "ur": "درجہ ثالثہ",
+        "ar": "الثالثة"
+      },
+      "collections": {
+        "matn": "salesa-3-matn",
+        "sharh": "salesa-3-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "rabia-4",
+      "stream": "banin",
+      "ordinal": 4,
+      "siteCount": 72,
+      "name": {
+        "en": "Al-Rabia (4th Year)",
+        "ur": "درجہ رابعہ",
+        "ar": "الرابعة"
+      },
+      "collections": {
+        "matn": "rabia-4-matn",
+        "sharh": "rabia-4-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "khamesa-5",
+      "stream": "banin",
+      "ordinal": 5,
+      "siteCount": 80,
+      "name": {
+        "en": "Al-Khamesa (5th Year)",
+        "ur": "درجہ خامسہ",
+        "ar": "الخامسة"
+      },
+      "collections": {
+        "matn": "khamesa-5-matn",
+        "sharh": "khamesa-5-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "sadesa-6",
+      "stream": "banin",
+      "ordinal": 6,
+      "siteCount": 106,
+      "name": {
+        "en": "Al-Sadesa (6th Year)",
+        "ur": "درجہ سادسہ",
+        "ar": "السادسة"
+      },
+      "collections": {
+        "matn": "sadesa-6-matn",
+        "sharh": "sadesa-6-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "sabaa",
+      "stream": "banin",
+      "ordinal": 7,
+      "siteCount": 88,
+      "name": {
+        "en": "Maoqoof Alai (7th Year)",
+        "ur": "درجہ سابعہ",
+        "ar": "الموقوف عليه"
+      },
+      "collections": {
+        "matn": "sabaa-matn",
+        "sharh": "sabaa-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "dora",
+      "stream": "banin",
+      "ordinal": 8,
+      "siteCount": 150,
+      "name": {
+        "en": "Dora-e-Hadith (8th Year)",
+        "ur": "دورہ حدیث",
+        "ar": "دورة الحديث"
+      },
+      "collections": {
+        "matn": "dora-matn",
+        "sharh": "dora-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "khasa-1",
+      "stream": "banat",
+      "ordinal": 1,
+      "siteCount": 27,
+      "name": {
+        "en": "Banat Khasa Year 1",
+        "ur": "بنات خاصہ سال اول",
+        "ar": "بنات خاصة الأولى"
+      },
+      "collections": {
+        "matn": "khasa-1-matn",
+        "sharh": "khasa-1-sharh"
+      },
+      "imported": {
+        "matn": true,
+        "sharh": true
+      },
+      "bookCount": 27,
+      "questionCount": 4
+    },
+    {
+      "id": "khasa-2",
+      "stream": "banat",
+      "ordinal": 2,
+      "siteCount": 54,
+      "name": {
+        "en": "Banat Khasa Year 2",
+        "ur": "بنات خاصہ سال دوم",
+        "ar": "بنات خاصة الثانية"
+      },
+      "collections": {
+        "matn": "khasa-2-matn",
+        "sharh": "khasa-2-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "aliyah-1",
+      "stream": "banat",
+      "ordinal": 3,
+      "siteCount": 46,
+      "name": {
+        "en": "Banat Aliyah Year 1",
+        "ur": "بنات عالیہ سال اول",
+        "ar": "بنات عالية الأولى"
+      },
+      "collections": {
+        "matn": "aliyah-1-matn",
+        "sharh": "aliyah-1-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "aliyah-2",
+      "stream": "banat",
+      "ordinal": 4,
+      "siteCount": 46,
+      "name": {
+        "en": "Banat Aliyah Year 2",
+        "ur": "بنات عالیہ سال دوم",
+        "ar": "بنات عالية الثانية"
+      },
+      "collections": {
+        "matn": "aliyah-2-matn",
+        "sharh": "aliyah-2-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "alamiyah-1",
+      "stream": "banat",
+      "ordinal": 5,
+      "siteCount": 67,
+      "name": {
+        "en": "Banat Alamiyah Year 1",
+        "ur": "بنات عالمیہ سال اول",
+        "ar": "بنات عالمية الأولى"
+      },
+      "collections": {
+        "matn": "alamiyah-1-matn",
+        "sharh": "alamiyah-1-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "alamiyah-2",
+      "stream": "banat",
+      "ordinal": 6,
+      "siteCount": 79,
+      "name": {
+        "en": "Banat Alamiyah Year 2",
+        "ur": "بنات عالمیہ سال دوم",
+        "ar": "بنات عالمية الثانية"
+      },
+      "collections": {
+        "matn": "alamiyah-2-matn",
+        "sharh": "alamiyah-2-sharh"
+      },
+      "imported": {
+        "matn": false,
+        "sharh": false
+      },
+      "bookCount": 0,
+      "questionCount": 0
+    }
+  ],
+  "books": [
+    {
+      "id": "aula-1-matn:dn-abwab-us-sarf-jadeed",
+      "slug": "dn-abwab-us-sarf-jadeed",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Abwab us Sarf Jadeed",
+        "ur": "ابواب الصرف جدید"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-abwab-us-sarf-jadeed/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/ABWAB-UL-SARF-JADEED-URDU.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-abwab-us-sarf-jadeed-arabic",
+      "slug": "dn-abwab-us-sarf-jadeed-arabic",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Abwab us Sarf Jadeed Arabic",
+        "ur": "عربی ابواب الصرف جدید"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-abwab-us-sarf-jadeed-arabic/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/ABWAB-UL-SARF-JADEED-ARABIC.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-al-nahw-ul-wazih-3",
+      "slug": "dn-al-nahw-ul-wazih-3",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Al Nahw ul Wazih",
+        "ur": "النحو الواضح"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-al-nahw-ul-wazih-3/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20NAHW%20UL%20WAZEH%20AL%20BUSHRA.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-al-tariqat-ul-asria",
+      "slug": "dn-al-tariqat-ul-asria",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Al Tariqat ul Asria",
+        "ur": "الطریقۃ العصریۃ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-al-tariqat-ul-asria/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20TAREQA%20TUL%20ASRIYAH%20VOL%201.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:arabi-ka-muallim",
+      "slug": "arabi-ka-muallim",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Arabi Ka Muallim",
+        "ur": "عربی کا معلم"
+      },
+      "author": "Mawlawi Abdul Sattar Khan",
+      "sourceUrl": "https://darsenizami.net/books/book/arabi-ka-muallim/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/ArabiKaMuallimVol1AlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-arabi-ka-muallim-2",
+      "slug": "dn-arabi-ka-muallim-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Arabi Ka Muallim",
+        "ur": "عربی کا معلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-arabi-ka-muallim-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/ArabiKaMuallimVol1AlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-awamil-un-nahw",
+      "slug": "dn-awamil-un-nahw",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Awamil un Nahw",
+        "ur": "عوامل النحو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-awamil-un-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/AwamilUnNahwAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 1,
+      "hasDemoQuestions": true
+    },
+    {
+      "id": "aula-1-matn:dn-ilm-us-sarf-aakherain",
+      "slug": "dn-ilm-us-sarf-aakherain",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Ilm Us Sarf Aakherain",
+        "ur": "علم الصرف آخرین"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-ilm-us-sarf-aakherain/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUsSarfAakherainAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-ilm-us-sarf-aowalain",
+      "slug": "dn-ilm-us-sarf-aowalain",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Ilm Us Sarf Aowalain",
+        "ur": "علم الصرف اولین"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-ilm-us-sarf-aowalain/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUsSarfAowalainAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-ilmun-nahw",
+      "slug": "dn-ilmun-nahw",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Ilmun Nahw",
+        "ur": "علم النحو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-ilmun-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUnNahwAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-ilmun-nahw-2",
+      "slug": "dn-ilmun-nahw-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Ilmun Nahw",
+        "ur": "علم النحو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-ilmun-nahw-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/ILM%20UN%20NAHW%20QADEMI.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-iqna-uz-zamir-tareeb-nahw-mir",
+      "slug": "dn-iqna-uz-zamir-tareeb-nahw-mir",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Iqna uz Zamir Tareeb Nahw Mir",
+        "ur": "اقناع الضمیر تعریب نحومیر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-iqna-uz-zamir-tareeb-nahw-mir/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/IQNA%20UZ%20ZAMIR%20TAREEB%20NAHWMIR.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-irshad-us-sarf",
+      "slug": "dn-irshad-us-sarf",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Irshad us Sarf",
+        "ur": "ارشاد الصرف"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-irshad-us-sarf/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/IrshadUsSarf.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-irshad-us-sarf-arabic",
+      "slug": "dn-irshad-us-sarf-arabic",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Irshad us Sarf Arabic",
+        "ur": "ارشاد الصرف"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-irshad-us-sarf-arabic/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/IrshadUsSarfArabic.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-jamal-ul-quran",
+      "slug": "dn-jamal-ul-quran",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Jamal ul Quran",
+        "ur": "جمال القران"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-jamal-ul-quran/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/JamalUlQuranAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-jamal-ul-quran-2",
+      "slug": "dn-jamal-ul-quran-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Jamal ul Quran",
+        "ur": "جمال القران"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-jamal-ul-quran-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/JAMAL%20UL%20QURAN%20QADEMI.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:kaleed-e-arabi-ka-muallim",
+      "slug": "kaleed-e-arabi-ka-muallim",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Kaleed e Arabi Ka Muallim",
+        "ur": "کلید عربی کا معلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/kaleed-e-arabi-ka-muallim/",
+      "pdfUrl": "https://archive.org/download/KaleedArabiKaMuallim/Kaleed_Arabi_Ka_Muallim_1.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:karima-sadi",
+      "slug": "karima-sadi",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Karima Sadi",
+        "ur": "کریما سعدی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/karima-sadi/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/KaremaSadeeAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-nahw-meer",
+      "slug": "dn-nahw-meer",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Nahw Meer",
+        "ur": "نحو میر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-nahw-meer/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/NahwMeerAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 4,
+      "hasDemoQuestions": true
+    },
+    {
+      "id": "aula-1-matn:noor-ul-izah-2",
+      "slug": "noor-ul-izah-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Noor ul Izah",
+        "ur": "نور الایضاح و نجاۃ الارواح مکتبۃ کنوز العلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/noor-ul-izah-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/NOOR-UL-AIZAH-O-NAJAT-UL-ARWAH.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:noor-ul-izah",
+      "slug": "noor-ul-izah",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Noor ul Izah [Al Bushra]",
+        "ur": "نور الایضاح مکتبۃ البشری"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/noor-ul-izah/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/NoorUlEzahAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:noor-ul-izah-3",
+      "slug": "noor-ul-izah-3",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Noor ul Izah [Rahmania]",
+        "ur": "نور الایضاح مکتبۃ رحمانیہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/noor-ul-izah-3/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/NOOR%20UL%20EZAH%20RAHMANIA.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-pand-nama",
+      "slug": "dn-pand-nama",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Pand Nama",
+        "ur": "پند نامہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-pand-nama/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/PandNamahAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-panj-ganj",
+      "slug": "dn-panj-ganj",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Panj Ganj",
+        "ur": "پنج گنج"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-panj-ganj/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/PANJ%20GANJ.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:qanooncha-e-usmani",
+      "slug": "qanooncha-e-usmani",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Qanooncha e Usmani",
+        "ur": "قانونچہ عثمانی"
+      },
+      "author": "Maulana Fazal Mabood Usmani",
+      "sourceUrl": "https://darsenizami.net/books/book/qanooncha-e-usmani/",
+      "pdfUrl": "https://archive.org/download/q-e-usmani/QANOONCHA_E_USMANI.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-qasas-un-nabieen-2",
+      "slug": "dn-qasas-un-nabieen-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Qasas un Nabieen",
+        "ur": "قصص النبیین"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-qasas-un-nabieen-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/QASAS%20UL%20NABIYYEN%20VOL%201.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-qawaneen-e-elm-e-sarf",
+      "slug": "dn-qawaneen-e-elm-e-sarf",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Qawaneen e Elm e Sarf",
+        "ur": "قوانین علم صرف"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-qawaneen-e-elm-e-sarf/",
+      "pdfUrl": "http://www.mediafire.com/file/qgcjkf1z1p546cg/QAWANEEN-E-ELM-US-SARF.pdf/file",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-sarf-e-bahai-2",
+      "slug": "dn-sarf-e-bahai-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Sarf e Bahai",
+        "ur": "صرف بہائی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-sarf-e-bahai-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/SARF%20E%20BAHAI.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-sarf-e-meer",
+      "slug": "dn-sarf-e-meer",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Sarf e Meer",
+        "ur": "صرف میر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-sarf-e-meer/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/SarfEMeerAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 3,
+      "hasDemoQuestions": true
+    },
+    {
+      "id": "aula-1-matn:dn-sarf-e-meer-2",
+      "slug": "dn-sarf-e-meer-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Sarf e Meer",
+        "ur": "صرف میر"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-sarf-e-meer-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/SARF%20E%20MEER%20HAQQANIA.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-tadreeb-un-nahw",
+      "slug": "dn-tadreeb-un-nahw",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Tadreeb un Nahw",
+        "ur": "تدریب النحو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tadreeb-un-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TADREEB-UN-NAHW.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-tadreeb-us-sarf-2",
+      "slug": "dn-tadreeb-us-sarf-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Tadreeb us Sarf",
+        "ur": "تدریب الصرف"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tadreeb-us-sarf-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TadreebUsSarf.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-taiseer-ul-abwab",
+      "slug": "dn-taiseer-ul-abwab",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Taiseer ul Abwab",
+        "ur": "تیسیر الابواب"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taiseer-ul-abwab/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaiseerUlAbwabAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-taiseer-ul-mubtadi",
+      "slug": "dn-taiseer-ul-mubtadi",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Taiseer ul Mubtadi",
+        "ur": "تیسیر المبتدی"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taiseer-ul-mubtadi/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaiseerUlMubtadiAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-taleem-ul-mutaallim",
+      "slug": "dn-taleem-ul-mutaallim",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Taleem ul Muta'allim",
+        "ur": "تعلیم المتعلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taleem-ul-mutaallim/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TALEEM%20UL%20MUTAALLIM%20TAREQ%20UL%20TAALLUM%20RAHMANIA.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-taleem-ul-mutaallim-2",
+      "slug": "dn-taleem-ul-mutaallim-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Taleem ul Muta'allim",
+        "ur": "تعلیم المتعلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taleem-ul-mutaallim-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaleemUlMutaallimAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-taleem-un-nahw",
+      "slug": "dn-taleem-un-nahw",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Taleem un Nahw",
+        "ur": "تعلیم النحو"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taleem-un-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TaleemUnNahw.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-taleem-us-sarf",
+      "slug": "dn-taleem-us-sarf",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Taleem Us Sarf",
+        "ur": "تعلیم الصرف"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-taleem-us-sarf/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TaleemUsSarf.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "aula-1-matn:dn-tareeqa-jadida-2",
+      "slug": "dn-tareeqa-jadida-2",
+      "collection": "aula-1-matn",
+      "year": "aula-1",
+      "stream": "banin",
+      "kind": "matn",
+      "title": {
+        "en": "Tareeqa Jadida",
+        "ur": "طریقہ جدیدۃ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/dn-tareeqa-jadida-2/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TAREQAH%20JADEDAH%20VOL%201.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:al-tariqah-al-asaria",
+      "slug": "al-tariqah-al-asaria",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Al Tariqah Al Asaria",
+        "ur": "الطریقۃ العصریۃ"
+      },
+      "author": "Dr. Abdur Razzaq Askandar",
+      "sourceUrl": "https://darsenizami.net/books/book/al-tariqah-al-asaria/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20TAREQA%20TUL%20ASRIYAH%20VOL%201.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:arabi-ka-muallim",
+      "slug": "arabi-ka-muallim",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Arabi Ka Muallim",
+        "ur": "عربی کا معلم"
+      },
+      "author": "Mawlawi Abdul Sattar Khan",
+      "sourceUrl": "https://darsenizami.net/books/book/arabi-ka-muallim/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/ArabiKaMuallimVol1AlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 2,
+      "hasDemoQuestions": true
+    },
+    {
+      "id": "khasa-1-matn:awamil-un-nahw",
+      "slug": "awamil-un-nahw",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Awamil un Nahw",
+        "ur": "عوامل النحو"
+      },
+      "author": "Maulana Mushtaq Ahmad Charthawli",
+      "sourceUrl": "https://darsenizami.net/books/book/awamil-un-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/AwamilUnNahwAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:duroos-ul-quran-2",
+      "slug": "duroos-ul-quran-2",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Duroos ul Quran",
+        "ur": "دروس القرآن پارہ عم"
+      },
+      "author": "Mufti Muzammil Husain Muzaffarnagri",
+      "sourceUrl": "https://darsenizami.net/books/book/duroos-ul-quran-2/",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/DUROOS_UL_QURAN_PARA_AMMA.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:jawamiul-kalim",
+      "slug": "jawamiul-kalim",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Jawamiul Kalim",
+        "ur": "جوامع الکلم"
+      },
+      "author": "Mufti Muhammad Shafi",
+      "sourceUrl": "https://darsenizami.net/books/book/jawamiul-kalim/",
+      "pdfUrl": "https://archive.org/download/jul_24/JAWAME_UL_KALIM.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:kaleed-e-arabi-ka-muallim",
+      "slug": "kaleed-e-arabi-ka-muallim",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Kaleed e Arabi Ka Muallim",
+        "ur": "کلید عربی کا معلم"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/kaleed-e-arabi-ka-muallim/",
+      "pdfUrl": "https://archive.org/download/KaleedArabiKaMuallim/Kaleed_Arabi_Ka_Muallim_1.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:tadrees-e-quran",
+      "slug": "tadrees-e-quran",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Tadrees e Quran",
+        "ur": "تدریس قرآن"
+      },
+      "author": "Maulana Mufti Saeed Ahmad Palanpuri",
+      "sourceUrl": "https://darsenizami.net/books/book/tadrees-e-quran/",
+      "pdfUrl": "https://archive.org/download/2809_19/TADREES_E_QURAN_PARA_29.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:tamreen-us-sarf",
+      "slug": "tamreen-us-sarf",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Tamreen us Sarf",
+        "ur": "تمرین الصرف"
+      },
+      "author": "Maulana Moinullah Nadwi",
+      "sourceUrl": "https://darsenizami.net/books/book/tamreen-us-sarf/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiMutafarriq/TAMREEN_US_SARF.pdf",
+      "language": "ar",
+      "questionCount": 2,
+      "hasDemoQuestions": true
+    },
+    {
+      "id": "khasa-1-matn:tareekh-e-islam",
+      "slug": "tareekh-e-islam",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Tareekh e Islam",
+        "ur": "تاریخ اسلام"
+      },
+      "author": "Maulana Muhammad Mian",
+      "sourceUrl": "https://darsenizami.net/books/book/tareekh-e-islam/",
+      "pdfUrl": "https://archive.org/download/BESTUBOOKSTI/TAREEKH_E_ISLAM_MUKAMMAL.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-matn:zaad-al-talibeen",
+      "slug": "zaad-al-talibeen",
+      "collection": "khasa-1-matn",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "matn",
+      "title": {
+        "en": "Zaad al Talibeen",
+        "ur": "زاد الطالبین"
+      },
+      "author": "Maulana Ashiq Ilahi",
+      "sourceUrl": "https://darsenizami.net/books/book/zaad-al-talibeen/",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/ZadUlTalibeenAlBushraColor.pdf",
+      "language": "ar",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:al-hadaiq-ul-arabia",
+      "slug": "al-hadaiq-ul-arabia",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Al Hadaiq ul Arabia Urdu Sharh Al Tariqa tul Asria",
+        "ur": "الحدائق العربیہ اردو ترجمہ الطریقۃ العصریہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/al-hadaiq-ul-arabia/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlHadaiqUlArabiaUrduSharhAlTariqatulAsria.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:al-tohfatul-marziyah",
+      "slug": "al-tohfatul-marziyah",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Al Tohfatul Marziyah Urdu Tarjama Al Tariqatul Asria",
+        "ur": "التحفۃ المرضیہ اردو ترجمہ الطریقۃ العصریہ"
+      },
+      "sourceUrl": "https://darsenizami.net/books/book/al-tohfatul-marziyah/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlTohfatUlMarziahUrduTarjamaAlTariqatulAsria.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:ambar-ul-yamm",
+      "slug": "ambar-ul-yamm",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Ambar ul Yamm Urdu Tafseer Para Amm",
+        "ur": "عنبر الیم اردو تفسیر پارہ 30"
+      },
+      "author": "Maulana Abdur Rahman Jami",
+      "sourceUrl": "https://darsenizami.net/books/book/ambar-ul-yamm/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AmbarUlYamUrduTafseerParaAmm.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:darsi-tafseer",
+      "slug": "darsi-tafseer",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Darsi Tafseer Para Amm",
+        "ur": "درسی تفسیر پارہ عم"
+      },
+      "author": "Maulana Nasim Ahmad Ghazi",
+      "sourceUrl": "https://darsenizami.net/books/book/darsi-tafseer/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/DarsiTafseerUrduTafseerParaAmm.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:hadaiq-us-saliheen",
+      "slug": "hadaiq-us-saliheen",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Hadaiq us Saliheen Urdu Sharh Zaadut Talebeen",
+        "ur": "حدائق الصالحین اردو شرح زاد الطالبین"
+      },
+      "author": "Maulana Muhammad Aslam Zahid",
+      "sourceUrl": "https://darsenizami.net/books/book/hadaiq-us-saliheen/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/HadaiqUsSaleheenUrduSharhZadutTalebeen.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:ilm-us-sarf",
+      "slug": "ilm-us-sarf",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Ilm us Sarf Urdu",
+        "ur": "علم الصرف اردو"
+      },
+      "author": "Maulana Mushtaq Ahmad Charthawli",
+      "sourceUrl": "https://darsenizami.net/books/book/ilm-us-sarf/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUsSarfAowalainAlBushraColor.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:ilmun-nahw",
+      "slug": "ilmun-nahw",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Ilmun Nahw Urdu",
+        "ur": "علم النحو اردو"
+      },
+      "author": "Maulana Mushtaq Ahmad Charthawli",
+      "sourceUrl": "https://darsenizami.net/books/book/ilmun-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUnNahwAlBushraColor.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:imdad-al-talibeen",
+      "slug": "imdad-al-talibeen",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Imdad Al Talibeen Urdu Sharh Zad Al Talibeen",
+        "ur": "امداد الطالبین اردو شرح زاد الطالبین"
+      },
+      "author": "Mufti Muhammad Shoaib Ahmad",
+      "sourceUrl": "https://darsenizami.net/books/book/imdad-al-talibeen/",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IMDAD_AL_TALIBEEN_SHARH_ZAD_AL_TALIBEEN.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:irshad-ut-talibeen",
+      "slug": "irshad-ut-talibeen",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Irshad ut Talibeen Urdu Sharh Zaad ut Talibeen",
+        "ur": "ارشاد الطالبین اردو شرح زاد الطالبین"
+      },
+      "author": "Maulana Atiq ur Rahman",
+      "sourceUrl": "https://darsenizami.net/books/book/irshad-ut-talibeen/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IrshadUlTalibeen.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:kashful-gham",
+      "slug": "kashful-gham",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Kashful Gham Urdu Tafsir Para Amm",
+        "ur": "کشف الغم فی تفسیر العم"
+      },
+      "author": "Mufti Nisar Muhammad",
+      "sourceUrl": "https://darsenizami.net/books/book/kashful-gham/",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/KASHFUL_GHAM_URDU_TAFSIR_PARA_AMM.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:khulasa-tut-tajweed",
+      "slug": "khulasa-tut-tajweed",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Khulasa tut Tajweed",
+        "ur": "خلاصۃ التجوید"
+      },
+      "author": "Qari Izhar Ahmad Thanwi",
+      "sourceUrl": "https://darsenizami.net/books/book/khulasa-tut-tajweed/",
+      "pdfUrl": "https://archive.org/download/jul_24/KHULASA_TUT_TAJWEED.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:moeen-al-talibeen",
+      "slug": "moeen-al-talibeen",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Moeen al Talibeen Urdu Sharh Zad al Talibeen",
+        "ur": "معین الطالبین اردو شرح زاد الطالبین"
+      },
+      "author": "Mufti Abdul Ghafoor",
+      "sourceUrl": "https://darsenizami.net/books/book/moeen-al-talibeen/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MoeenUtTalebeenUrduSharhZadutTalebeen.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:mukhtar-ut-talibeen",
+      "slug": "mukhtar-ut-talibeen",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Mukhtar ut Talibeen Sharh Urdu Zadut Talebeen",
+        "ur": "مختار الطالبین شرح اردو زاد الطالبین"
+      },
+      "author": "Muhammad Akhtar",
+      "sourceUrl": "https://darsenizami.net/books/book/mukhtar-ut-talibeen/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MukhtarUtTalebeenUrduSharhZadutTalebeen.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:raozah-al-talibeen",
+      "slug": "raozah-al-talibeen",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Raozah al Talibeen Urdu Sharh Zaad al Talibeen",
+        "ur": "روضۃ الطالبین اردو شرح زاد الطالبین"
+      },
+      "author": "Maulana Muhammad Husain Siddiqi",
+      "sourceUrl": "https://darsenizami.net/books/book/raozah-al-talibeen/",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/RozaTutTalibeen.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:tafseel-ul-kitab",
+      "slug": "tafseel-ul-kitab",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tafseel ul Kitab Urdu",
+        "ur": "تفصیل الکتاب اردو"
+      },
+      "author": "Mufti Sadiq ul Amin",
+      "sourceUrl": "https://darsenizami.net/books/book/tafseel-ul-kitab/",
+      "pdfUrl": "https://ia600709.us.archive.org/23/items/DarsENizamiDarjaSaniah2ndYear1/TafseelUlKitabUrduTaseerParaAmm.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:taleem-ul-islam",
+      "slug": "taleem-ul-islam",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Taleem ul Islam Urdu",
+        "ur": "تعلیم الاسلام"
+      },
+      "author": "Mufti Kifayat Ullah Dehlvi",
+      "sourceUrl": "https://darsenizami.net/books/book/taleem-ul-islam/",
+      "pdfUrl": "https://archive.org/download/TaleemUlIslam/Taleem_Ul_Islam_Baitulkutub.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    },
+    {
+      "id": "khasa-1-sharh:tasheel-un-nahw",
+      "slug": "tasheel-un-nahw",
+      "collection": "khasa-1-sharh",
+      "year": "khasa-1",
+      "stream": "banat",
+      "kind": "sharh",
+      "title": {
+        "en": "Tasheel un Nahw Urdu",
+        "ur": "تسہیل النحو اردو"
+      },
+      "author": "Maulana Abdullah Gangohi",
+      "sourceUrl": "https://darsenizami.net/books/book/tasheel-un-nahw/",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASHEEL%20UL%20NAHW.pdf",
+      "language": "ur",
+      "questionCount": 0,
+      "hasDemoQuestions": false
+    }
+  ],
+  "stats": {
+    "collectionsImported": 3,
+    "collectionsTotal": 28,
+    "books": 66,
+    "questions": 12
+  }
+}

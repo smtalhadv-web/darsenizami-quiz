@@ -1,0 +1,187 @@
+[
+  {
+    "id": "demo-nm-001",
+    "bookId": "aula-1-matn:dn-nahw-meer",
+    "stem": {
+      "en": "In Arabic grammar, a word is divided into how many basic categories?",
+      "ur": "عربی قواعد میں کلمہ کی کتنی بنیادی اقسام ہیں؟",
+      "ar": "إلى كم قسم ينقسم الكلمة في النحو؟"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "Two", "ur": "دو", "ar": "قسمان" } },
+      { "id": "b", "text": { "en": "Three", "ur": "تین", "ar": "ثلاثة" } },
+      { "id": "c", "text": { "en": "Four", "ur": "چار", "ar": "أربعة" } },
+      { "id": "d", "text": { "en": "Five", "ur": "پانچ", "ar": "خمسة" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "en": "Ism (noun), fiʿl (verb) and harf (particle).",
+      "ur": "اسم، فعل اور حرف۔",
+      "ar": "اسم وفعل وحرف."
+    },
+    "source": { "bookId": "aula-1-matn:dn-nahw-meer", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-nm-002",
+    "stem": {
+      "en": "Which category of word has a meaning only in combination with another word?",
+      "ur": "کلمہ کی وہ قسم جس کا معنی دوسرے کلمہ کے ساتھ مل کر ظاہر ہو؟",
+      "ar": "أي قسم من الكلمة لا يظهر معناه إلا مع غيره؟"
+    },
+    "bookId": "aula-1-matn:dn-nahw-meer",
+    "options": [
+      { "id": "a", "text": { "en": "Ism", "ur": "اسم", "ar": "الاسم" } },
+      { "id": "b", "text": { "en": "Fiʿl", "ur": "فعل", "ar": "الفعل" } },
+      { "id": "c", "text": { "en": "Harf", "ur": "حرف", "ar": "الحرف" } },
+      { "id": "d", "text": { "en": "Murakkab", "ur": "مرکب", "ar": "المركب" } }
+    ],
+    "correctOptionId": "c",
+    "explanation": {
+      "en": "A harf carries no independent meaning; it conveys sense only with an ism or fiʿl.",
+      "ur": "حرف کا مستقل معنی نہیں ہوتا، وہ اسم یا فعل کے ساتھ مل کر معنی دیتا ہے۔",
+      "ar": "الحرف ما لا يظهر معناه إلا مع غيره."
+    },
+    "source": { "bookId": "aula-1-matn:dn-nahw-meer", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-nm-003",
+    "bookId": "aula-1-matn:dn-nahw-meer",
+    "matn": { "ar": "الفعل الماضي ما دلّ على حدث في الزمان الماضي" },
+    "stem": {
+      "en": "According to this definition, what does the past tense verb indicate?",
+      "ur": "اس تعریف کے مطابق فعل ماضی کیا ظاہر کرتا ہے؟",
+      "ar": "حسب هذا التعريف، على ماذا يدل الفعل الماضي؟"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "An event in past time", "ur": "گزرے ہوئے زمانے میں واقع ہونے والا فعل", "ar": "حدث في الزمان الماضي" } },
+      { "id": "b", "text": { "en": "An event in present time", "ur": "زمانہ حال کا فعل", "ar": "حدث في الزمان الحاضر" } },
+      { "id": "c", "text": { "en": "An event in future time", "ur": "زمانہ مستقبل کا فعل", "ar": "حدث في الزمان المستقبل" } },
+      { "id": "d", "text": { "en": "A command", "ur": "حکم", "ar": "الأمر" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "en": "The definition states it indicates an occurrence in past time.",
+      "ur": "تعریف میں ہے کہ وہ زمانہ ماضی میں واقع ہونے والے حدث پر دلالت کرتا ہے۔",
+      "ar": "التعريف ينص على الدلالة على حدث في الزمان الماضي."
+    },
+    "source": { "bookId": "aula-1-matn:dn-nahw-meer", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-nm-004",
+    "bookId": "aula-1-matn:dn-nahw-meer",
+    "stem": {
+      "en": "A sentence that can be judged true or false is called:",
+      "ur": "وہ جملہ جس میں سچ یا جھوٹ کا احتمال ہو، کہلاتا ہے:",
+      "ar": "الجملة التي تحتمل الصدق والكذب تسمى:"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "Jumla inshaʾiyya", "ur": "جملہ انشائیہ", "ar": "جملة إنشائية" } },
+      { "id": "b", "text": { "en": "Jumla khabariyya", "ur": "جملہ خبریہ", "ar": "جملة خبرية" } },
+      { "id": "c", "text": { "en": "Murakkab naqis", "ur": "مرکب ناقص", "ar": "مركب ناقص" } },
+      { "id": "d", "text": { "en": "Murakkab idafi", "ur": "مرکب اضافی", "ar": "مركب إضافي" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "en": "A khabariyya sentence reports something and so admits of truth or falsity.",
+      "ur": "جملہ خبریہ کسی بات کی خبر دیتا ہے، اس لیے اس میں صدق و کذب کا احتمال ہوتا ہے۔",
+      "ar": "الجملة الخبرية تحتمل الصدق والكذب."
+    },
+    "source": { "bookId": "aula-1-matn:dn-nahw-meer", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-sm-001",
+    "bookId": "aula-1-matn:dn-sarf-e-meer",
+    "stem": {
+      "en": "ʿIlm al-Sarf is the science concerned primarily with:",
+      "ur": "علم الصرف کا تعلق بنیادی طور پر کس چیز سے ہے؟",
+      "ar": "علم الصرف يبحث أساسًا عن:"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "The endings of words in a sentence", "ur": "جملے میں کلمات کے آخر کی حالت", "ar": "أواخر الكلمات في الجملة" } },
+      { "id": "b", "text": { "en": "The structure and derivation of single words", "ur": "مفرد کلمات کی ساخت اور اشتقاق", "ar": "بنية الكلمة المفردة واشتقاقها" } },
+      { "id": "c", "text": { "en": "The meanings of particles", "ur": "حروف کے معانی", "ar": "معاني الحروف" } },
+      { "id": "d", "text": { "en": "Rules of recitation", "ur": "تجوید کے قواعد", "ar": "أحكام التجويد" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "en": "Sarf deals with the forms of individual words; nahw deals with their endings in a sentence.",
+      "ur": "صرف مفرد کلمہ کی ساخت سے بحث کرتا ہے، اور نحو جملے میں اس کے آخر سے۔",
+      "ar": "الصرف يبحث في بنية الكلمة، والنحو في أواخرها."
+    },
+    "source": { "bookId": "aula-1-matn:dn-sarf-e-meer", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-sm-002",
+    "bookId": "aula-1-matn:dn-sarf-e-meer",
+    "stem": {
+      "en": "How many letters does the standard triliteral root pattern contain?",
+      "ur": "ثلاثی مجرد کے وزن میں کتنے حروف ہوتے ہیں؟",
+      "ar": "كم حرفًا في الثلاثي المجرد؟"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "Two", "ur": "دو", "ar": "حرفان" } },
+      { "id": "b", "text": { "en": "Three", "ur": "تین", "ar": "ثلاثة" } },
+      { "id": "c", "text": { "en": "Four", "ur": "چار", "ar": "أربعة" } },
+      { "id": "d", "text": { "en": "Six", "ur": "چھ", "ar": "ستة" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "en": "Thulathi mujarrad has three root letters, conventionally weighed as ف ع ل.",
+      "ur": "ثلاثی مجرد میں تین اصلی حروف ہوتے ہیں، جن کا وزن ف ع ل ہے۔",
+      "ar": "الثلاثي المجرد ثلاثة أحرف أصلية، ووزنه ف ع ل."
+    },
+    "source": { "bookId": "aula-1-matn:dn-sarf-e-meer", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-sm-003",
+    "bookId": "aula-1-matn:dn-sarf-e-meer",
+    "stem": {
+      "en": "Which is the conventional scale (mizan) used to weigh Arabic word patterns?",
+      "ur": "عربی اوزان کو ناپنے کے لیے کون سا میزان استعمال ہوتا ہے؟",
+      "ar": "ما الميزان الصرفي المستعمل لوزن الكلمات؟"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "ك ت ب", "ur": "ک ت ب", "ar": "ك ت ب" } },
+      { "id": "b", "text": { "en": "ف ع ل", "ur": "ف ع ل", "ar": "ف ع ل" } },
+      { "id": "c", "text": { "en": "ا ب ج", "ur": "ا ب ج", "ar": "ا ب ج" } },
+      { "id": "d", "text": { "en": "ن ص ر", "ur": "ن ص ر", "ar": "ن ص ر" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "en": "ف ع ل is the standard mizan sarfi against which patterns are measured.",
+      "ur": "ف ع ل میزانِ صرفی ہے جس پر اوزان کو تولا جاتا ہے۔",
+      "ar": "ف ع ل هو الميزان الصرفي."
+    },
+    "source": { "bookId": "aula-1-matn:dn-sarf-e-meer", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-aw-001",
+    "bookId": "aula-1-matn:dn-awamil-un-nahw",
+    "stem": {
+      "en": "An ʿamil in nahw is a word that:",
+      "ur": "نحو میں عامل وہ کلمہ ہے جو:",
+      "ar": "العامل في النحو هو ما:"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "Causes a change in the ending of another word", "ur": "دوسرے کلمے کے آخر میں تبدیلی پیدا کرے", "ar": "يُحدث تغييرًا في آخر الكلمة" } },
+      { "id": "b", "text": { "en": "Has no effect on other words", "ur": "دوسرے کلمات پر اثر نہ کرے", "ar": "لا يؤثر في غيره" } },
+      { "id": "c", "text": { "en": "Is always a verb", "ur": "ہمیشہ فعل ہو", "ar": "يكون فعلًا دائمًا" } },
+      { "id": "d", "text": { "en": "Cannot begin a sentence", "ur": "جملے کے شروع میں نہ آ سکے", "ar": "لا يقع في أول الجملة" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "en": "The ʿamil governs the maʿmul, producing raf', nasb, jarr or jazm in its ending.",
+      "ur": "عامل معمول میں رفع، نصب، جر یا جزم پیدا کرتا ہے۔",
+      "ar": "العامل يُحدث في المعمول رفعًا أو نصبًا أو جرًّا أو جزمًا."
+    },
+    "source": { "bookId": "aula-1-matn:dn-awamil-un-nahw", "section": "—" },
+    "origin": "demo-unverified"
+  }
+]

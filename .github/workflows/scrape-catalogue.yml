@@ -1,0 +1,36 @@
+# Fills data/collections/*.txt from darsenizami.net and opens a PR.
+# Runs on GitHub's network, which can reach the source site and archive.org
+# (MEMORY F4) — unlike a local sandbox.
+name: Scrape catalogue
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Re-fetch collections already on disk
+        type: boolean
+        default: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions: { contents: write, pull-requests: write }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Scrape collection pages
+        run: node scripts/scrape-catalogue.mjs ${{ inputs.force && '--force' || '' }}
+      - name: Rebuild catalogue
+        run: node scripts/build-catalogue.mjs
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          branch: catalogue/update
+          title: "data: refresh Dars-e-Nizami catalogue"
+          commit-message: "data: refresh catalogue from darsenizami.net"
+          body: |
+            Automated catalogue refresh.
+
+            Review the diff before merging — the source site's markup changes
+            occasionally, and malformed entries are flagged rather than dropped
+            silently (RULES R6.1, MEMORY F6).

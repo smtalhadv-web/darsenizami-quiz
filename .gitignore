@@ -5,6 +5,8 @@ dist/
 *.pdf
 *.jpg
 *.png
+!public/*.png
 !docs/**/*.png
 .cache/
 .DS_Store
+dist/

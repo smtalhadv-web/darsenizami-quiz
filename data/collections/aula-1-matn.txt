@@ -1,0 +1,44 @@
+# aula-1-matn | Al-Aula (1st Year) — Mutun | scraped 2026-11-02 | 41 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+dn-abwab-us-sarf-jadeed | Abwab us Sarf Jadeed | ابواب الصرف جدید | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/ABWAB-UL-SARF-JADEED-URDU.pdf
+dn-abwab-us-sarf-jadeed-arabic | Abwab us Sarf Jadeed Arabic | عربی ابواب الصرف جدید | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/ABWAB-UL-SARF-JADEED-ARABIC.pdf
+dn-al-nahw-ul-wazih-3 | Al Nahw ul Wazih | النحو الواضح | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20NAHW%20UL%20WAZEH%20AL%20BUSHRA.pdf
+dn-al-tariqat-ul-asria | Al Tariqat ul Asria | الطریقۃ العصریۃ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20TAREQA%20TUL%20ASRIYAH%20VOL%201.pdf
+arabi-ka-muallim | Arabi Ka Muallim | عربی کا معلم | Mawlawi Abdul Sattar Khan | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/ArabiKaMuallimVol1AlBushraColor.pdf
+dn-arabi-ka-muallim-2 | Arabi Ka Muallim | عربی کا معلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/ArabiKaMuallimVol1AlBushraColor.pdf
+dn-awamil-un-nahw | Awamil un Nahw | عوامل النحو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/AwamilUnNahwAlBushraColor.pdf
+dn-ilm-us-sarf-aakherain | Ilm Us Sarf Aakherain | علم الصرف آخرین | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUsSarfAakherainAlBushraColor.pdf
+dn-ilm-us-sarf-aowalain | Ilm Us Sarf Aowalain | علم الصرف اولین | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUsSarfAowalainAlBushraColor.pdf
+dn-ilmun-nahw | Ilmun Nahw | علم النحو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUnNahwAlBushraColor.pdf
+dn-ilmun-nahw-2 | Ilmun Nahw | علم النحو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/ILM%20UN%20NAHW%20QADEMI.pdf
+dn-iqna-uz-zamir-tareeb-nahw-mir | Iqna uz Zamir Tareeb Nahw Mir | اقناع الضمیر تعریب نحومیر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/IQNA%20UZ%20ZAMIR%20TAREEB%20NAHWMIR.pdf
+dn-irshad-us-sarf | Irshad us Sarf | ارشاد الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/IrshadUsSarf.pdf
+dn-irshad-us-sarf-arabic | Irshad us Sarf Arabic | ارشاد الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/IrshadUsSarfArabic.pdf
+dn-jamal-ul-quran | Jamal ul Quran | جمال القران | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/JamalUlQuranAlBushraColor.pdf
+dn-jamal-ul-quran-2 | Jamal ul Quran | جمال القران | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/JAMAL%20UL%20QURAN%20QADEMI.pdf
+kaleed-e-arabi-ka-muallim | Kaleed e Arabi Ka Muallim | کلید عربی کا معلم | - | https://archive.org/download/KaleedArabiKaMuallim/Kaleed_Arabi_Ka_Muallim_1.pdf
+karima-sadi | Karima Sadi | کریما سعدی | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/KaremaSadeeAlBushraColor.pdf
+dn-nahw-meer | Nahw Meer | نحو میر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/NahwMeerAlBushraColor.pdf
+noor-ul-izah-2 | Noor ul Izah | نور الایضاح و نجاۃ الارواح مکتبۃ کنوز العلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/NOOR-UL-AIZAH-O-NAJAT-UL-ARWAH.pdf
+noor-ul-izah | Noor ul Izah [Al Bushra] | نور الایضاح مکتبۃ البشری | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/NoorUlEzahAlBushraColor.pdf
+noor-ul-izah-3 | Noor ul Izah [Rahmania] | نور الایضاح مکتبۃ رحمانیہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/NOOR%20UL%20EZAH%20RAHMANIA.pdf
+dn-pand-nama | Pand Nama | پند نامہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/PandNamahAlBushraColor.pdf
+dn-panj-ganj | Panj Ganj | پنج گنج | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/PANJ%20GANJ.pdf
+qanooncha-e-usmani | Qanooncha e Usmani | قانونچہ عثمانی | Maulana Fazal Mabood Usmani | https://archive.org/download/q-e-usmani/QANOONCHA_E_USMANI.pdf
+dn-qasas-un-nabieen-2 | Qasas un Nabieen | قصص النبیین | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/QASAS%20UL%20NABIYYEN%20VOL%201.pdf
+dn-qawaneen-e-elm-e-sarf | Qawaneen e Elm e Sarf | قوانین علم صرف | - | http://www.mediafire.com/file/qgcjkf1z1p546cg/QAWANEEN-E-ELM-US-SARF.pdf/file
+dn-sarf-e-bahai-2 | Sarf e Bahai | صرف بہائی | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/SARF%20E%20BAHAI.pdf
+dn-sarf-e-meer | Sarf e Meer | صرف میر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/SarfEMeerAlBushraColor.pdf
+dn-sarf-e-meer-2 | Sarf e Meer | صرف میر | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/SARF%20E%20MEER%20HAQQANIA.pdf
+dn-tadreeb-un-nahw | Tadreeb un Nahw | تدریب النحو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TADREEB-UN-NAHW.pdf
+dn-tadreeb-us-sarf-2 | Tadreeb us Sarf | تدریب الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TadreebUsSarf.pdf
+dn-taiseer-ul-abwab | Taiseer ul Abwab | تیسیر الابواب | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaiseerUlAbwabAlBushraColor.pdf
+dn-taiseer-ul-mubtadi | Taiseer ul Mubtadi | تیسیر المبتدی | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaiseerUlMubtadiAlBushraColor.pdf
+dn-taleem-ul-mutaallim | Taleem ul Muta'allim | تعلیم المتعلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TALEEM%20UL%20MUTAALLIM%20TAREQ%20UL%20TAALLUM%20RAHMANIA.pdf
+dn-taleem-ul-mutaallim-2 | Taleem ul Muta'allim | تعلیم المتعلم | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/TaleemUlMutaallimAlBushraColor.pdf
+dn-taleem-un-nahw | Taleem un Nahw | تعلیم النحو | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TaleemUnNahw.pdf
+dn-taleem-us-sarf | Taleem Us Sarf | تعلیم الصرف | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TaleemUsSarf.pdf
+dn-tareeqa-jadida-2 | Tareeqa Jadida | طریقہ جدیدۃ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TAREQAH%20JADEDAH%20VOL%201.pdf
+# FLAGGED — malformed entries on the source site (MEMORY F6); excluded from the catalogue
+# dn-d-ownload-12mb | D ownload (12MB) | - | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/DURR_E_BENAZIR_SHARH_NAHWAMIR.pdf
+# dn-d-ownload-7mb-2 | D ownload (7MB) | - | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/REEHUL_ABEER_SHARH_E_NAHWAMIR.pdf

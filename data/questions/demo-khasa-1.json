@@ -1,0 +1,94 @@
+[
+  {
+    "id": "demo-tsm-001",
+    "bookId": "khasa-1-matn:tamreen-us-sarf",
+    "stem": {
+      "en": "The maṣdar is best described as:",
+      "ur": "مصدر کی بہترین تعریف کیا ہے؟",
+      "ar": "ما تعريف المصدر؟"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "The noun indicating an event without reference to time", "ur": "وہ اسم جو بغیر زمانے کے حدث پر دلالت کرے", "ar": "اسم يدل على الحدث دون زمان" } },
+      { "id": "b", "text": { "en": "A verb indicating past time", "ur": "زمانہ ماضی پر دلالت کرنے والا فعل", "ar": "فعل يدل على الزمان الماضي" } },
+      { "id": "c", "text": { "en": "A particle joining two nouns", "ur": "دو اسموں کو ملانے والا حرف", "ar": "حرف يربط بين اسمين" } },
+      { "id": "d", "text": { "en": "The subject of a nominal sentence", "ur": "جملہ اسمیہ کا مبتدا", "ar": "مبتدأ الجملة الاسمية" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "en": "The masdar names the action itself, carrying no tense; verbs add time to it.",
+      "ur": "مصدر صرف حدث کا نام ہے، اس میں زمانہ نہیں ہوتا؛ افعال اس میں زمانہ کا اضافہ کرتے ہیں۔",
+      "ar": "المصدر اسم الحدث الخالي من الزمان."
+    },
+    "source": { "bookId": "khasa-1-matn:tamreen-us-sarf", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-tsm-002",
+    "bookId": "khasa-1-matn:tamreen-us-sarf",
+    "stem": {
+      "en": "Which of these is a sahih (sound) root, containing no weak letter?",
+      "ur": "ان میں سے کون سا صحیح مادہ ہے جس میں حرف علت نہ ہو؟",
+      "ar": "أي هذه الجذور صحيح لا حرف علة فيه؟"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "و ع د", "ur": "و ع د", "ar": "و ع د" } },
+      { "id": "b", "text": { "en": "ق و ل", "ur": "ق و ل", "ar": "ق و ل" } },
+      { "id": "c", "text": { "en": "ن ص ر", "ur": "ن ص ر", "ar": "ن ص ر" } },
+      { "id": "d", "text": { "en": "ر م ي", "ur": "ر م ی", "ar": "ر م ي" } }
+    ],
+    "correctOptionId": "c",
+    "explanation": {
+      "en": "The weak letters are ا، و، ي. Only ن ص ر contains none of them.",
+      "ur": "حروف علت ا، و، ی ہیں۔ صرف ن ص ر میں ان میں سے کوئی نہیں۔",
+      "ar": "حروف العلة ا و ي، ولا توجد في ن ص ر."
+    },
+    "source": { "bookId": "khasa-1-matn:tamreen-us-sarf", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-am-001",
+    "bookId": "khasa-1-matn:arabi-ka-muallim",
+    "stem": {
+      "en": "In a jumla ismiyya, the first element is called:",
+      "ur": "جملہ اسمیہ میں پہلا جزو کہلاتا ہے:",
+      "ar": "الجزء الأول من الجملة الاسمية يسمى:"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "Mubtadaʾ", "ur": "مبتدا", "ar": "المبتدأ" } },
+      { "id": "b", "text": { "en": "Khabar", "ur": "خبر", "ar": "الخبر" } },
+      { "id": "c", "text": { "en": "Fiʿl", "ur": "فعل", "ar": "الفعل" } },
+      { "id": "d", "text": { "en": "Fāʿil", "ur": "فاعل", "ar": "الفاعل" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "en": "A nominal sentence opens with the mubtada', about which the khabar reports.",
+      "ur": "جملہ اسمیہ مبتدا سے شروع ہوتا ہے، اور خبر اس کے بارے میں اطلاع دیتی ہے۔",
+      "ar": "الجملة الاسمية تبدأ بالمبتدأ ويخبر عنه بالخبر."
+    },
+    "source": { "bookId": "khasa-1-matn:arabi-ka-muallim", "section": "—" },
+    "origin": "demo-unverified"
+  },
+  {
+    "id": "demo-am-002",
+    "bookId": "khasa-1-matn:arabi-ka-muallim",
+    "stem": {
+      "en": "Which case ending does the fāʿil normally take?",
+      "ur": "فاعل عام طور پر کس حالت میں ہوتا ہے؟",
+      "ar": "ما إعراب الفاعل في الأصل؟"
+    },
+    "options": [
+      { "id": "a", "text": { "en": "Nasb", "ur": "نصب", "ar": "النصب" } },
+      { "id": "b", "text": { "en": "Rafʿ", "ur": "رفع", "ar": "الرفع" } },
+      { "id": "c", "text": { "en": "Jarr", "ur": "جر", "ar": "الجر" } },
+      { "id": "d", "text": { "en": "Jazm", "ur": "جزم", "ar": "الجزم" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "en": "The fa'il is marfu'; the maf'ul bihi is mansub.",
+      "ur": "فاعل مرفوع ہوتا ہے اور مفعول بہ منصوب۔",
+      "ar": "الفاعل مرفوع والمفعول به منصوب."
+    },
+    "source": { "bookId": "khasa-1-matn:arabi-ka-muallim", "section": "—" },
+    "origin": "demo-unverified"
+  }
+]

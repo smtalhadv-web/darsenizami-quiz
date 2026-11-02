@@ -1,0 +1,19 @@
+# khasa-1-sharh | Banat Khasa Year 1 — Shuroohat | scraped 2026-11-02 | 17 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+al-hadaiq-ul-arabia | Al Hadaiq ul Arabia Urdu Sharh Al Tariqa tul Asria | الحدائق العربیہ اردو ترجمہ الطریقۃ العصریہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlHadaiqUlArabiaUrduSharhAlTariqatulAsria.pdf
+al-tohfatul-marziyah | Al Tohfatul Marziyah Urdu Tarjama Al Tariqatul Asria | التحفۃ المرضیہ اردو ترجمہ الطریقۃ العصریہ | - | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AlTohfatUlMarziahUrduTarjamaAlTariqatulAsria.pdf
+ambar-ul-yamm | Ambar ul Yamm Urdu Tafseer Para Amm | عنبر الیم اردو تفسیر پارہ 30 | Maulana Abdur Rahman Jami | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AmbarUlYamUrduTafseerParaAmm.pdf
+darsi-tafseer | Darsi Tafseer Para Amm | درسی تفسیر پارہ عم | Maulana Nasim Ahmad Ghazi | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/DarsiTafseerUrduTafseerParaAmm.pdf
+hadaiq-us-saliheen | Hadaiq us Saliheen Urdu Sharh Zaadut Talebeen | حدائق الصالحین اردو شرح زاد الطالبین | Maulana Muhammad Aslam Zahid | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/HadaiqUsSaleheenUrduSharhZadutTalebeen.pdf
+ilm-us-sarf | Ilm us Sarf Urdu | علم الصرف اردو | Maulana Mushtaq Ahmad Charthawli | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUsSarfAowalainAlBushraColor.pdf
+ilmun-nahw | Ilmun Nahw Urdu | علم النحو اردو | Maulana Mushtaq Ahmad Charthawli | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/IlmUnNahwAlBushraColor.pdf
+imdad-al-talibeen | Imdad Al Talibeen Urdu Sharh Zad Al Talibeen | امداد الطالبین اردو شرح زاد الطالبین | Mufti Muhammad Shoaib Ahmad | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IMDAD_AL_TALIBEEN_SHARH_ZAD_AL_TALIBEEN.pdf
+irshad-ut-talibeen | Irshad ut Talibeen Urdu Sharh Zaad ut Talibeen | ارشاد الطالبین اردو شرح زاد الطالبین | Maulana Atiq ur Rahman | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IrshadUlTalibeen.pdf
+kashful-gham | Kashful Gham Urdu Tafsir Para Amm | کشف الغم فی تفسیر العم | Mufti Nisar Muhammad | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/KASHFUL_GHAM_URDU_TAFSIR_PARA_AMM.pdf
+khulasa-tut-tajweed | Khulasa tut Tajweed | خلاصۃ التجوید | Qari Izhar Ahmad Thanwi | https://archive.org/download/jul_24/KHULASA_TUT_TAJWEED.pdf
+moeen-al-talibeen | Moeen al Talibeen Urdu Sharh Zad al Talibeen | معین الطالبین اردو شرح زاد الطالبین | Mufti Abdul Ghafoor | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MoeenUtTalebeenUrduSharhZadutTalebeen.pdf
+mukhtar-ut-talibeen | Mukhtar ut Talibeen Sharh Urdu Zadut Talebeen | مختار الطالبین شرح اردو زاد الطالبین | Muhammad Akhtar | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MukhtarUtTalebeenUrduSharhZadutTalebeen.pdf
+raozah-al-talibeen | Raozah al Talibeen Urdu Sharh Zaad al Talibeen | روضۃ الطالبین اردو شرح زاد الطالبین | Maulana Muhammad Husain Siddiqi | https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/RozaTutTalibeen.pdf
+tafseel-ul-kitab | Tafseel ul Kitab Urdu | تفصیل الکتاب اردو | Mufti Sadiq ul Amin | https://ia600709.us.archive.org/23/items/DarsENizamiDarjaSaniah2ndYear1/TafseelUlKitabUrduTaseerParaAmm.pdf
+taleem-ul-islam | Taleem ul Islam Urdu | تعلیم الاسلام | Mufti Kifayat Ullah Dehlvi | https://archive.org/download/TaleemUlIslam/Taleem_Ul_Islam_Baitulkutub.pdf
+tasheel-un-nahw | Tasheel un Nahw Urdu | تسہیل النحو اردو | Maulana Abdullah Gangohi | https://archive.org/download/DarsENizami_DarjaAula_1stYear/TASHEEL%20UL%20NAHW.pdf

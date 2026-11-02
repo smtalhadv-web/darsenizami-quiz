@@ -1,0 +1,12 @@
+# khasa-1-matn | Banat Khasa Year 1 — Mutun | scraped 2026-11-02 | 10 entries
+# SLUG | EN TITLE | UR TITLE | AUTHOR | PDF_URL
+al-tariqah-al-asaria | Al Tariqah Al Asaria | الطریقۃ العصریۃ | Dr. Abdur Razzaq Askandar | https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20TAREQA%20TUL%20ASRIYAH%20VOL%201.pdf
+arabi-ka-muallim | Arabi Ka Muallim | عربی کا معلم | Mawlawi Abdul Sattar Khan | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/ArabiKaMuallimVol1AlBushraColor.pdf
+awamil-un-nahw | Awamil un Nahw | عوامل النحو | Maulana Mushtaq Ahmad Charthawli | https://archive.org/download/DarsENizami_DarjaAula_1stYear_02/AwamilUnNahwAlBushraColor.pdf
+duroos-ul-quran-2 | Duroos ul Quran | دروس القرآن پارہ عم | Mufti Muzammil Husain Muzaffarnagri | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/DUROOS_UL_QURAN_PARA_AMMA.pdf
+jawamiul-kalim | Jawamiul Kalim | جوامع الکلم | Mufti Muhammad Shafi | https://archive.org/download/jul_24/JAWAME_UL_KALIM.pdf
+kaleed-e-arabi-ka-muallim | Kaleed e Arabi Ka Muallim | کلید عربی کا معلم | - | https://archive.org/download/KaleedArabiKaMuallim/Kaleed_Arabi_Ka_Muallim_1.pdf
+tadrees-e-quran | Tadrees e Quran | تدریس قرآن | Maulana Mufti Saeed Ahmad Palanpuri | https://archive.org/download/2809_19/TADREES_E_QURAN_PARA_29.pdf
+tamreen-us-sarf | Tamreen us Sarf | تمرین الصرف | Maulana Moinullah Nadwi | https://archive.org/download/DarsENizamiMutafarriq/TAMREEN_US_SARF.pdf
+tareekh-e-islam | Tareekh e Islam | تاریخ اسلام | Maulana Muhammad Mian | https://archive.org/download/BESTUBOOKSTI/TAREEKH_E_ISLAM_MUKAMMAL.pdf
+zaad-al-talibeen | Zaad al Talibeen | زاد الطالبین | Maulana Ashiq Ilahi | https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/ZadUlTalibeenAlBushraColor.pdf
