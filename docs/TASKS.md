@@ -107,15 +107,25 @@ Legend: `[ ]` todo · `[~]` in progress · `[x]` done · `[!]` blocked
 
 ## Phase 8 — Ingestion pipeline
 
+Revised 2026-11-02 after measuring OCR accuracy (MEMORY F8, F9; ARCH §5.1).
+Tesseract-for-Urdu is removed from the plan; it was measured at CER 1.41.
+
 - [ ] 8.1 Stage 1 fetch: download PDF, checksum, store pages
 - [ ] 8.2 Stage 2 classify: text layer? scanned? script?
-- [ ] 8.3 Stage 3 OCR: tesseract ara/urd; skip where a text layer exists
-- [ ] 8.4 **Measure OCR accuracy on 5 Arabic and 5 Urdu books; publish the numbers**
-- [ ] 8.5 Decide go/no-go per script from 8.4 — Urdu may be dropped on evidence
-- [ ] 8.6 Stage 4 segment into passages with page numbers
-- [ ] 8.7 Stage 5 draft via template extraction (ARCHITECTURE §5 option 1)
-- [ ] 8.8 Stage 6 queue as `draft` with confidence + ocr_language
-- [ ] 8.9 Actions workflow, resumable stages, artefacts retained
+- [ ] 8.3 Stage 3 layout via **MinerU** — regions, reading order, matn vs hashiya
+- [ ] 8.4 **Evaluate MinerU on 5 real scanned pages** — can it separate matn from
+      hashiya on a madrasa edition? Blocked in the sandbox (MEMORY F7); must run
+      on Actions or the owner's machine
+- [ ] 8.5 Stage 4a Arabic recognition: Tesseract `ara` + preprocessing
+      (deskew, binarise, denoise); target CER < 0.25 on real scans
+- [ ] 8.6 **Measure Arabic CER on 5 real scans.** Clean-text CER was 0.140;
+      real scans will be worse. Go/no-go threshold to be set before measuring,
+      not after
+- [ ] 8.7 Stage 4b Urdu recognition: **blocked on D17** — needs a VLM decision
+- [ ] 8.8 Stage 5 segment into passages with page numbers
+- [ ] 8.9 Stage 6 draft via template extraction (ARCH §5.3 option 1)
+- [ ] 8.10 Stage 7 queue as `draft` with confidence + ocr_language
+- [ ] 8.11 Actions workflow, resumable stages, artefacts retained
 
 ## Phase 9 — Admin and review
 
@@ -141,8 +151,10 @@ Legend: `[ ]` todo · `[~]` in progress · `[x]` done · `[!]` blocked
 | # | Item | Needs |
 |---|---|---|
 | B1 | archive.org unreachable from the build sandbox | Fetching happens in Actions, or owner supplies text |
-| B2 | Urdu nastaliq OCR viability unproven | Measurement at 8.4 decides; may drop Urdu |
+| B2 | ~~Urdu nastaliq OCR viability unproven~~ **RESOLVED: Tesseract measured at CER 1.41, unusable** | Urdu now needs a VLM — see B7 |
 | B3 | Drafting method | Template extraction first; revisit with review data |
 | B4 | Pass mark — uniform or per book? | Owner |
 | B5 | Who else gets reviewer access? | Owner |
 | B6 | Result sheet shareable to WhatsApp? | Owner |
+| B7 | Urdu VLM vs zero-cost conflict (MEMORY D17) | Owner |
+| B8 | MinerU layout quality on real madrasa scans | Must run outside the sandbox |

@@ -234,17 +234,77 @@ A GitHub Actions workflow, dispatched manually or by an admin action.
    │
    ├─ 1 fetch      download PDF, checksum, store page images
    ├─ 2 classify   text layer present? scanned? script = ar | ur?
-   ├─ 3 ocr        tesseract (ara / urd traineddata); skip if text layer exists
-   ├─ 4 segment    split into passages with page numbers
-   ├─ 5 draft      passage → candidate MCQs
-   └─ 6 queue      insert as state='draft' with confidence + ocr_language
+   ├─ 3 layout     MinerU — page regions, reading order, matn vs hashiya
+   ├─ 4 recognise  Arabic → OCR engine;  Urdu → VLM  (see §5.1)
+   ├─ 5 segment    split into passages with page numbers
+   ├─ 6 draft      passage → candidate MCQs
+   └─ 7 queue      insert as state='draft' with confidence + ocr_language
 ```
+
+### 5.1 Recognition — measured, not assumed
+
+Measured here on 2026-11-02, rendering known text to clean images and scoring
+Tesseract against it. Clean synthetic text is the easiest possible input —
+far easier than a 20th-century Pakistani print scan — so these are **upper
+bounds on quality, not estimates of it**:
+
+| Script | Engine | CER | WER | Verdict |
+|---|---|---|---|---|
+| Arabic naskh | Tesseract `ara` | **0.140** | 0.444 | Usable with review |
+| Urdu nastaliq | Tesseract `ara` | **1.411** | 1.000 | Total failure |
+
+The Urdu output was repeating `لالالا` — not degraded text, noise. CER above
+1.0 means more errors than characters. This reproduces the LREC 2026 figure for
+Tesseract on Nastaliq (CER 1.420) almost exactly.
+
+Note this machine has no `urd` traineddata at all (22 languages installed, Urdu
+not among them), so the Urdu run used the Arabic model. The published Urdu-model
+figure is no better.
+
+**Conclusion: Tesseract is dead for Urdu. It stays for Arabic.**
+
+Published comparison on printed Nastaliq books (LREC 2026, OpenITI set):
+
+| System | WER | CER |
+|---|---|---|
+| Gemini-2.5-Pro | 0.303 | 0.125 |
+| GPT-4.1 | 0.443 | 0.203 |
+| TrOCR | 0.451 | 0.177 |
+| Kraken | 0.626 | 0.305 |
+| UTRNet | 0.862 | 0.638 |
+| Tesseract | 1.567 | 1.420 |
+
+Only a vision-language model reaches usable accuracy on Nastaliq. That is a real
+conflict with the zero-cost constraint (PRD §7) and is recorded as such — it is
+not resolved by wishing.
+
+### 5.2 MinerU — adopted for layout, not for recognition
+
+MinerU solves a problem this design previously under-weighted. Madrasa editions
+rarely put one text on a page: the matn sits in a centre box with the sharh or
+hashiya wrapped around it, plus marginal notes and footnotes. Naive full-page
+OCR interleaves all of that into nonsense, and no amount of recognition accuracy
+repairs it — the reading order is already wrong.
+
+MinerU does layout detection, region classification and reading-order
+reconstruction, which is exactly that problem, runs on CPU, and is Apache-2.0
+based. It is adopted for stage 3.
+
+It is **not** the Nastaliq fix. Its pipeline recognition backend is PaddleOCR,
+whose Arabic model is naskh-trained; its own VLM is trained predominantly on
+Chinese and English documents. Neither is evidence of Nastaliq capability.
+
+**Unverified:** MinerU could not be tested in the build sandbox — Hugging Face
+is network-blocked there, so its models cannot be downloaded (MEMORY F7).
+Whether its VLM backend handles Nastaliq is an open measurement, not a claim.
 
 Stages write intermediate artefacts, so stage 5 can be re-run without
 re-downloading or re-OCRing. Each stage is a separate script with a file-in /
 file-out contract, runnable locally.
 
-**Step 5 is the honest part.** Drafting genuine comprehension questions from a
+### 5.3 Drafting
+
+**Step 6 is the honest part.** Drafting genuine comprehension questions from a
 passage needs a language model, and a free model good enough for classical Arabic
 grammar is not a given. Options, to be decided before phase 2 begins:
 

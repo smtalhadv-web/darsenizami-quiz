@@ -45,6 +45,31 @@ the site. Duplicate titles are common (two "Sarf e Meer", two "Ilmun Nahw", two
 not assume title uniqueness, and malformed entries need flagging rather than
 silent inclusion.
 
+**F7. Hugging Face is blocked from the build sandbox too.** `CONNECT tunnel
+failed, 403` for huggingface.co, same as archive.org. pypi and npm are
+reachable. Consequence: any tool that downloads models at runtime — MinerU,
+PaddleOCR, TrOCR, UTRNet — **cannot be run or evaluated here at all**. Model-based
+work must happen on GitHub Actions or the owner's machine.
+
+**F8. Measured OCR accuracy, 2026-11-02.** Rendered known Arabic and Urdu lines
+to clean images with Noto Naskh / Noto Nastaliq and scored Tesseract against the
+source text. Clean synthetic text is the easiest possible input, so these are
+upper bounds, not expectations for real scans:
+
+| Script | Engine | CER | WER |
+|---|---|---|---|
+| Arabic naskh | Tesseract `ara` | 0.140 | 0.444 |
+| Urdu nastaliq | Tesseract `ara` | 1.411 | 1.000 |
+
+Urdu output was repeating `لالالا` — noise, not degraded text. This reproduces
+the LREC 2026 published figure (CER 1.420) almost exactly. This box has no `urd`
+traineddata (22 languages, Urdu absent), so the Arabic model was used; the
+published Urdu-model number is no better.
+
+**F9. Only VLMs reach usable Nastaliq accuracy.** LREC 2026 benchmark on printed
+Nastaliq: Gemini-2.5-Pro CER 0.125, GPT-4.1 0.203, TrOCR 0.177, Kraken 0.305,
+UTRNet 0.638, Tesseract 1.420. Every non-VLM classical OCR engine is far behind.
+
 ### Decisions
 
 **D1. Human approval gate — non-negotiable.**
@@ -109,6 +134,27 @@ First drafting pass uses patterns (باب, فصل, numbered lists, definition
 formulae) rather than a model. Predictable and free; wastes less reviewer time
 than a creative generator that hallucinates. Revisit once real accept/reject
 data exists.
+
+**D15. Tesseract is dropped for Urdu, kept for Arabic.** Supersedes the part of
+D2 that assumed Tesseract could do Urdu at all. Evidence: F8, F9. Arabic naskh
+at CER 0.14 on clean text is reviewable; Urdu at CER 1.41 is noise. This is now
+measured, not predicted.
+
+**D16. MinerU adopted for layout, not for recognition.** Madrasa editions
+interleave matn and hashiya on one page; naive full-page OCR destroys reading
+order before recognition accuracy even matters. MinerU does layout detection and
+reading-order reconstruction, runs on CPU, Apache-2.0 based. It is not a
+Nastaliq fix: its pipeline backend is PaddleOCR (naskh-trained Arabic) and its
+VLM is predominantly Chinese/English. **Untested here** — F7 blocks model
+downloads. Suggested by the owner 2026-11-02.
+
+**D17. Urdu needs a VLM, which conflicts with zero cost — unresolved.**
+Recorded as an open conflict rather than papered over. Candidate resolutions,
+none yet chosen: (a) Gemini free-tier quota, accepting an external dependency
+and rate limits; (b) a local VLM on Actions CPU via MinerU's llama.cpp backend,
+free but slow and unproven on Nastaliq; (c) Urdu shuroohat stay hand-authored
+indefinitely. Volume is bounded because every question is human-reviewed anyway
+(D1), so free-tier quotas may suffice. Needs the owner's decision.
 
 **D14. Western Arabic numerals (1,2,3) in all locales** for timers and counters.
 Eastern Arabic-Indic numerals render inconsistently across Android fonts;
