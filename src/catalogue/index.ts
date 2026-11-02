@@ -35,7 +35,6 @@ export interface CatalogueStream {
 }
 
 export interface Catalogue {
-  generatedAt: string;
   source: string;
   streams: CatalogueStream[];
   years: CatalogueYear[];

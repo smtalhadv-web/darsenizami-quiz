@@ -119,8 +119,9 @@ async function main() {
     };
   });
 
+  // No build timestamp: the output must be byte-identical for identical
+  // input, so CI can assert the committed catalogue is up to date.
   const catalogue = {
-    generatedAt: new Date().toISOString(),
     source: 'https://darsenizami.net/books/darja/',
     streams: STREAMS.map((s) => ({ ...s, years: yearsOut.filter((y) => y.stream === s.id).map((y) => y.id) })),
     years: yearsOut,
